@@ -1,0 +1,10 @@
+{
+  "name": "eu-gas-inventory",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "build:data:sample": "node scripts/build-data.mjs --sample",
+    "build:data": "node scripts/build-data.mjs"
+  }
+}
