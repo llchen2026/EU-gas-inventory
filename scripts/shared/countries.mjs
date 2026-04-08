@@ -1,0 +1,21 @@
+export const KEY_COUNTRIES = ["de", "it", "fr", "nl", "at"];
+
+export const COUNTRIES = [
+  { code: "de", name: "Germany" },
+  { code: "it", name: "Italy" },
+  { code: "fr", name: "France" },
+  { code: "nl", name: "Netherlands" },
+  { code: "at", name: "Austria" },
+  { code: "be", name: "Belgium" },
+  { code: "cz", name: "Czechia" },
+  { code: "dk", name: "Denmark" },
+  { code: "es", name: "Spain" },
+  { code: "hr", name: "Croatia" },
+  { code: "hu", name: "Hungary" },
+  { code: "lv", name: "Latvia" },
+  { code: "pl", name: "Poland" },
+  { code: "pt", name: "Portugal" },
+  { code: "ro", name: "Romania" },
+  { code: "se", name: "Sweden" },
+  { code: "sk", name: "Slovakia" },
+];

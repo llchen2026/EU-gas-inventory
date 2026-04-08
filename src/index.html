@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EU Gas Inventory</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="layout">
+      <header class="hero">
+        <div>
+          <p class="eyebrow">European Gas Storage Monitor</p>
+          <h1>EU gas inventory dashboard</h1>
+          <p class="subtitle">
+            EU aggregate, key-country storage levels, and historical fullness trends
+            powered by static JSON and GitHub Pages.
+          </p>
+        </div>
+        <div class="hero-meta">
+          <div class="pill">
+            <span>Latest gas day</span>
+            <strong id="latest-gas-day">Loading</strong>
+          </div>
+          <div class="pill">
+            <span>Site updated</span>
+            <strong id="last-updated">Loading</strong>
+          </div>
+        </div>
+      </header>
+
+      <section class="panel">
+        <div class="panel-heading">
+          <h2>EU overview</h2>
+        </div>
+        <div class="overview-grid" id="overview-grid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading">
+          <h2>Key countries</h2>
+        </div>
+        <div class="country-grid" id="country-grid"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading">
+          <h2>Historical fullness comparison</h2>
+          <div class="range-switcher" id="range-switcher">
+            <button data-range="3M">3M</button>
+            <button data-range="6M">6M</button>
+            <button data-range="1Y">1Y</button>
+            <button data-range="3Y" class="is-active">3Y</button>
+            <button data-range="ALL">All</button>
+          </div>
+        </div>
+        <div id="chart-legend" class="legend"></div>
+        <svg id="history-chart" class="chart" viewBox="0 0 960 360" role="img" aria-label="Storage fullness history chart"></svg>
+      </section>
+
+      <section class="panel">
+        <div class="panel-heading table-heading">
+          <h2>All countries</h2>
+          <input id="country-filter" class="filter-input" type="search" placeholder="Filter country" />
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th data-sort="name">Country</th>
+                <th data-sort="gasInStorageTWh">Storage (TWh)</th>
+                <th data-sort="fullPct">Fullness (%)</th>
+                <th data-sort="workingGasVolumeTWh">Working volume (TWh)</th>
+                <th data-sort="netWithdrawalGWhPerDay">Net withdrawal (GWh/d)</th>
+                <th data-sort="status">Status</th>
+              </tr>
+            </thead>
+            <tbody id="country-table-body"></tbody>
+          </table>
+        </div>
+      </section>
+
+      <section class="panel hidden" id="error-panel">
+        <h2>Data unavailable</h2>
+        <p id="error-message"></p>
+      </section>
+    </main>
+
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

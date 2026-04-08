@@ -1,0 +1,250 @@
+:root {
+  --bg: #eff3f6;
+  --panel: rgba(255, 255, 255, 0.86);
+  --text: #112031;
+  --muted: #5f7387;
+  --line: rgba(17, 32, 49, 0.1);
+  --accent: #0f6cbd;
+  --accent-2: #1f8f63;
+  --shadow: 0 20px 60px rgba(21, 46, 74, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Avenir Next", "Segoe UI", sans-serif;
+  color: var(--text);
+  background:
+    radial-gradient(circle at top left, rgba(15, 108, 189, 0.14), transparent 28%),
+    linear-gradient(180deg, #f8fbfd 0%, var(--bg) 100%);
+}
+
+.layout {
+  width: min(1200px, calc(100vw - 32px));
+  margin: 0 auto;
+  padding: 32px 0 56px;
+}
+
+.hero,
+.panel {
+  background: var(--panel);
+  border: 1px solid rgba(255, 255, 255, 0.7);
+  border-radius: 24px;
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(16px);
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 2fr 1fr;
+  gap: 20px;
+  padding: 28px;
+  margin-bottom: 18px;
+}
+
+.eyebrow {
+  margin: 0 0 10px;
+  font-size: 0.8rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--accent);
+}
+
+h1,
+h2,
+p {
+  margin: 0;
+}
+
+h1 {
+  font-size: clamp(2rem, 4vw, 3.4rem);
+  line-height: 1;
+}
+
+.subtitle {
+  max-width: 56ch;
+  margin-top: 14px;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.hero-meta {
+  display: grid;
+  gap: 12px;
+}
+
+.pill {
+  border-radius: 18px;
+  background: linear-gradient(135deg, rgba(15, 108, 189, 0.08), rgba(31, 143, 99, 0.12));
+  padding: 18px;
+}
+
+.pill span,
+.metric-label,
+.card-label {
+  display: block;
+  font-size: 0.8rem;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.pill strong,
+.metric-value,
+.card-value {
+  display: block;
+  margin-top: 8px;
+  font-size: 1.4rem;
+}
+
+.panel {
+  padding: 22px;
+  margin-bottom: 18px;
+}
+
+.panel-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  margin-bottom: 18px;
+}
+
+.overview-grid,
+.country-grid {
+  display: grid;
+  gap: 14px;
+}
+
+.overview-grid {
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.country-grid {
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+
+.metric-card,
+.country-card {
+  padding: 18px;
+  border-radius: 18px;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.72);
+}
+
+.metric-note,
+.card-note {
+  margin-top: 8px;
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+.range-switcher {
+  display: inline-flex;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.range-switcher button {
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: white;
+  padding: 8px 12px;
+  cursor: pointer;
+}
+
+.range-switcher button.is-active {
+  background: var(--text);
+  color: white;
+}
+
+.legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px 18px;
+  margin-bottom: 12px;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.legend-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.legend-swatch {
+  width: 12px;
+  height: 12px;
+  border-radius: 999px;
+}
+
+.chart {
+  width: 100%;
+  height: auto;
+  border-radius: 18px;
+  background: linear-gradient(180deg, rgba(15, 108, 189, 0.03), rgba(15, 108, 189, 0));
+}
+
+.filter-input {
+  width: min(260px, 100%);
+  padding: 10px 12px;
+  border-radius: 12px;
+  border: 1px solid var(--line);
+}
+
+.table-wrap {
+  overflow-x: auto;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  padding: 12px 10px;
+  border-bottom: 1px solid var(--line);
+  text-align: left;
+}
+
+th {
+  font-size: 0.85rem;
+  color: var(--muted);
+  cursor: pointer;
+}
+
+.hidden {
+  display: none;
+}
+
+@media (max-width: 980px) {
+  .hero,
+  .overview-grid,
+  .country-grid {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .layout {
+    width: min(100vw - 20px, 1200px);
+    padding-top: 20px;
+  }
+
+  .hero,
+  .overview-grid,
+  .country-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .panel-heading,
+  .table-heading {
+    align-items: flex-start;
+    flex-direction: column;
+  }
+}
