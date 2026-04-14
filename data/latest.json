@@ -6,9 +6,9 @@
     "gasInStorageTWh": 334.25,
     "workingGasVolumeTWh": 1131.41,
     "fullPct": 29.54,
-    "injectionGWhPerDay": 2414.45,
-    "withdrawalGWhPerDay": 421.4,
-    "netWithdrawalGWhPerDay": -1993,
+    "injectionGWhPerDay": 2370.97,
+    "withdrawalGWhPerDay": 382.7,
+    "netWithdrawalGWhPerDay": -1988.3,
     "status": "E"
   },
   "countries": [
@@ -19,11 +19,11 @@
       "gasInStorageTWh": 57.95,
       "workingGasVolumeTWh": 247.08,
       "fullPct": 23.45,
-      "injectionGWhPerDay": 395.92,
-      "withdrawalGWhPerDay": 83.2,
-      "netWithdrawalGWhPerDay": -312.7,
+      "injectionGWhPerDay": 352.45,
+      "withdrawalGWhPerDay": 40.7,
+      "netWithdrawalGWhPerDay": -311.8,
       "status": "E",
-      "dayOverDayFullPctChange": 0.13
+      "dayOverDayFullPctChange": 0.12
     },
     {
       "code": "IT",
@@ -55,12 +55,12 @@
       "code": "NL",
       "name": "Netherlands",
       "gasDayStart": "2026-04-12",
-      "gasInStorageTWh": 8.98,
+      "gasInStorageTWh": 8.97,
       "workingGasVolumeTWh": 143.79,
       "fullPct": 6.24,
       "injectionGWhPerDay": 334.24,
-      "withdrawalGWhPerDay": 68.9,
-      "netWithdrawalGWhPerDay": -265.4,
+      "withdrawalGWhPerDay": 72.7,
+      "netWithdrawalGWhPerDay": -261.6,
       "status": "C",
       "dayOverDayFullPctChange": 0.18
     },
@@ -187,7 +187,7 @@
       "gasDayStart": "2026-04-12",
       "gasInStorageTWh": 3.27,
       "workingGasVolumeTWh": 3.57,
-      "fullPct": 91.64,
+      "fullPct": 91.61,
       "injectionGWhPerDay": 0,
       "withdrawalGWhPerDay": 0,
       "netWithdrawalGWhPerDay": 0,
