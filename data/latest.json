@@ -91,17 +91,17 @@
       "dayOverDayFullPctChange": -0.21
     },
     {
-      "code": "CZ",
-      "name": "Czech Republic",
+      "code": "DK",
+      "name": "Denmark",
       "gasDayStart": "2026-04-30",
-      "gasInStorageTWh": 13.56,
-      "workingGasVolumeTWh": 45.3,
-      "fullPct": 29.93,
-      "injectionGWhPerDay": 97.33,
-      "withdrawalGWhPerDay": 21.4,
-      "netWithdrawalGWhPerDay": -75.9,
+      "gasInStorageTWh": 3.4,
+      "workingGasVolumeTWh": 8.59,
+      "fullPct": 39.56,
+      "injectionGWhPerDay": 10.98,
+      "withdrawalGWhPerDay": 8.9,
+      "netWithdrawalGWhPerDay": -2.1,
       "status": "C",
-      "dayOverDayFullPctChange": 0.16
+      "dayOverDayFullPctChange": 0.03
     },
     {
       "code": "ES",
