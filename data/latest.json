@@ -3,27 +3,27 @@
     "code": "eu",
     "name": "EU",
     "gasDayStart": "2026-05-21",
-    "gasInStorageTWh": 420.8,
+    "gasInStorageTWh": 420.81,
     "workingGasVolumeTWh": 1131.88,
     "fullPct": 37.18,
-    "injectionGWhPerDay": 2620.66,
-    "withdrawalGWhPerDay": 443.7,
-    "netWithdrawalGWhPerDay": -2177,
-    "status": "E"
+    "injectionGWhPerDay": 2610.63,
+    "withdrawalGWhPerDay": 424,
+    "netWithdrawalGWhPerDay": -2186.6,
+    "status": "C"
   },
   "countries": [
     {
       "code": "DE",
       "name": "Germany",
       "gasDayStart": "2026-05-21",
-      "gasInStorageTWh": 70.86,
+      "gasInStorageTWh": 70.88,
       "workingGasVolumeTWh": 247.75,
-      "fullPct": 28.6,
+      "fullPct": 28.61,
       "injectionGWhPerDay": 374.22,
-      "withdrawalGWhPerDay": 51.5,
-      "netWithdrawalGWhPerDay": -322.7,
-      "status": "E",
-      "dayOverDayFullPctChange": 0.12
+      "withdrawalGWhPerDay": 31.9,
+      "netWithdrawalGWhPerDay": -342.4,
+      "status": "C",
+      "dayOverDayFullPctChange": 0.13
     },
     {
       "code": "IT",
@@ -68,14 +68,14 @@
       "code": "AT",
       "name": "Austria",
       "gasDayStart": "2026-05-21",
-      "gasInStorageTWh": 43.43,
+      "gasInStorageTWh": 43.42,
       "workingGasVolumeTWh": 100.28,
-      "fullPct": 43.31,
-      "injectionGWhPerDay": 161.23,
+      "fullPct": 43.3,
+      "injectionGWhPerDay": 151.19,
       "withdrawalGWhPerDay": 0,
-      "netWithdrawalGWhPerDay": -161.2,
-      "status": "E",
-      "dayOverDayFullPctChange": 0.16
+      "netWithdrawalGWhPerDay": -151.2,
+      "status": "C",
+      "dayOverDayFullPctChange": 0.15
     },
     {
       "code": "BE",
