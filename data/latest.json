@@ -3,13 +3,13 @@
     "code": "eu",
     "name": "EU",
     "gasDayStart": "2026-06-14",
-    "gasInStorageTWh": 505.45,
+    "gasInStorageTWh": 505.52,
     "workingGasVolumeTWh": 1130.51,
-    "fullPct": 44.71,
-    "injectionGWhPerDay": 4363.94,
-    "withdrawalGWhPerDay": 155.5,
-    "netWithdrawalGWhPerDay": -4208.5,
-    "status": "E"
+    "fullPct": 44.72,
+    "injectionGWhPerDay": 4421.53,
+    "withdrawalGWhPerDay": 133.5,
+    "netWithdrawalGWhPerDay": -4288,
+    "status": "C"
   },
   "countries": [
     {
@@ -19,10 +19,10 @@
       "gasInStorageTWh": 90.86,
       "workingGasVolumeTWh": 246.79,
       "fullPct": 36.82,
-      "injectionGWhPerDay": 952.08,
+      "injectionGWhPerDay": 950.36,
       "withdrawalGWhPerDay": 37.2,
-      "netWithdrawalGWhPerDay": -914.9,
-      "status": "E",
+      "netWithdrawalGWhPerDay": -913.2,
+      "status": "C",
       "dayOverDayFullPctChange": 0.37
     },
     {
@@ -68,14 +68,14 @@
       "code": "AT",
       "name": "Austria",
       "gasDayStart": "2026-06-14",
-      "gasInStorageTWh": 50.13,
+      "gasInStorageTWh": 50.16,
       "workingGasVolumeTWh": 100.28,
-      "fullPct": 49.99,
-      "injectionGWhPerDay": 334.38,
+      "fullPct": 50.02,
+      "injectionGWhPerDay": 363.14,
       "withdrawalGWhPerDay": 0,
-      "netWithdrawalGWhPerDay": -334.4,
-      "status": "E",
-      "dayOverDayFullPctChange": 0.34
+      "netWithdrawalGWhPerDay": -363.1,
+      "status": "C",
+      "dayOverDayFullPctChange": 0.37
     },
     {
       "code": "BE",
@@ -120,14 +120,14 @@
       "code": "ES",
       "name": "Spain",
       "gasDayStart": "2026-06-14",
-      "gasInStorageTWh": 26.37,
+      "gasInStorageTWh": 26.41,
       "workingGasVolumeTWh": 35.83,
-      "fullPct": 73.58,
-      "injectionGWhPerDay": 21.87,
-      "withdrawalGWhPerDay": 22,
-      "netWithdrawalGWhPerDay": 0.1,
-      "status": "E",
-      "dayOverDayFullPctChange": 0
+      "fullPct": 73.7,
+      "injectionGWhPerDay": 52.42,
+      "withdrawalGWhPerDay": 0,
+      "netWithdrawalGWhPerDay": -52.4,
+      "status": "C",
+      "dayOverDayFullPctChange": 0.15
     },
     {
       "code": "HR",
