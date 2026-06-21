@@ -150,8 +150,8 @@
       "workingGasVolumeTWh": 67.71,
       "fullPct": 47.86,
       "injectionGWhPerDay": 187.1,
-      "withdrawalGWhPerDay": 22,
-      "netWithdrawalGWhPerDay": -165.1,
+      "withdrawalGWhPerDay": 21.9,
+      "netWithdrawalGWhPerDay": -165.2,
       "status": "E",
       "dayOverDayFullPctChange": 0.24
     },
