@@ -182,19 +182,6 @@
       "dayOverDayFullPctChange": 0.64
     },
     {
-      "code": "PT",
-      "name": "Portugal",
-      "gasDayStart": "2026-06-21",
-      "gasInStorageTWh": 3.26,
-      "workingGasVolumeTWh": 3.57,
-      "fullPct": 91.25,
-      "injectionGWhPerDay": 18.25,
-      "withdrawalGWhPerDay": 0,
-      "netWithdrawalGWhPerDay": -18.2,
-      "status": "C",
-      "dayOverDayFullPctChange": 0.51
-    },
-    {
       "code": "RO",
       "name": "Romania",
       "gasDayStart": "2026-06-21",
