@@ -7,8 +7,8 @@
     "workingGasVolumeTWh": 1130.51,
     "fullPct": 47.96,
     "injectionGWhPerDay": 3468.79,
-    "withdrawalGWhPerDay": 302.2,
-    "netWithdrawalGWhPerDay": -3166.6,
+    "withdrawalGWhPerDay": 302.3,
+    "netWithdrawalGWhPerDay": -3166.5,
     "status": "E"
   },
   "countries": [
@@ -20,8 +20,8 @@
       "workingGasVolumeTWh": 246.79,
       "fullPct": 40.27,
       "injectionGWhPerDay": 900.97,
-      "withdrawalGWhPerDay": 0,
-      "netWithdrawalGWhPerDay": -901,
+      "withdrawalGWhPerDay": 0.1,
+      "netWithdrawalGWhPerDay": -900.9,
       "status": "E",
       "dayOverDayFullPctChange": 0.37
     },
