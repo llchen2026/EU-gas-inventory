@@ -6,9 +6,9 @@
     "gasInStorageTWh": 545.96,
     "workingGasVolumeTWh": 1130.51,
     "fullPct": 48.29,
-    "injectionGWhPerDay": 3914.93,
-    "withdrawalGWhPerDay": 203.5,
-    "netWithdrawalGWhPerDay": -3711.4,
+    "injectionGWhPerDay": 3915.18,
+    "withdrawalGWhPerDay": 203.6,
+    "netWithdrawalGWhPerDay": -3711.6,
     "status": "E"
   },
   "countries": [
@@ -19,10 +19,10 @@
       "gasInStorageTWh": 100.58,
       "workingGasVolumeTWh": 246.79,
       "fullPct": 40.75,
-      "injectionGWhPerDay": 1204.74,
+      "injectionGWhPerDay": 1207.5,
       "withdrawalGWhPerDay": 1.2,
-      "netWithdrawalGWhPerDay": -1203.5,
-      "status": "E",
+      "netWithdrawalGWhPerDay": -1206.3,
+      "status": "C",
       "dayOverDayFullPctChange": 0.48
     },
     {
@@ -122,12 +122,12 @@
       "gasDayStart": "2026-06-27",
       "gasInStorageTWh": 26.5,
       "workingGasVolumeTWh": 35.83,
-      "fullPct": 73.96,
-      "injectionGWhPerDay": 2.52,
+      "fullPct": 73.95,
+      "injectionGWhPerDay": 0,
       "withdrawalGWhPerDay": 0,
-      "netWithdrawalGWhPerDay": -2.5,
-      "status": "E",
-      "dayOverDayFullPctChange": 0.01
+      "netWithdrawalGWhPerDay": 0,
+      "status": "C",
+      "dayOverDayFullPctChange": 0
     },
     {
       "code": "HR",
@@ -149,7 +149,7 @@
       "gasInStorageTWh": 33.74,
       "workingGasVolumeTWh": 67.71,
       "fullPct": 49.83,
-      "injectionGWhPerDay": 197.78,
+      "injectionGWhPerDay": 197.79,
       "withdrawalGWhPerDay": 21.9,
       "netWithdrawalGWhPerDay": -175.9,
       "status": "E",
@@ -206,19 +206,6 @@
       "netWithdrawalGWhPerDay": -145.8,
       "status": "C",
       "dayOverDayFullPctChange": 0.43
-    },
-    {
-      "code": "SE",
-      "name": "Sweden",
-      "gasDayStart": "2026-06-27",
-      "gasInStorageTWh": 0.01,
-      "workingGasVolumeTWh": 0.08,
-      "fullPct": 9.96,
-      "injectionGWhPerDay": 0,
-      "withdrawalGWhPerDay": 0,
-      "netWithdrawalGWhPerDay": 0,
-      "status": "C",
-      "dayOverDayFullPctChange": 0
     },
     {
       "code": "SK",
