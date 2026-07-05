@@ -3,12 +3,12 @@
     "code": "eu",
     "name": "EU",
     "gasDayStart": "2026-07-03",
-    "gasInStorageTWh": 562,
+    "gasInStorageTWh": 562.07,
     "workingGasVolumeTWh": 1130.51,
-    "fullPct": 49.71,
-    "injectionGWhPerDay": 3185.54,
-    "withdrawalGWhPerDay": 397,
-    "netWithdrawalGWhPerDay": -2788.5,
+    "fullPct": 49.72,
+    "injectionGWhPerDay": 3197.2,
+    "withdrawalGWhPerDay": 375.1,
+    "netWithdrawalGWhPerDay": -2822.1,
     "status": "E"
   },
   "countries": [
@@ -159,14 +159,14 @@
       "code": "LV",
       "name": "Latvia",
       "gasDayStart": "2026-07-03",
-      "gasInStorageTWh": 9.36,
+      "gasInStorageTWh": 9.43,
       "workingGasVolumeTWh": 24.41,
-      "fullPct": 38.36,
-      "injectionGWhPerDay": 21.92,
-      "withdrawalGWhPerDay": 21.9,
-      "netWithdrawalGWhPerDay": 0,
+      "fullPct": 38.62,
+      "injectionGWhPerDay": 33.59,
+      "withdrawalGWhPerDay": 0,
+      "netWithdrawalGWhPerDay": -33.6,
       "status": "E",
-      "dayOverDayFullPctChange": 0
+      "dayOverDayFullPctChange": 0.13
     },
     {
       "code": "PL",
