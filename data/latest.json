@@ -7,8 +7,8 @@
     "workingGasVolumeTWh": 1130.51,
     "fullPct": 51.3,
     "injectionGWhPerDay": 2923.62,
-    "withdrawalGWhPerDay": 599.6,
-    "netWithdrawalGWhPerDay": -2324.1,
+    "withdrawalGWhPerDay": 599.1,
+    "netWithdrawalGWhPerDay": -2324.5,
     "status": "E"
   },
   "countries": [
@@ -16,12 +16,12 @@
       "code": "DE",
       "name": "Germany",
       "gasDayStart": "2026-07-09",
-      "gasInStorageTWh": 107.5,
+      "gasInStorageTWh": 107.51,
       "workingGasVolumeTWh": 246.79,
       "fullPct": 43.56,
       "injectionGWhPerDay": 309.38,
-      "withdrawalGWhPerDay": 19.5,
-      "netWithdrawalGWhPerDay": -289.9,
+      "withdrawalGWhPerDay": 19.1,
+      "netWithdrawalGWhPerDay": -290.3,
       "status": "C",
       "dayOverDayFullPctChange": 0.11
     },
