@@ -3,12 +3,12 @@
     "code": "eu",
     "name": "EU",
     "gasDayStart": "2026-07-12",
-    "gasInStorageTWh": 590.2,
+    "gasInStorageTWh": 590.7,
     "workingGasVolumeTWh": 1130.51,
-    "fullPct": 52.21,
-    "injectionGWhPerDay": 4210.03,
+    "fullPct": 52.25,
+    "injectionGWhPerDay": 4296.87,
     "withdrawalGWhPerDay": 228.5,
-    "netWithdrawalGWhPerDay": -3981.5,
+    "netWithdrawalGWhPerDay": -4068.4,
     "status": "E"
   },
   "countries": [
@@ -19,9 +19,9 @@
       "gasInStorageTWh": 109.22,
       "workingGasVolumeTWh": 246.79,
       "fullPct": 44.26,
-      "injectionGWhPerDay": 693.86,
+      "injectionGWhPerDay": 774.39,
       "withdrawalGWhPerDay": 2.4,
-      "netWithdrawalGWhPerDay": -691.4,
+      "netWithdrawalGWhPerDay": -772,
       "status": "C",
       "dayOverDayFullPctChange": 0.32
     },
@@ -29,14 +29,14 @@
       "code": "IT",
       "name": "Italy",
       "gasDayStart": "2026-07-12",
-      "gasInStorageTWh": 143.93,
+      "gasInStorageTWh": 144.43,
       "workingGasVolumeTWh": 203.42,
-      "fullPct": 70.75,
+      "fullPct": 71,
       "injectionGWhPerDay": 742.75,
       "withdrawalGWhPerDay": 0.3,
       "netWithdrawalGWhPerDay": -742.4,
       "status": "C",
-      "dayOverDayFullPctChange": 0.04
+      "dayOverDayFullPctChange": 0.29
     },
     {
       "code": "FR",
@@ -58,9 +58,9 @@
       "gasInStorageTWh": 43.6,
       "workingGasVolumeTWh": 143.79,
       "fullPct": 30.32,
-      "injectionGWhPerDay": 659.97,
+      "injectionGWhPerDay": 666.28,
       "withdrawalGWhPerDay": 14.9,
-      "netWithdrawalGWhPerDay": -645,
+      "netWithdrawalGWhPerDay": -651.3,
       "status": "C",
       "dayOverDayFullPctChange": 0.46
     },
@@ -141,6 +141,19 @@
       "netWithdrawalGWhPerDay": -14.2,
       "status": "C",
       "dayOverDayFullPctChange": 0.3
+    },
+    {
+      "code": "HU",
+      "name": "Hungary",
+      "gasDayStart": "2026-07-12",
+      "gasInStorageTWh": 36.64,
+      "workingGasVolumeTWh": 67.71,
+      "fullPct": 54.12,
+      "injectionGWhPerDay": 206.61,
+      "withdrawalGWhPerDay": 21.9,
+      "netWithdrawalGWhPerDay": -184.7,
+      "status": "E",
+      "dayOverDayFullPctChange": 0.27
     },
     {
       "code": "LV",

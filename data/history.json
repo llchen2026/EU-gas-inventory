@@ -5467,8 +5467,8 @@
     },
     {
       "date": "2026-07-12",
-      "fullPct": 52.21,
-      "gasInStorageTWh": 590.2
+      "fullPct": 52.25,
+      "gasInStorageTWh": 590.7
     }
   ],
   "countries": {
@@ -16412,8 +16412,8 @@
       },
       {
         "date": "2026-07-12",
-        "fullPct": 70.75,
-        "gasInStorageTWh": 143.93
+        "fullPct": 71,
+        "gasInStorageTWh": 144.43
       }
     ],
     "fr": [
@@ -60192,6 +60192,5478 @@
         "gasInStorageTWh": 2.34
       }
     ],
+    "hu": [
+      {
+        "date": "2023-07-15",
+        "fullPct": 72.71,
+        "gasInStorageTWh": 49.23
+      },
+      {
+        "date": "2023-07-16",
+        "fullPct": 73.15,
+        "gasInStorageTWh": 49.52
+      },
+      {
+        "date": "2023-07-17",
+        "fullPct": 73.56,
+        "gasInStorageTWh": 49.8
+      },
+      {
+        "date": "2023-07-18",
+        "fullPct": 73.99,
+        "gasInStorageTWh": 50.09
+      },
+      {
+        "date": "2023-07-19",
+        "fullPct": 74.42,
+        "gasInStorageTWh": 50.39
+      },
+      {
+        "date": "2023-07-20",
+        "fullPct": 74.82,
+        "gasInStorageTWh": 50.66
+      },
+      {
+        "date": "2023-07-21",
+        "fullPct": 75.23,
+        "gasInStorageTWh": 50.93
+      },
+      {
+        "date": "2023-07-22",
+        "fullPct": 75.67,
+        "gasInStorageTWh": 51.23
+      },
+      {
+        "date": "2023-07-23",
+        "fullPct": 76.14,
+        "gasInStorageTWh": 51.55
+      },
+      {
+        "date": "2023-07-24",
+        "fullPct": 76.57,
+        "gasInStorageTWh": 51.84
+      },
+      {
+        "date": "2023-07-25",
+        "fullPct": 77.01,
+        "gasInStorageTWh": 52.14
+      },
+      {
+        "date": "2023-07-26",
+        "fullPct": 77.45,
+        "gasInStorageTWh": 52.44
+      },
+      {
+        "date": "2023-07-27",
+        "fullPct": 77.89,
+        "gasInStorageTWh": 52.73
+      },
+      {
+        "date": "2023-07-28",
+        "fullPct": 78.33,
+        "gasInStorageTWh": 53.03
+      },
+      {
+        "date": "2023-07-29",
+        "fullPct": 78.78,
+        "gasInStorageTWh": 53.34
+      },
+      {
+        "date": "2023-07-30",
+        "fullPct": 79.24,
+        "gasInStorageTWh": 53.65
+      },
+      {
+        "date": "2023-07-31",
+        "fullPct": 79.69,
+        "gasInStorageTWh": 53.95
+      },
+      {
+        "date": "2023-08-01",
+        "fullPct": 79.6,
+        "gasInStorageTWh": 54.23
+      },
+      {
+        "date": "2023-08-02",
+        "fullPct": 80,
+        "gasInStorageTWh": 54.51
+      },
+      {
+        "date": "2023-08-03",
+        "fullPct": 80.42,
+        "gasInStorageTWh": 54.79
+      },
+      {
+        "date": "2023-08-04",
+        "fullPct": 80.81,
+        "gasInStorageTWh": 55.06
+      },
+      {
+        "date": "2023-08-05",
+        "fullPct": 81.21,
+        "gasInStorageTWh": 55.33
+      },
+      {
+        "date": "2023-08-06",
+        "fullPct": 81.6,
+        "gasInStorageTWh": 55.59
+      },
+      {
+        "date": "2023-08-07",
+        "fullPct": 81.99,
+        "gasInStorageTWh": 55.86
+      },
+      {
+        "date": "2023-08-08",
+        "fullPct": 82.39,
+        "gasInStorageTWh": 56.13
+      },
+      {
+        "date": "2023-08-09",
+        "fullPct": 82.79,
+        "gasInStorageTWh": 56.41
+      },
+      {
+        "date": "2023-08-10",
+        "fullPct": 83.17,
+        "gasInStorageTWh": 56.66
+      },
+      {
+        "date": "2023-08-11",
+        "fullPct": 83.57,
+        "gasInStorageTWh": 56.94
+      },
+      {
+        "date": "2023-08-12",
+        "fullPct": 83.99,
+        "gasInStorageTWh": 57.22
+      },
+      {
+        "date": "2023-08-13",
+        "fullPct": 84.37,
+        "gasInStorageTWh": 57.49
+      },
+      {
+        "date": "2023-08-14",
+        "fullPct": 84.77,
+        "gasInStorageTWh": 57.76
+      },
+      {
+        "date": "2023-08-15",
+        "fullPct": 85.2,
+        "gasInStorageTWh": 58.05
+      },
+      {
+        "date": "2023-08-16",
+        "fullPct": 85.6,
+        "gasInStorageTWh": 58.32
+      },
+      {
+        "date": "2023-08-17",
+        "fullPct": 85.99,
+        "gasInStorageTWh": 58.59
+      },
+      {
+        "date": "2023-08-18",
+        "fullPct": 86.39,
+        "gasInStorageTWh": 58.86
+      },
+      {
+        "date": "2023-08-19",
+        "fullPct": 86.81,
+        "gasInStorageTWh": 59.15
+      },
+      {
+        "date": "2023-08-20",
+        "fullPct": 87.22,
+        "gasInStorageTWh": 59.42
+      },
+      {
+        "date": "2023-08-21",
+        "fullPct": 87.61,
+        "gasInStorageTWh": 59.69
+      },
+      {
+        "date": "2023-08-22",
+        "fullPct": 87.98,
+        "gasInStorageTWh": 59.94
+      },
+      {
+        "date": "2023-08-23",
+        "fullPct": 88.32,
+        "gasInStorageTWh": 60.18
+      },
+      {
+        "date": "2023-08-24",
+        "fullPct": 88.68,
+        "gasInStorageTWh": 60.42
+      },
+      {
+        "date": "2023-08-25",
+        "fullPct": 89.06,
+        "gasInStorageTWh": 60.68
+      },
+      {
+        "date": "2023-08-26",
+        "fullPct": 89.44,
+        "gasInStorageTWh": 60.94
+      },
+      {
+        "date": "2023-08-27",
+        "fullPct": 89.83,
+        "gasInStorageTWh": 61.21
+      },
+      {
+        "date": "2023-08-28",
+        "fullPct": 90.18,
+        "gasInStorageTWh": 61.44
+      },
+      {
+        "date": "2023-08-29",
+        "fullPct": 90.52,
+        "gasInStorageTWh": 61.68
+      },
+      {
+        "date": "2023-08-30",
+        "fullPct": 90.89,
+        "gasInStorageTWh": 61.92
+      },
+      {
+        "date": "2023-08-31",
+        "fullPct": 89.71,
+        "gasInStorageTWh": 61.12
+      },
+      {
+        "date": "2023-09-01",
+        "fullPct": 87.52,
+        "gasInStorageTWh": 61.32
+      },
+      {
+        "date": "2023-09-02",
+        "fullPct": 87.85,
+        "gasInStorageTWh": 61.55
+      },
+      {
+        "date": "2023-09-03",
+        "fullPct": 88.18,
+        "gasInStorageTWh": 61.79
+      },
+      {
+        "date": "2023-09-04",
+        "fullPct": 88.51,
+        "gasInStorageTWh": 62.02
+      },
+      {
+        "date": "2023-09-05",
+        "fullPct": 88.8,
+        "gasInStorageTWh": 62.22
+      },
+      {
+        "date": "2023-09-06",
+        "fullPct": 89.11,
+        "gasInStorageTWh": 62.44
+      },
+      {
+        "date": "2023-09-07",
+        "fullPct": 89.41,
+        "gasInStorageTWh": 62.65
+      },
+      {
+        "date": "2023-09-08",
+        "fullPct": 89.71,
+        "gasInStorageTWh": 62.86
+      },
+      {
+        "date": "2023-09-09",
+        "fullPct": 90.01,
+        "gasInStorageTWh": 63.07
+      },
+      {
+        "date": "2023-09-10",
+        "fullPct": 90.31,
+        "gasInStorageTWh": 63.28
+      },
+      {
+        "date": "2023-09-11",
+        "fullPct": 90.59,
+        "gasInStorageTWh": 63.47
+      },
+      {
+        "date": "2023-09-12",
+        "fullPct": 90.87,
+        "gasInStorageTWh": 63.67
+      },
+      {
+        "date": "2023-09-13",
+        "fullPct": 91.15,
+        "gasInStorageTWh": 63.87
+      },
+      {
+        "date": "2023-09-14",
+        "fullPct": 91.36,
+        "gasInStorageTWh": 64.02
+      },
+      {
+        "date": "2023-09-15",
+        "fullPct": 91.57,
+        "gasInStorageTWh": 64.17
+      },
+      {
+        "date": "2023-09-16",
+        "fullPct": 91.84,
+        "gasInStorageTWh": 64.35
+      },
+      {
+        "date": "2023-09-17",
+        "fullPct": 92.12,
+        "gasInStorageTWh": 64.55
+      },
+      {
+        "date": "2023-09-18",
+        "fullPct": 92.37,
+        "gasInStorageTWh": 64.73
+      },
+      {
+        "date": "2023-09-19",
+        "fullPct": 92.59,
+        "gasInStorageTWh": 64.88
+      },
+      {
+        "date": "2023-09-20",
+        "fullPct": 92.8,
+        "gasInStorageTWh": 65.03
+      },
+      {
+        "date": "2023-09-21",
+        "fullPct": 93.03,
+        "gasInStorageTWh": 65.19
+      },
+      {
+        "date": "2023-09-22",
+        "fullPct": 93.29,
+        "gasInStorageTWh": 65.37
+      },
+      {
+        "date": "2023-09-23",
+        "fullPct": 93.54,
+        "gasInStorageTWh": 65.55
+      },
+      {
+        "date": "2023-09-24",
+        "fullPct": 93.81,
+        "gasInStorageTWh": 65.73
+      },
+      {
+        "date": "2023-09-25",
+        "fullPct": 94.06,
+        "gasInStorageTWh": 65.9
+      },
+      {
+        "date": "2023-09-26",
+        "fullPct": 94.27,
+        "gasInStorageTWh": 66.05
+      },
+      {
+        "date": "2023-09-27",
+        "fullPct": 94.49,
+        "gasInStorageTWh": 66.21
+      },
+      {
+        "date": "2023-09-28",
+        "fullPct": 94.72,
+        "gasInStorageTWh": 66.37
+      },
+      {
+        "date": "2023-09-29",
+        "fullPct": 94.78,
+        "gasInStorageTWh": 66.41
+      },
+      {
+        "date": "2023-09-30",
+        "fullPct": 95,
+        "gasInStorageTWh": 66.56
+      },
+      {
+        "date": "2023-10-01",
+        "fullPct": 95.15,
+        "gasInStorageTWh": 66.67
+      },
+      {
+        "date": "2023-10-02",
+        "fullPct": 95.27,
+        "gasInStorageTWh": 66.75
+      },
+      {
+        "date": "2023-10-03",
+        "fullPct": 95.38,
+        "gasInStorageTWh": 66.83
+      },
+      {
+        "date": "2023-10-04",
+        "fullPct": 95.49,
+        "gasInStorageTWh": 66.91
+      },
+      {
+        "date": "2023-10-05",
+        "fullPct": 95.6,
+        "gasInStorageTWh": 66.98
+      },
+      {
+        "date": "2023-10-06",
+        "fullPct": 95.67,
+        "gasInStorageTWh": 67.04
+      },
+      {
+        "date": "2023-10-07",
+        "fullPct": 95.76,
+        "gasInStorageTWh": 67.1
+      },
+      {
+        "date": "2023-10-08",
+        "fullPct": 95.84,
+        "gasInStorageTWh": 67.15
+      },
+      {
+        "date": "2023-10-09",
+        "fullPct": 95.9,
+        "gasInStorageTWh": 67.2
+      },
+      {
+        "date": "2023-10-10",
+        "fullPct": 95.96,
+        "gasInStorageTWh": 67.24
+      },
+      {
+        "date": "2023-10-11",
+        "fullPct": 96.04,
+        "gasInStorageTWh": 67.3
+      },
+      {
+        "date": "2023-10-12",
+        "fullPct": 96.16,
+        "gasInStorageTWh": 67.38
+      },
+      {
+        "date": "2023-10-13",
+        "fullPct": 96.29,
+        "gasInStorageTWh": 67.47
+      },
+      {
+        "date": "2023-10-14",
+        "fullPct": 96.42,
+        "gasInStorageTWh": 67.56
+      },
+      {
+        "date": "2023-10-15",
+        "fullPct": 96.52,
+        "gasInStorageTWh": 67.63
+      },
+      {
+        "date": "2023-10-16",
+        "fullPct": 96.56,
+        "gasInStorageTWh": 67.66
+      },
+      {
+        "date": "2023-10-17",
+        "fullPct": 96.55,
+        "gasInStorageTWh": 67.65
+      },
+      {
+        "date": "2023-10-18",
+        "fullPct": 96.55,
+        "gasInStorageTWh": 67.65
+      },
+      {
+        "date": "2023-10-19",
+        "fullPct": 96.59,
+        "gasInStorageTWh": 67.68
+      },
+      {
+        "date": "2023-10-20",
+        "fullPct": 96.7,
+        "gasInStorageTWh": 67.75
+      },
+      {
+        "date": "2023-10-21",
+        "fullPct": 96.84,
+        "gasInStorageTWh": 67.86
+      },
+      {
+        "date": "2023-10-22",
+        "fullPct": 97,
+        "gasInStorageTWh": 67.96
+      },
+      {
+        "date": "2023-10-23",
+        "fullPct": 97.14,
+        "gasInStorageTWh": 68.07
+      },
+      {
+        "date": "2023-10-24",
+        "fullPct": 97.3,
+        "gasInStorageTWh": 68.18
+      },
+      {
+        "date": "2023-10-25",
+        "fullPct": 97.42,
+        "gasInStorageTWh": 68.26
+      },
+      {
+        "date": "2023-10-26",
+        "fullPct": 97.55,
+        "gasInStorageTWh": 68.35
+      },
+      {
+        "date": "2023-10-27",
+        "fullPct": 97.67,
+        "gasInStorageTWh": 68.44
+      },
+      {
+        "date": "2023-10-28",
+        "fullPct": 97.78,
+        "gasInStorageTWh": 68.52
+      },
+      {
+        "date": "2023-10-29",
+        "fullPct": 97.88,
+        "gasInStorageTWh": 68.59
+      },
+      {
+        "date": "2023-10-30",
+        "fullPct": 97.99,
+        "gasInStorageTWh": 68.66
+      },
+      {
+        "date": "2023-10-31",
+        "fullPct": 98.1,
+        "gasInStorageTWh": 68.74
+      },
+      {
+        "date": "2023-11-01",
+        "fullPct": 98.12,
+        "gasInStorageTWh": 68.75
+      },
+      {
+        "date": "2023-11-02",
+        "fullPct": 98.13,
+        "gasInStorageTWh": 68.76
+      },
+      {
+        "date": "2023-11-03",
+        "fullPct": 98.15,
+        "gasInStorageTWh": 68.77
+      },
+      {
+        "date": "2023-11-04",
+        "fullPct": 98.16,
+        "gasInStorageTWh": 68.78
+      },
+      {
+        "date": "2023-11-05",
+        "fullPct": 98.18,
+        "gasInStorageTWh": 68.79
+      },
+      {
+        "date": "2023-11-06",
+        "fullPct": 98.19,
+        "gasInStorageTWh": 68.8
+      },
+      {
+        "date": "2023-11-07",
+        "fullPct": 98.18,
+        "gasInStorageTWh": 68.79
+      },
+      {
+        "date": "2023-11-08",
+        "fullPct": 98.16,
+        "gasInStorageTWh": 68.78
+      },
+      {
+        "date": "2023-11-09",
+        "fullPct": 98.14,
+        "gasInStorageTWh": 68.77
+      },
+      {
+        "date": "2023-11-10",
+        "fullPct": 98.1,
+        "gasInStorageTWh": 68.74
+      },
+      {
+        "date": "2023-11-11",
+        "fullPct": 98.06,
+        "gasInStorageTWh": 68.71
+      },
+      {
+        "date": "2023-11-12",
+        "fullPct": 98,
+        "gasInStorageTWh": 68.67
+      },
+      {
+        "date": "2023-11-13",
+        "fullPct": 97.94,
+        "gasInStorageTWh": 68.63
+      },
+      {
+        "date": "2023-11-14",
+        "fullPct": 97.9,
+        "gasInStorageTWh": 68.6
+      },
+      {
+        "date": "2023-11-15",
+        "fullPct": 97.88,
+        "gasInStorageTWh": 68.58
+      },
+      {
+        "date": "2023-11-16",
+        "fullPct": 97.85,
+        "gasInStorageTWh": 68.57
+      },
+      {
+        "date": "2023-11-17",
+        "fullPct": 97.8,
+        "gasInStorageTWh": 68.53
+      },
+      {
+        "date": "2023-11-18",
+        "fullPct": 97.74,
+        "gasInStorageTWh": 68.48
+      },
+      {
+        "date": "2023-11-19",
+        "fullPct": 97.69,
+        "gasInStorageTWh": 68.45
+      },
+      {
+        "date": "2023-11-20",
+        "fullPct": 97.62,
+        "gasInStorageTWh": 68.4
+      },
+      {
+        "date": "2023-11-21",
+        "fullPct": 97.5,
+        "gasInStorageTWh": 68.32
+      },
+      {
+        "date": "2023-11-22",
+        "fullPct": 97.3,
+        "gasInStorageTWh": 68.18
+      },
+      {
+        "date": "2023-11-23",
+        "fullPct": 97.1,
+        "gasInStorageTWh": 68.04
+      },
+      {
+        "date": "2023-11-24",
+        "fullPct": 96.89,
+        "gasInStorageTWh": 67.89
+      },
+      {
+        "date": "2023-11-25",
+        "fullPct": 96.72,
+        "gasInStorageTWh": 67.77
+      },
+      {
+        "date": "2023-11-26",
+        "fullPct": 96.5,
+        "gasInStorageTWh": 67.61
+      },
+      {
+        "date": "2023-11-27",
+        "fullPct": 96.19,
+        "gasInStorageTWh": 67.4
+      },
+      {
+        "date": "2023-11-28",
+        "fullPct": 95.86,
+        "gasInStorageTWh": 67.17
+      },
+      {
+        "date": "2023-11-29",
+        "fullPct": 95.5,
+        "gasInStorageTWh": 66.92
+      },
+      {
+        "date": "2023-11-30",
+        "fullPct": 95.12,
+        "gasInStorageTWh": 66.65
+      },
+      {
+        "date": "2023-12-01",
+        "fullPct": 94.81,
+        "gasInStorageTWh": 66.43
+      },
+      {
+        "date": "2023-12-02",
+        "fullPct": 94.55,
+        "gasInStorageTWh": 66.25
+      },
+      {
+        "date": "2023-12-03",
+        "fullPct": 94.27,
+        "gasInStorageTWh": 66.05
+      },
+      {
+        "date": "2023-12-04",
+        "fullPct": 93.9,
+        "gasInStorageTWh": 65.79
+      },
+      {
+        "date": "2023-12-05",
+        "fullPct": 93.49,
+        "gasInStorageTWh": 65.5
+      },
+      {
+        "date": "2023-12-06",
+        "fullPct": 93.1,
+        "gasInStorageTWh": 65.23
+      },
+      {
+        "date": "2023-12-07",
+        "fullPct": 92.65,
+        "gasInStorageTWh": 64.92
+      },
+      {
+        "date": "2023-12-08",
+        "fullPct": 92.26,
+        "gasInStorageTWh": 64.65
+      },
+      {
+        "date": "2023-12-09",
+        "fullPct": 91.95,
+        "gasInStorageTWh": 64.43
+      },
+      {
+        "date": "2023-12-10",
+        "fullPct": 91.68,
+        "gasInStorageTWh": 64.24
+      },
+      {
+        "date": "2023-12-11",
+        "fullPct": 91.32,
+        "gasInStorageTWh": 63.99
+      },
+      {
+        "date": "2023-12-12",
+        "fullPct": 91.05,
+        "gasInStorageTWh": 63.8
+      },
+      {
+        "date": "2023-12-13",
+        "fullPct": 90.78,
+        "gasInStorageTWh": 63.61
+      },
+      {
+        "date": "2023-12-14",
+        "fullPct": 90.56,
+        "gasInStorageTWh": 63.45
+      },
+      {
+        "date": "2023-12-15",
+        "fullPct": 90.31,
+        "gasInStorageTWh": 63.28
+      },
+      {
+        "date": "2023-12-16",
+        "fullPct": 90.07,
+        "gasInStorageTWh": 63.11
+      },
+      {
+        "date": "2023-12-17",
+        "fullPct": 89.82,
+        "gasInStorageTWh": 62.94
+      },
+      {
+        "date": "2023-12-18",
+        "fullPct": 89.51,
+        "gasInStorageTWh": 62.72
+      },
+      {
+        "date": "2023-12-19",
+        "fullPct": 89.09,
+        "gasInStorageTWh": 62.43
+      },
+      {
+        "date": "2023-12-20",
+        "fullPct": 88.72,
+        "gasInStorageTWh": 62.17
+      },
+      {
+        "date": "2023-12-21",
+        "fullPct": 88.42,
+        "gasInStorageTWh": 61.96
+      },
+      {
+        "date": "2023-12-22",
+        "fullPct": 88.18,
+        "gasInStorageTWh": 61.79
+      },
+      {
+        "date": "2023-12-23",
+        "fullPct": 88,
+        "gasInStorageTWh": 61.66
+      },
+      {
+        "date": "2023-12-24",
+        "fullPct": 87.87,
+        "gasInStorageTWh": 61.57
+      },
+      {
+        "date": "2023-12-25",
+        "fullPct": 87.78,
+        "gasInStorageTWh": 61.5
+      },
+      {
+        "date": "2023-12-26",
+        "fullPct": 87.71,
+        "gasInStorageTWh": 61.46
+      },
+      {
+        "date": "2023-12-27",
+        "fullPct": 87.63,
+        "gasInStorageTWh": 61.4
+      },
+      {
+        "date": "2023-12-28",
+        "fullPct": 87.52,
+        "gasInStorageTWh": 61.32
+      },
+      {
+        "date": "2023-12-29",
+        "fullPct": 87.38,
+        "gasInStorageTWh": 61.23
+      },
+      {
+        "date": "2023-12-30",
+        "fullPct": 87.27,
+        "gasInStorageTWh": 61.15
+      },
+      {
+        "date": "2023-12-31",
+        "fullPct": 87.13,
+        "gasInStorageTWh": 61.05
+      },
+      {
+        "date": "2024-01-01",
+        "fullPct": 86.98,
+        "gasInStorageTWh": 60.95
+      },
+      {
+        "date": "2024-01-02",
+        "fullPct": 86.81,
+        "gasInStorageTWh": 60.83
+      },
+      {
+        "date": "2024-01-03",
+        "fullPct": 86.68,
+        "gasInStorageTWh": 60.73
+      },
+      {
+        "date": "2024-01-04",
+        "fullPct": 86.56,
+        "gasInStorageTWh": 60.65
+      },
+      {
+        "date": "2024-01-05",
+        "fullPct": 86.39,
+        "gasInStorageTWh": 60.53
+      },
+      {
+        "date": "2024-01-06",
+        "fullPct": 86.22,
+        "gasInStorageTWh": 60.41
+      },
+      {
+        "date": "2024-01-07",
+        "fullPct": 86.01,
+        "gasInStorageTWh": 60.26
+      },
+      {
+        "date": "2024-01-08",
+        "fullPct": 85.57,
+        "gasInStorageTWh": 59.96
+      },
+      {
+        "date": "2024-01-09",
+        "fullPct": 85.07,
+        "gasInStorageTWh": 59.61
+      },
+      {
+        "date": "2024-01-10",
+        "fullPct": 84.52,
+        "gasInStorageTWh": 59.22
+      },
+      {
+        "date": "2024-01-11",
+        "fullPct": 83.94,
+        "gasInStorageTWh": 58.82
+      },
+      {
+        "date": "2024-01-12",
+        "fullPct": 83.39,
+        "gasInStorageTWh": 58.43
+      },
+      {
+        "date": "2024-01-13",
+        "fullPct": 82.91,
+        "gasInStorageTWh": 58.1
+      },
+      {
+        "date": "2024-01-14",
+        "fullPct": 82.46,
+        "gasInStorageTWh": 57.78
+      },
+      {
+        "date": "2024-01-15",
+        "fullPct": 81.99,
+        "gasInStorageTWh": 57.45
+      },
+      {
+        "date": "2024-01-16",
+        "fullPct": 81.52,
+        "gasInStorageTWh": 57.12
+      },
+      {
+        "date": "2024-01-17",
+        "fullPct": 81.11,
+        "gasInStorageTWh": 56.83
+      },
+      {
+        "date": "2024-01-18",
+        "fullPct": 80.75,
+        "gasInStorageTWh": 56.58
+      },
+      {
+        "date": "2024-01-19",
+        "fullPct": 80.33,
+        "gasInStorageTWh": 56.29
+      },
+      {
+        "date": "2024-01-20",
+        "fullPct": 79.93,
+        "gasInStorageTWh": 56
+      },
+      {
+        "date": "2024-01-21",
+        "fullPct": 79.51,
+        "gasInStorageTWh": 55.71
+      },
+      {
+        "date": "2024-01-22",
+        "fullPct": 79,
+        "gasInStorageTWh": 55.35
+      },
+      {
+        "date": "2024-01-23",
+        "fullPct": 78.55,
+        "gasInStorageTWh": 55.04
+      },
+      {
+        "date": "2024-01-24",
+        "fullPct": 78.15,
+        "gasInStorageTWh": 54.76
+      },
+      {
+        "date": "2024-01-25",
+        "fullPct": 77.85,
+        "gasInStorageTWh": 54.55
+      },
+      {
+        "date": "2024-01-26",
+        "fullPct": 77.59,
+        "gasInStorageTWh": 54.37
+      },
+      {
+        "date": "2024-01-27",
+        "fullPct": 77.38,
+        "gasInStorageTWh": 54.22
+      },
+      {
+        "date": "2024-01-28",
+        "fullPct": 77.14,
+        "gasInStorageTWh": 54.05
+      },
+      {
+        "date": "2024-01-29",
+        "fullPct": 76.78,
+        "gasInStorageTWh": 53.8
+      },
+      {
+        "date": "2024-01-30",
+        "fullPct": 76.39,
+        "gasInStorageTWh": 53.53
+      },
+      {
+        "date": "2024-01-31",
+        "fullPct": 76.01,
+        "gasInStorageTWh": 53.26
+      },
+      {
+        "date": "2024-02-01",
+        "fullPct": 75.54,
+        "gasInStorageTWh": 52.93
+      },
+      {
+        "date": "2024-02-02",
+        "fullPct": 75.12,
+        "gasInStorageTWh": 52.63
+      },
+      {
+        "date": "2024-02-03",
+        "fullPct": 74.94,
+        "gasInStorageTWh": 52.51
+      },
+      {
+        "date": "2024-02-04",
+        "fullPct": 74.8,
+        "gasInStorageTWh": 52.41
+      },
+      {
+        "date": "2024-02-05",
+        "fullPct": 74.66,
+        "gasInStorageTWh": 52.31
+      },
+      {
+        "date": "2024-02-06",
+        "fullPct": 74.55,
+        "gasInStorageTWh": 52.24
+      },
+      {
+        "date": "2024-02-07",
+        "fullPct": 74.47,
+        "gasInStorageTWh": 52.18
+      },
+      {
+        "date": "2024-02-08",
+        "fullPct": 74.36,
+        "gasInStorageTWh": 52.1
+      },
+      {
+        "date": "2024-02-09",
+        "fullPct": 74.29,
+        "gasInStorageTWh": 52.05
+      },
+      {
+        "date": "2024-02-10",
+        "fullPct": 74.26,
+        "gasInStorageTWh": 52.03
+      },
+      {
+        "date": "2024-02-11",
+        "fullPct": 74.23,
+        "gasInStorageTWh": 52.01
+      },
+      {
+        "date": "2024-02-12",
+        "fullPct": 74.1,
+        "gasInStorageTWh": 51.92
+      },
+      {
+        "date": "2024-02-13",
+        "fullPct": 73.98,
+        "gasInStorageTWh": 51.84
+      },
+      {
+        "date": "2024-02-14",
+        "fullPct": 73.78,
+        "gasInStorageTWh": 51.7
+      },
+      {
+        "date": "2024-02-15",
+        "fullPct": 73.61,
+        "gasInStorageTWh": 51.58
+      },
+      {
+        "date": "2024-02-16",
+        "fullPct": 73.48,
+        "gasInStorageTWh": 51.49
+      },
+      {
+        "date": "2024-02-17",
+        "fullPct": 73.38,
+        "gasInStorageTWh": 51.41
+      },
+      {
+        "date": "2024-02-18",
+        "fullPct": 73.27,
+        "gasInStorageTWh": 51.34
+      },
+      {
+        "date": "2024-02-19",
+        "fullPct": 73.08,
+        "gasInStorageTWh": 51.21
+      },
+      {
+        "date": "2024-02-20",
+        "fullPct": 72.9,
+        "gasInStorageTWh": 51.08
+      },
+      {
+        "date": "2024-02-21",
+        "fullPct": 72.76,
+        "gasInStorageTWh": 50.98
+      },
+      {
+        "date": "2024-02-22",
+        "fullPct": 72.63,
+        "gasInStorageTWh": 50.89
+      },
+      {
+        "date": "2024-02-23",
+        "fullPct": 72.47,
+        "gasInStorageTWh": 50.78
+      },
+      {
+        "date": "2024-02-24",
+        "fullPct": 72.35,
+        "gasInStorageTWh": 50.7
+      },
+      {
+        "date": "2024-02-25",
+        "fullPct": 72.21,
+        "gasInStorageTWh": 50.59
+      },
+      {
+        "date": "2024-02-26",
+        "fullPct": 72.09,
+        "gasInStorageTWh": 50.51
+      },
+      {
+        "date": "2024-02-27",
+        "fullPct": 71.95,
+        "gasInStorageTWh": 50.42
+      },
+      {
+        "date": "2024-02-28",
+        "fullPct": 71.85,
+        "gasInStorageTWh": 50.34
+      },
+      {
+        "date": "2024-02-29",
+        "fullPct": 71.62,
+        "gasInStorageTWh": 50.18
+      },
+      {
+        "date": "2024-03-01",
+        "fullPct": 71.5,
+        "gasInStorageTWh": 50.1
+      },
+      {
+        "date": "2024-03-02",
+        "fullPct": 71.39,
+        "gasInStorageTWh": 50.02
+      },
+      {
+        "date": "2024-03-03",
+        "fullPct": 71.3,
+        "gasInStorageTWh": 49.96
+      },
+      {
+        "date": "2024-03-04",
+        "fullPct": 71.18,
+        "gasInStorageTWh": 49.87
+      },
+      {
+        "date": "2024-03-05",
+        "fullPct": 71.05,
+        "gasInStorageTWh": 49.78
+      },
+      {
+        "date": "2024-03-06",
+        "fullPct": 70.87,
+        "gasInStorageTWh": 49.66
+      },
+      {
+        "date": "2024-03-07",
+        "fullPct": 70.63,
+        "gasInStorageTWh": 49.49
+      },
+      {
+        "date": "2024-03-08",
+        "fullPct": 70.39,
+        "gasInStorageTWh": 49.32
+      },
+      {
+        "date": "2024-03-09",
+        "fullPct": 70.22,
+        "gasInStorageTWh": 49.2
+      },
+      {
+        "date": "2024-03-10",
+        "fullPct": 70.09,
+        "gasInStorageTWh": 49.11
+      },
+      {
+        "date": "2024-03-11",
+        "fullPct": 69.95,
+        "gasInStorageTWh": 49.02
+      },
+      {
+        "date": "2024-03-12",
+        "fullPct": 69.77,
+        "gasInStorageTWh": 48.89
+      },
+      {
+        "date": "2024-03-13",
+        "fullPct": 69.55,
+        "gasInStorageTWh": 48.73
+      },
+      {
+        "date": "2024-03-14",
+        "fullPct": 69.33,
+        "gasInStorageTWh": 48.58
+      },
+      {
+        "date": "2024-03-15",
+        "fullPct": 69.19,
+        "gasInStorageTWh": 48.48
+      },
+      {
+        "date": "2024-03-16",
+        "fullPct": 69.04,
+        "gasInStorageTWh": 48.38
+      },
+      {
+        "date": "2024-03-17",
+        "fullPct": 68.87,
+        "gasInStorageTWh": 48.26
+      },
+      {
+        "date": "2024-03-18",
+        "fullPct": 68.68,
+        "gasInStorageTWh": 48.12
+      },
+      {
+        "date": "2024-03-19",
+        "fullPct": 68.38,
+        "gasInStorageTWh": 47.91
+      },
+      {
+        "date": "2024-03-20",
+        "fullPct": 68.15,
+        "gasInStorageTWh": 47.75
+      },
+      {
+        "date": "2024-03-21",
+        "fullPct": 67.99,
+        "gasInStorageTWh": 47.64
+      },
+      {
+        "date": "2024-03-22",
+        "fullPct": 67.89,
+        "gasInStorageTWh": 47.57
+      },
+      {
+        "date": "2024-03-23",
+        "fullPct": 67.85,
+        "gasInStorageTWh": 47.54
+      },
+      {
+        "date": "2024-03-24",
+        "fullPct": 67.76,
+        "gasInStorageTWh": 47.48
+      },
+      {
+        "date": "2024-03-25",
+        "fullPct": 67.62,
+        "gasInStorageTWh": 47.38
+      },
+      {
+        "date": "2024-03-26",
+        "fullPct": 67.53,
+        "gasInStorageTWh": 47.32
+      },
+      {
+        "date": "2024-03-27",
+        "fullPct": 67.45,
+        "gasInStorageTWh": 47.26
+      },
+      {
+        "date": "2024-03-28",
+        "fullPct": 67.38,
+        "gasInStorageTWh": 47.21
+      },
+      {
+        "date": "2024-03-29",
+        "fullPct": 67.32,
+        "gasInStorageTWh": 47.17
+      },
+      {
+        "date": "2024-03-30",
+        "fullPct": 67.32,
+        "gasInStorageTWh": 47.17
+      },
+      {
+        "date": "2024-03-31",
+        "fullPct": 71.56,
+        "gasInStorageTWh": 48.45
+      },
+      {
+        "date": "2024-04-01",
+        "fullPct": 68.53,
+        "gasInStorageTWh": 46.4
+      },
+      {
+        "date": "2024-04-02",
+        "fullPct": 68.6,
+        "gasInStorageTWh": 46.44
+      },
+      {
+        "date": "2024-04-03",
+        "fullPct": 68.67,
+        "gasInStorageTWh": 46.49
+      },
+      {
+        "date": "2024-04-04",
+        "fullPct": 68.72,
+        "gasInStorageTWh": 46.53
+      },
+      {
+        "date": "2024-04-05",
+        "fullPct": 68.82,
+        "gasInStorageTWh": 46.59
+      },
+      {
+        "date": "2024-04-06",
+        "fullPct": 68.94,
+        "gasInStorageTWh": 46.68
+      },
+      {
+        "date": "2024-04-07",
+        "fullPct": 69.08,
+        "gasInStorageTWh": 46.77
+      },
+      {
+        "date": "2024-04-08",
+        "fullPct": 69.2,
+        "gasInStorageTWh": 46.85
+      },
+      {
+        "date": "2024-04-09",
+        "fullPct": 69.34,
+        "gasInStorageTWh": 46.94
+      },
+      {
+        "date": "2024-04-10",
+        "fullPct": 69.44,
+        "gasInStorageTWh": 47.01
+      },
+      {
+        "date": "2024-04-11",
+        "fullPct": 69.56,
+        "gasInStorageTWh": 47.1
+      },
+      {
+        "date": "2024-04-12",
+        "fullPct": 69.69,
+        "gasInStorageTWh": 47.18
+      },
+      {
+        "date": "2024-04-13",
+        "fullPct": 69.86,
+        "gasInStorageTWh": 47.3
+      },
+      {
+        "date": "2024-04-14",
+        "fullPct": 70.02,
+        "gasInStorageTWh": 47.41
+      },
+      {
+        "date": "2024-04-15",
+        "fullPct": 70.18,
+        "gasInStorageTWh": 47.52
+      },
+      {
+        "date": "2024-04-16",
+        "fullPct": 70.28,
+        "gasInStorageTWh": 47.58
+      },
+      {
+        "date": "2024-04-17",
+        "fullPct": 70.38,
+        "gasInStorageTWh": 47.65
+      },
+      {
+        "date": "2024-04-18",
+        "fullPct": 70.44,
+        "gasInStorageTWh": 47.69
+      },
+      {
+        "date": "2024-04-19",
+        "fullPct": 70.45,
+        "gasInStorageTWh": 47.7
+      },
+      {
+        "date": "2024-04-20",
+        "fullPct": 70.45,
+        "gasInStorageTWh": 47.7
+      },
+      {
+        "date": "2024-04-21",
+        "fullPct": 70.45,
+        "gasInStorageTWh": 47.7
+      },
+      {
+        "date": "2024-04-22",
+        "fullPct": 70.4,
+        "gasInStorageTWh": 47.67
+      },
+      {
+        "date": "2024-04-23",
+        "fullPct": 70.35,
+        "gasInStorageTWh": 47.63
+      },
+      {
+        "date": "2024-04-24",
+        "fullPct": 70.28,
+        "gasInStorageTWh": 47.58
+      },
+      {
+        "date": "2024-04-25",
+        "fullPct": 70.2,
+        "gasInStorageTWh": 47.53
+      },
+      {
+        "date": "2024-04-26",
+        "fullPct": 70.16,
+        "gasInStorageTWh": 47.5
+      },
+      {
+        "date": "2024-04-27",
+        "fullPct": 70.22,
+        "gasInStorageTWh": 47.54
+      },
+      {
+        "date": "2024-04-28",
+        "fullPct": 70.32,
+        "gasInStorageTWh": 47.61
+      },
+      {
+        "date": "2024-04-29",
+        "fullPct": 70.4,
+        "gasInStorageTWh": 47.66
+      },
+      {
+        "date": "2024-04-30",
+        "fullPct": 70.53,
+        "gasInStorageTWh": 47.75
+      },
+      {
+        "date": "2024-05-01",
+        "fullPct": 70.69,
+        "gasInStorageTWh": 47.86
+      },
+      {
+        "date": "2024-05-02",
+        "fullPct": 70.83,
+        "gasInStorageTWh": 47.96
+      },
+      {
+        "date": "2024-05-03",
+        "fullPct": 70.98,
+        "gasInStorageTWh": 48.06
+      },
+      {
+        "date": "2024-05-04",
+        "fullPct": 71.12,
+        "gasInStorageTWh": 48.15
+      },
+      {
+        "date": "2024-05-05",
+        "fullPct": 71.27,
+        "gasInStorageTWh": 48.25
+      },
+      {
+        "date": "2024-05-06",
+        "fullPct": 72.2,
+        "gasInStorageTWh": 48.88
+      },
+      {
+        "date": "2024-05-07",
+        "fullPct": 72.34,
+        "gasInStorageTWh": 48.98
+      },
+      {
+        "date": "2024-05-08",
+        "fullPct": 72.47,
+        "gasInStorageTWh": 49.06
+      },
+      {
+        "date": "2024-05-09",
+        "fullPct": 72.6,
+        "gasInStorageTWh": 49.16
+      },
+      {
+        "date": "2024-05-10",
+        "fullPct": 72.72,
+        "gasInStorageTWh": 49.24
+      },
+      {
+        "date": "2024-05-11",
+        "fullPct": 72.83,
+        "gasInStorageTWh": 49.31
+      },
+      {
+        "date": "2024-05-12",
+        "fullPct": 72.93,
+        "gasInStorageTWh": 49.38
+      },
+      {
+        "date": "2024-05-13",
+        "fullPct": 73.01,
+        "gasInStorageTWh": 49.43
+      },
+      {
+        "date": "2024-05-14",
+        "fullPct": 73.09,
+        "gasInStorageTWh": 49.49
+      },
+      {
+        "date": "2024-05-15",
+        "fullPct": 73.23,
+        "gasInStorageTWh": 49.58
+      },
+      {
+        "date": "2024-05-16",
+        "fullPct": 73.38,
+        "gasInStorageTWh": 49.68
+      },
+      {
+        "date": "2024-05-17",
+        "fullPct": 73.51,
+        "gasInStorageTWh": 49.77
+      },
+      {
+        "date": "2024-05-18",
+        "fullPct": 73.65,
+        "gasInStorageTWh": 49.87
+      },
+      {
+        "date": "2024-05-19",
+        "fullPct": 73.8,
+        "gasInStorageTWh": 49.97
+      },
+      {
+        "date": "2024-05-20",
+        "fullPct": 73.94,
+        "gasInStorageTWh": 50.06
+      },
+      {
+        "date": "2024-05-21",
+        "fullPct": 74.1,
+        "gasInStorageTWh": 50.17
+      },
+      {
+        "date": "2024-05-22",
+        "fullPct": 74.25,
+        "gasInStorageTWh": 50.27
+      },
+      {
+        "date": "2024-05-23",
+        "fullPct": 74.39,
+        "gasInStorageTWh": 50.37
+      },
+      {
+        "date": "2024-05-24",
+        "fullPct": 74.53,
+        "gasInStorageTWh": 50.46
+      },
+      {
+        "date": "2024-05-25",
+        "fullPct": 74.71,
+        "gasInStorageTWh": 50.58
+      },
+      {
+        "date": "2024-05-26",
+        "fullPct": 75.37,
+        "gasInStorageTWh": 51.03
+      },
+      {
+        "date": "2024-05-27",
+        "fullPct": 75.52,
+        "gasInStorageTWh": 51.13
+      },
+      {
+        "date": "2024-05-28",
+        "fullPct": 75.68,
+        "gasInStorageTWh": 51.24
+      },
+      {
+        "date": "2024-05-29",
+        "fullPct": 75.8,
+        "gasInStorageTWh": 51.32
+      },
+      {
+        "date": "2024-05-30",
+        "fullPct": 75.92,
+        "gasInStorageTWh": 51.4
+      },
+      {
+        "date": "2024-05-31",
+        "fullPct": 76.07,
+        "gasInStorageTWh": 51.5
+      },
+      {
+        "date": "2024-06-01",
+        "fullPct": 76.23,
+        "gasInStorageTWh": 51.62
+      },
+      {
+        "date": "2024-06-02",
+        "fullPct": 76.4,
+        "gasInStorageTWh": 51.73
+      },
+      {
+        "date": "2024-06-03",
+        "fullPct": 76.52,
+        "gasInStorageTWh": 51.81
+      },
+      {
+        "date": "2024-06-04",
+        "fullPct": 76.39,
+        "gasInStorageTWh": 51.72
+      },
+      {
+        "date": "2024-06-05",
+        "fullPct": 76.24,
+        "gasInStorageTWh": 51.62
+      },
+      {
+        "date": "2024-06-06",
+        "fullPct": 76.08,
+        "gasInStorageTWh": 51.51
+      },
+      {
+        "date": "2024-06-07",
+        "fullPct": 75.92,
+        "gasInStorageTWh": 51.4
+      },
+      {
+        "date": "2024-06-08",
+        "fullPct": 75.75,
+        "gasInStorageTWh": 51.29
+      },
+      {
+        "date": "2024-06-09",
+        "fullPct": 75.62,
+        "gasInStorageTWh": 51.2
+      },
+      {
+        "date": "2024-06-10",
+        "fullPct": 75.49,
+        "gasInStorageTWh": 51.11
+      },
+      {
+        "date": "2024-06-11",
+        "fullPct": 75.62,
+        "gasInStorageTWh": 51.2
+      },
+      {
+        "date": "2024-06-12",
+        "fullPct": 75.78,
+        "gasInStorageTWh": 51.3
+      },
+      {
+        "date": "2024-06-13",
+        "fullPct": 75.92,
+        "gasInStorageTWh": 51.4
+      },
+      {
+        "date": "2024-06-14",
+        "fullPct": 76.08,
+        "gasInStorageTWh": 51.51
+      },
+      {
+        "date": "2024-06-15",
+        "fullPct": 76.24,
+        "gasInStorageTWh": 51.62
+      },
+      {
+        "date": "2024-06-16",
+        "fullPct": 76.41,
+        "gasInStorageTWh": 51.73
+      },
+      {
+        "date": "2024-06-17",
+        "fullPct": 76.55,
+        "gasInStorageTWh": 51.83
+      },
+      {
+        "date": "2024-06-18",
+        "fullPct": 76.68,
+        "gasInStorageTWh": 51.92
+      },
+      {
+        "date": "2024-06-19",
+        "fullPct": 76.81,
+        "gasInStorageTWh": 52.01
+      },
+      {
+        "date": "2024-06-20",
+        "fullPct": 76.95,
+        "gasInStorageTWh": 52.1
+      },
+      {
+        "date": "2024-06-21",
+        "fullPct": 77.07,
+        "gasInStorageTWh": 52.18
+      },
+      {
+        "date": "2024-06-22",
+        "fullPct": 77.25,
+        "gasInStorageTWh": 52.3
+      },
+      {
+        "date": "2024-06-23",
+        "fullPct": 77.42,
+        "gasInStorageTWh": 52.42
+      },
+      {
+        "date": "2024-06-24",
+        "fullPct": 77.56,
+        "gasInStorageTWh": 52.51
+      },
+      {
+        "date": "2024-06-25",
+        "fullPct": 77.68,
+        "gasInStorageTWh": 52.59
+      },
+      {
+        "date": "2024-06-26",
+        "fullPct": 77.79,
+        "gasInStorageTWh": 52.67
+      },
+      {
+        "date": "2024-06-27",
+        "fullPct": 77.59,
+        "gasInStorageTWh": 52.75
+      },
+      {
+        "date": "2024-06-28",
+        "fullPct": 77.71,
+        "gasInStorageTWh": 52.84
+      },
+      {
+        "date": "2024-06-29",
+        "fullPct": 77.87,
+        "gasInStorageTWh": 52.94
+      },
+      {
+        "date": "2024-06-30",
+        "fullPct": 78.02,
+        "gasInStorageTWh": 53.05
+      },
+      {
+        "date": "2024-07-01",
+        "fullPct": 78.17,
+        "gasInStorageTWh": 53.15
+      },
+      {
+        "date": "2024-07-02",
+        "fullPct": 78.34,
+        "gasInStorageTWh": 53.26
+      },
+      {
+        "date": "2024-07-03",
+        "fullPct": 78.52,
+        "gasInStorageTWh": 53.39
+      },
+      {
+        "date": "2024-07-04",
+        "fullPct": 78.69,
+        "gasInStorageTWh": 53.5
+      },
+      {
+        "date": "2024-07-05",
+        "fullPct": 78.85,
+        "gasInStorageTWh": 53.61
+      },
+      {
+        "date": "2024-07-06",
+        "fullPct": 79.05,
+        "gasInStorageTWh": 53.75
+      },
+      {
+        "date": "2024-07-07",
+        "fullPct": 79.22,
+        "gasInStorageTWh": 53.86
+      },
+      {
+        "date": "2024-07-08",
+        "fullPct": 79.37,
+        "gasInStorageTWh": 53.97
+      },
+      {
+        "date": "2024-07-09",
+        "fullPct": 79.52,
+        "gasInStorageTWh": 54.07
+      },
+      {
+        "date": "2024-07-10",
+        "fullPct": 79.63,
+        "gasInStorageTWh": 54.14
+      },
+      {
+        "date": "2024-07-11",
+        "fullPct": 79.75,
+        "gasInStorageTWh": 54.22
+      },
+      {
+        "date": "2024-07-12",
+        "fullPct": 79.84,
+        "gasInStorageTWh": 54.28
+      },
+      {
+        "date": "2024-07-13",
+        "fullPct": 80,
+        "gasInStorageTWh": 54.39
+      },
+      {
+        "date": "2024-07-14",
+        "fullPct": 80.15,
+        "gasInStorageTWh": 54.49
+      },
+      {
+        "date": "2024-07-15",
+        "fullPct": 80.29,
+        "gasInStorageTWh": 54.59
+      },
+      {
+        "date": "2024-07-16",
+        "fullPct": 80.42,
+        "gasInStorageTWh": 54.68
+      },
+      {
+        "date": "2024-07-17",
+        "fullPct": 80.57,
+        "gasInStorageTWh": 54.78
+      },
+      {
+        "date": "2024-07-18",
+        "fullPct": 80.75,
+        "gasInStorageTWh": 54.91
+      },
+      {
+        "date": "2024-07-19",
+        "fullPct": 80.92,
+        "gasInStorageTWh": 55.02
+      },
+      {
+        "date": "2024-07-20",
+        "fullPct": 81.1,
+        "gasInStorageTWh": 55.14
+      },
+      {
+        "date": "2024-07-21",
+        "fullPct": 81.28,
+        "gasInStorageTWh": 55.26
+      },
+      {
+        "date": "2024-07-22",
+        "fullPct": 81.45,
+        "gasInStorageTWh": 55.38
+      },
+      {
+        "date": "2024-07-23",
+        "fullPct": 81.65,
+        "gasInStorageTWh": 55.52
+      },
+      {
+        "date": "2024-07-24",
+        "fullPct": 81.83,
+        "gasInStorageTWh": 55.64
+      },
+      {
+        "date": "2024-07-25",
+        "fullPct": 82,
+        "gasInStorageTWh": 55.75
+      },
+      {
+        "date": "2024-07-26",
+        "fullPct": 82.17,
+        "gasInStorageTWh": 55.87
+      },
+      {
+        "date": "2024-07-27",
+        "fullPct": 82.39,
+        "gasInStorageTWh": 56.02
+      },
+      {
+        "date": "2024-07-28",
+        "fullPct": 82.6,
+        "gasInStorageTWh": 56.16
+      },
+      {
+        "date": "2024-07-29",
+        "fullPct": 82.78,
+        "gasInStorageTWh": 56.28
+      },
+      {
+        "date": "2024-07-30",
+        "fullPct": 82.97,
+        "gasInStorageTWh": 56.41
+      },
+      {
+        "date": "2024-07-31",
+        "fullPct": 83.19,
+        "gasInStorageTWh": 56.56
+      },
+      {
+        "date": "2024-08-01",
+        "fullPct": 83.42,
+        "gasInStorageTWh": 56.72
+      },
+      {
+        "date": "2024-08-02",
+        "fullPct": 83.64,
+        "gasInStorageTWh": 56.87
+      },
+      {
+        "date": "2024-08-03",
+        "fullPct": 83.89,
+        "gasInStorageTWh": 57.04
+      },
+      {
+        "date": "2024-08-04",
+        "fullPct": 84.13,
+        "gasInStorageTWh": 57.2
+      },
+      {
+        "date": "2024-08-05",
+        "fullPct": 84.34,
+        "gasInStorageTWh": 57.34
+      },
+      {
+        "date": "2024-08-06",
+        "fullPct": 84.55,
+        "gasInStorageTWh": 57.48
+      },
+      {
+        "date": "2024-08-07",
+        "fullPct": 84.72,
+        "gasInStorageTWh": 57.6
+      },
+      {
+        "date": "2024-08-08",
+        "fullPct": 84.94,
+        "gasInStorageTWh": 57.75
+      },
+      {
+        "date": "2024-08-09",
+        "fullPct": 85.13,
+        "gasInStorageTWh": 57.88
+      },
+      {
+        "date": "2024-08-10",
+        "fullPct": 85.14,
+        "gasInStorageTWh": 57.89
+      },
+      {
+        "date": "2024-08-11",
+        "fullPct": 85.64,
+        "gasInStorageTWh": 58.23
+      },
+      {
+        "date": "2024-08-12",
+        "fullPct": 85.83,
+        "gasInStorageTWh": 58.36
+      },
+      {
+        "date": "2024-08-13",
+        "fullPct": 86.05,
+        "gasInStorageTWh": 58.51
+      },
+      {
+        "date": "2024-08-14",
+        "fullPct": 86.25,
+        "gasInStorageTWh": 58.64
+      },
+      {
+        "date": "2024-08-15",
+        "fullPct": 86.47,
+        "gasInStorageTWh": 58.79
+      },
+      {
+        "date": "2024-08-16",
+        "fullPct": 86.68,
+        "gasInStorageTWh": 58.93
+      },
+      {
+        "date": "2024-08-17",
+        "fullPct": 86.92,
+        "gasInStorageTWh": 59.09
+      },
+      {
+        "date": "2024-08-18",
+        "fullPct": 87.17,
+        "gasInStorageTWh": 59.27
+      },
+      {
+        "date": "2024-08-19",
+        "fullPct": 87.41,
+        "gasInStorageTWh": 59.43
+      },
+      {
+        "date": "2024-08-20",
+        "fullPct": 87.65,
+        "gasInStorageTWh": 59.59
+      },
+      {
+        "date": "2024-08-21",
+        "fullPct": 87.86,
+        "gasInStorageTWh": 59.74
+      },
+      {
+        "date": "2024-08-22",
+        "fullPct": 88.02,
+        "gasInStorageTWh": 59.84
+      },
+      {
+        "date": "2024-08-23",
+        "fullPct": 88.19,
+        "gasInStorageTWh": 59.96
+      },
+      {
+        "date": "2024-08-24",
+        "fullPct": 88.42,
+        "gasInStorageTWh": 60.12
+      },
+      {
+        "date": "2024-08-25",
+        "fullPct": 88.67,
+        "gasInStorageTWh": 60.29
+      },
+      {
+        "date": "2024-08-26",
+        "fullPct": 88.87,
+        "gasInStorageTWh": 60.42
+      },
+      {
+        "date": "2024-08-27",
+        "fullPct": 89.05,
+        "gasInStorageTWh": 60.55
+      },
+      {
+        "date": "2024-08-28",
+        "fullPct": 89.22,
+        "gasInStorageTWh": 60.66
+      },
+      {
+        "date": "2024-08-29",
+        "fullPct": 89.41,
+        "gasInStorageTWh": 60.79
+      },
+      {
+        "date": "2024-08-30",
+        "fullPct": 89.6,
+        "gasInStorageTWh": 60.92
+      },
+      {
+        "date": "2024-08-31",
+        "fullPct": 89.77,
+        "gasInStorageTWh": 61.04
+      },
+      {
+        "date": "2024-09-01",
+        "fullPct": 89.93,
+        "gasInStorageTWh": 61.15
+      },
+      {
+        "date": "2024-09-02",
+        "fullPct": 90.09,
+        "gasInStorageTWh": 61.26
+      },
+      {
+        "date": "2024-09-03",
+        "fullPct": 90.23,
+        "gasInStorageTWh": 61.35
+      },
+      {
+        "date": "2024-09-04",
+        "fullPct": 90.46,
+        "gasInStorageTWh": 61.5
+      },
+      {
+        "date": "2024-09-05",
+        "fullPct": 90.59,
+        "gasInStorageTWh": 61.59
+      },
+      {
+        "date": "2024-09-06",
+        "fullPct": 90.76,
+        "gasInStorageTWh": 61.71
+      },
+      {
+        "date": "2024-09-07",
+        "fullPct": 90.94,
+        "gasInStorageTWh": 61.83
+      },
+      {
+        "date": "2024-09-08",
+        "fullPct": 91.13,
+        "gasInStorageTWh": 61.96
+      },
+      {
+        "date": "2024-09-09",
+        "fullPct": 91.28,
+        "gasInStorageTWh": 62.06
+      },
+      {
+        "date": "2024-09-10",
+        "fullPct": 91.4,
+        "gasInStorageTWh": 62.14
+      },
+      {
+        "date": "2024-09-11",
+        "fullPct": 91.5,
+        "gasInStorageTWh": 62.21
+      },
+      {
+        "date": "2024-09-12",
+        "fullPct": 91.59,
+        "gasInStorageTWh": 62.27
+      },
+      {
+        "date": "2024-09-13",
+        "fullPct": 91.72,
+        "gasInStorageTWh": 62.36
+      },
+      {
+        "date": "2024-09-14",
+        "fullPct": 91.85,
+        "gasInStorageTWh": 62.45
+      },
+      {
+        "date": "2024-09-15",
+        "fullPct": 91.96,
+        "gasInStorageTWh": 62.52
+      },
+      {
+        "date": "2024-09-16",
+        "fullPct": 92.06,
+        "gasInStorageTWh": 62.59
+      },
+      {
+        "date": "2024-09-17",
+        "fullPct": 92.06,
+        "gasInStorageTWh": 62.59
+      },
+      {
+        "date": "2024-09-18",
+        "fullPct": 92.25,
+        "gasInStorageTWh": 62.72
+      },
+      {
+        "date": "2024-09-19",
+        "fullPct": 92.38,
+        "gasInStorageTWh": 62.81
+      },
+      {
+        "date": "2024-09-20",
+        "fullPct": 92.5,
+        "gasInStorageTWh": 62.89
+      },
+      {
+        "date": "2024-09-21",
+        "fullPct": 92.62,
+        "gasInStorageTWh": 62.97
+      },
+      {
+        "date": "2024-09-22",
+        "fullPct": 92.75,
+        "gasInStorageTWh": 63.06
+      },
+      {
+        "date": "2024-09-23",
+        "fullPct": 92.84,
+        "gasInStorageTWh": 63.12
+      },
+      {
+        "date": "2024-09-24",
+        "fullPct": 92.96,
+        "gasInStorageTWh": 63.21
+      },
+      {
+        "date": "2024-09-25",
+        "fullPct": 93.07,
+        "gasInStorageTWh": 63.28
+      },
+      {
+        "date": "2024-09-26",
+        "fullPct": 93.19,
+        "gasInStorageTWh": 63.36
+      },
+      {
+        "date": "2024-09-27",
+        "fullPct": 93.32,
+        "gasInStorageTWh": 63.45
+      },
+      {
+        "date": "2024-09-28",
+        "fullPct": 93.46,
+        "gasInStorageTWh": 63.54
+      },
+      {
+        "date": "2024-09-29",
+        "fullPct": 93.57,
+        "gasInStorageTWh": 63.62
+      },
+      {
+        "date": "2024-09-30",
+        "fullPct": 93.63,
+        "gasInStorageTWh": 63.66
+      },
+      {
+        "date": "2024-10-01",
+        "fullPct": 93.58,
+        "gasInStorageTWh": 63.62
+      },
+      {
+        "date": "2024-10-02",
+        "fullPct": 93.52,
+        "gasInStorageTWh": 63.58
+      },
+      {
+        "date": "2024-10-03",
+        "fullPct": 93.45,
+        "gasInStorageTWh": 63.53
+      },
+      {
+        "date": "2024-10-04",
+        "fullPct": 93.38,
+        "gasInStorageTWh": 63.49
+      },
+      {
+        "date": "2024-10-05",
+        "fullPct": 93.3,
+        "gasInStorageTWh": 63.44
+      },
+      {
+        "date": "2024-10-06",
+        "fullPct": 93.23,
+        "gasInStorageTWh": 63.39
+      },
+      {
+        "date": "2024-10-07",
+        "fullPct": 93.16,
+        "gasInStorageTWh": 63.34
+      },
+      {
+        "date": "2024-10-08",
+        "fullPct": 93.1,
+        "gasInStorageTWh": 63.3
+      },
+      {
+        "date": "2024-10-09",
+        "fullPct": 93.08,
+        "gasInStorageTWh": 63.28
+      },
+      {
+        "date": "2024-10-10",
+        "fullPct": 93.03,
+        "gasInStorageTWh": 63.25
+      },
+      {
+        "date": "2024-10-11",
+        "fullPct": 92.98,
+        "gasInStorageTWh": 63.22
+      },
+      {
+        "date": "2024-10-12",
+        "fullPct": 92.94,
+        "gasInStorageTWh": 63.19
+      },
+      {
+        "date": "2024-10-13",
+        "fullPct": 92.88,
+        "gasInStorageTWh": 63.15
+      },
+      {
+        "date": "2024-10-14",
+        "fullPct": 92.8,
+        "gasInStorageTWh": 63.1
+      },
+      {
+        "date": "2024-10-15",
+        "fullPct": 92.7,
+        "gasInStorageTWh": 63.02
+      },
+      {
+        "date": "2024-10-16",
+        "fullPct": 92.57,
+        "gasInStorageTWh": 62.94
+      },
+      {
+        "date": "2024-10-17",
+        "fullPct": 92.42,
+        "gasInStorageTWh": 62.84
+      },
+      {
+        "date": "2024-10-18",
+        "fullPct": 92.31,
+        "gasInStorageTWh": 62.76
+      },
+      {
+        "date": "2024-10-19",
+        "fullPct": 92.21,
+        "gasInStorageTWh": 62.69
+      },
+      {
+        "date": "2024-10-20",
+        "fullPct": 92.1,
+        "gasInStorageTWh": 62.62
+      },
+      {
+        "date": "2024-10-21",
+        "fullPct": 91.94,
+        "gasInStorageTWh": 62.51
+      },
+      {
+        "date": "2024-10-22",
+        "fullPct": 91.76,
+        "gasInStorageTWh": 62.39
+      },
+      {
+        "date": "2024-10-23",
+        "fullPct": 91.68,
+        "gasInStorageTWh": 62.33
+      },
+      {
+        "date": "2024-10-24",
+        "fullPct": 91.59,
+        "gasInStorageTWh": 62.27
+      },
+      {
+        "date": "2024-10-25",
+        "fullPct": 91.48,
+        "gasInStorageTWh": 62.2
+      },
+      {
+        "date": "2024-10-26",
+        "fullPct": 91.41,
+        "gasInStorageTWh": 62.15
+      },
+      {
+        "date": "2024-10-27",
+        "fullPct": 91.37,
+        "gasInStorageTWh": 62.12
+      },
+      {
+        "date": "2024-10-28",
+        "fullPct": 91.29,
+        "gasInStorageTWh": 62.07
+      },
+      {
+        "date": "2024-10-29",
+        "fullPct": 91.19,
+        "gasInStorageTWh": 62
+      },
+      {
+        "date": "2024-10-30",
+        "fullPct": 91.11,
+        "gasInStorageTWh": 61.95
+      },
+      {
+        "date": "2024-10-31",
+        "fullPct": 91.01,
+        "gasInStorageTWh": 61.88
+      },
+      {
+        "date": "2024-11-01",
+        "fullPct": 90.96,
+        "gasInStorageTWh": 61.85
+      },
+      {
+        "date": "2024-11-02",
+        "fullPct": 90.88,
+        "gasInStorageTWh": 61.79
+      },
+      {
+        "date": "2024-11-03",
+        "fullPct": 90.77,
+        "gasInStorageTWh": 61.72
+      },
+      {
+        "date": "2024-11-04",
+        "fullPct": 90.59,
+        "gasInStorageTWh": 61.59
+      },
+      {
+        "date": "2024-11-05",
+        "fullPct": 90.4,
+        "gasInStorageTWh": 61.46
+      },
+      {
+        "date": "2024-11-06",
+        "fullPct": 90.11,
+        "gasInStorageTWh": 61.26
+      },
+      {
+        "date": "2024-11-07",
+        "fullPct": 89.82,
+        "gasInStorageTWh": 61.07
+      },
+      {
+        "date": "2024-11-08",
+        "fullPct": 89.55,
+        "gasInStorageTWh": 60.89
+      },
+      {
+        "date": "2024-11-09",
+        "fullPct": 89.29,
+        "gasInStorageTWh": 60.71
+      },
+      {
+        "date": "2024-11-10",
+        "fullPct": 88.98,
+        "gasInStorageTWh": 60.5
+      },
+      {
+        "date": "2024-11-11",
+        "fullPct": 88.59,
+        "gasInStorageTWh": 60.23
+      },
+      {
+        "date": "2024-11-12",
+        "fullPct": 88.18,
+        "gasInStorageTWh": 59.96
+      },
+      {
+        "date": "2024-11-13",
+        "fullPct": 87.7,
+        "gasInStorageTWh": 59.63
+      },
+      {
+        "date": "2024-11-14",
+        "fullPct": 87.23,
+        "gasInStorageTWh": 59.31
+      },
+      {
+        "date": "2024-11-15",
+        "fullPct": 86.86,
+        "gasInStorageTWh": 59.06
+      },
+      {
+        "date": "2024-11-16",
+        "fullPct": 86.56,
+        "gasInStorageTWh": 58.86
+      },
+      {
+        "date": "2024-11-17",
+        "fullPct": 86.21,
+        "gasInStorageTWh": 58.62
+      },
+      {
+        "date": "2024-11-18",
+        "fullPct": 85.83,
+        "gasInStorageTWh": 58.35
+      },
+      {
+        "date": "2024-11-19",
+        "fullPct": 85.37,
+        "gasInStorageTWh": 58.04
+      },
+      {
+        "date": "2024-11-20",
+        "fullPct": 84.95,
+        "gasInStorageTWh": 57.76
+      },
+      {
+        "date": "2024-11-21",
+        "fullPct": 84.52,
+        "gasInStorageTWh": 57.47
+      },
+      {
+        "date": "2024-11-22",
+        "fullPct": 84.06,
+        "gasInStorageTWh": 57.15
+      },
+      {
+        "date": "2024-11-23",
+        "fullPct": 83.62,
+        "gasInStorageTWh": 56.86
+      },
+      {
+        "date": "2024-11-24",
+        "fullPct": 83.23,
+        "gasInStorageTWh": 56.59
+      },
+      {
+        "date": "2024-11-25",
+        "fullPct": 82.82,
+        "gasInStorageTWh": 56.31
+      },
+      {
+        "date": "2024-11-26",
+        "fullPct": 82.4,
+        "gasInStorageTWh": 56.03
+      },
+      {
+        "date": "2024-11-27",
+        "fullPct": 81.99,
+        "gasInStorageTWh": 55.74
+      },
+      {
+        "date": "2024-11-28",
+        "fullPct": 81.58,
+        "gasInStorageTWh": 55.47
+      },
+      {
+        "date": "2024-11-29",
+        "fullPct": 81.17,
+        "gasInStorageTWh": 55.19
+      },
+      {
+        "date": "2024-11-30",
+        "fullPct": 80.81,
+        "gasInStorageTWh": 54.94
+      },
+      {
+        "date": "2024-12-01",
+        "fullPct": 80.46,
+        "gasInStorageTWh": 54.71
+      },
+      {
+        "date": "2024-12-02",
+        "fullPct": 80.03,
+        "gasInStorageTWh": 54.42
+      },
+      {
+        "date": "2024-12-03",
+        "fullPct": 79.66,
+        "gasInStorageTWh": 54.16
+      },
+      {
+        "date": "2024-12-04",
+        "fullPct": 79.18,
+        "gasInStorageTWh": 53.84
+      },
+      {
+        "date": "2024-12-05",
+        "fullPct": 78.74,
+        "gasInStorageTWh": 53.54
+      },
+      {
+        "date": "2024-12-06",
+        "fullPct": 78.29,
+        "gasInStorageTWh": 53.23
+      },
+      {
+        "date": "2024-12-07",
+        "fullPct": 77.92,
+        "gasInStorageTWh": 52.98
+      },
+      {
+        "date": "2024-12-08",
+        "fullPct": 77.56,
+        "gasInStorageTWh": 52.74
+      },
+      {
+        "date": "2024-12-09",
+        "fullPct": 77.15,
+        "gasInStorageTWh": 52.46
+      },
+      {
+        "date": "2024-12-10",
+        "fullPct": 76.72,
+        "gasInStorageTWh": 52.16
+      },
+      {
+        "date": "2024-12-11",
+        "fullPct": 76.18,
+        "gasInStorageTWh": 51.79
+      },
+      {
+        "date": "2024-12-12",
+        "fullPct": 75.65,
+        "gasInStorageTWh": 51.44
+      },
+      {
+        "date": "2024-12-13",
+        "fullPct": 75.13,
+        "gasInStorageTWh": 51.08
+      },
+      {
+        "date": "2024-12-14",
+        "fullPct": 74.66,
+        "gasInStorageTWh": 50.76
+      },
+      {
+        "date": "2024-12-15",
+        "fullPct": 74.26,
+        "gasInStorageTWh": 50.49
+      },
+      {
+        "date": "2024-12-16",
+        "fullPct": 73.85,
+        "gasInStorageTWh": 50.21
+      },
+      {
+        "date": "2024-12-17",
+        "fullPct": 73.5,
+        "gasInStorageTWh": 49.97
+      },
+      {
+        "date": "2024-12-18",
+        "fullPct": 73.14,
+        "gasInStorageTWh": 49.73
+      },
+      {
+        "date": "2024-12-19",
+        "fullPct": 72.84,
+        "gasInStorageTWh": 49.52
+      },
+      {
+        "date": "2024-12-20",
+        "fullPct": 72.52,
+        "gasInStorageTWh": 49.31
+      },
+      {
+        "date": "2024-12-21",
+        "fullPct": 72.23,
+        "gasInStorageTWh": 49.11
+      },
+      {
+        "date": "2024-12-22",
+        "fullPct": 71.88,
+        "gasInStorageTWh": 48.87
+      },
+      {
+        "date": "2024-12-23",
+        "fullPct": 71.53,
+        "gasInStorageTWh": 48.63
+      },
+      {
+        "date": "2024-12-24",
+        "fullPct": 71.19,
+        "gasInStorageTWh": 48.4
+      },
+      {
+        "date": "2024-12-25",
+        "fullPct": 70.86,
+        "gasInStorageTWh": 48.18
+      },
+      {
+        "date": "2024-12-26",
+        "fullPct": 70.53,
+        "gasInStorageTWh": 47.95
+      },
+      {
+        "date": "2024-12-27",
+        "fullPct": 70.14,
+        "gasInStorageTWh": 47.69
+      },
+      {
+        "date": "2024-12-28",
+        "fullPct": 69.77,
+        "gasInStorageTWh": 47.44
+      },
+      {
+        "date": "2024-12-29",
+        "fullPct": 69.37,
+        "gasInStorageTWh": 47.17
+      },
+      {
+        "date": "2024-12-30",
+        "fullPct": 68.9,
+        "gasInStorageTWh": 46.84
+      },
+      {
+        "date": "2024-12-31",
+        "fullPct": 68.44,
+        "gasInStorageTWh": 46.53
+      },
+      {
+        "date": "2025-01-01",
+        "fullPct": 68.08,
+        "gasInStorageTWh": 46.29
+      },
+      {
+        "date": "2025-01-02",
+        "fullPct": 67.73,
+        "gasInStorageTWh": 46.05
+      },
+      {
+        "date": "2025-01-03",
+        "fullPct": 67.36,
+        "gasInStorageTWh": 45.8
+      },
+      {
+        "date": "2025-01-04",
+        "fullPct": 66.98,
+        "gasInStorageTWh": 45.54
+      },
+      {
+        "date": "2025-01-05",
+        "fullPct": 66.59,
+        "gasInStorageTWh": 45.28
+      },
+      {
+        "date": "2025-01-06",
+        "fullPct": 66.25,
+        "gasInStorageTWh": 45.05
+      },
+      {
+        "date": "2025-01-07",
+        "fullPct": 66.02,
+        "gasInStorageTWh": 44.89
+      },
+      {
+        "date": "2025-01-08",
+        "fullPct": 65.73,
+        "gasInStorageTWh": 44.69
+      },
+      {
+        "date": "2025-01-09",
+        "fullPct": 65.49,
+        "gasInStorageTWh": 44.53
+      },
+      {
+        "date": "2025-01-10",
+        "fullPct": 65.12,
+        "gasInStorageTWh": 44.27
+      },
+      {
+        "date": "2025-01-11",
+        "fullPct": 64.7,
+        "gasInStorageTWh": 43.99
+      },
+      {
+        "date": "2025-01-12",
+        "fullPct": 64.26,
+        "gasInStorageTWh": 43.69
+      },
+      {
+        "date": "2025-01-13",
+        "fullPct": 63.8,
+        "gasInStorageTWh": 43.38
+      },
+      {
+        "date": "2025-01-14",
+        "fullPct": 63.27,
+        "gasInStorageTWh": 43.02
+      },
+      {
+        "date": "2025-01-15",
+        "fullPct": 62.68,
+        "gasInStorageTWh": 42.62
+      },
+      {
+        "date": "2025-01-16",
+        "fullPct": 62.1,
+        "gasInStorageTWh": 42.23
+      },
+      {
+        "date": "2025-01-17",
+        "fullPct": 61.53,
+        "gasInStorageTWh": 41.83
+      },
+      {
+        "date": "2025-01-18",
+        "fullPct": 60.98,
+        "gasInStorageTWh": 41.46
+      },
+      {
+        "date": "2025-01-19",
+        "fullPct": 60.41,
+        "gasInStorageTWh": 41.07
+      },
+      {
+        "date": "2025-01-20",
+        "fullPct": 59.72,
+        "gasInStorageTWh": 40.61
+      },
+      {
+        "date": "2025-01-21",
+        "fullPct": 59.1,
+        "gasInStorageTWh": 40.18
+      },
+      {
+        "date": "2025-01-22",
+        "fullPct": 58.57,
+        "gasInStorageTWh": 39.82
+      },
+      {
+        "date": "2025-01-23",
+        "fullPct": 58.08,
+        "gasInStorageTWh": 39.49
+      },
+      {
+        "date": "2025-01-24",
+        "fullPct": 57.66,
+        "gasInStorageTWh": 39.2
+      },
+      {
+        "date": "2025-01-25",
+        "fullPct": 57.35,
+        "gasInStorageTWh": 38.99
+      },
+      {
+        "date": "2025-01-26",
+        "fullPct": 57.1,
+        "gasInStorageTWh": 38.82
+      },
+      {
+        "date": "2025-01-27",
+        "fullPct": 56.85,
+        "gasInStorageTWh": 38.66
+      },
+      {
+        "date": "2025-01-28",
+        "fullPct": 56.66,
+        "gasInStorageTWh": 38.53
+      },
+      {
+        "date": "2025-01-29",
+        "fullPct": 56.46,
+        "gasInStorageTWh": 38.39
+      },
+      {
+        "date": "2025-01-30",
+        "fullPct": 56.26,
+        "gasInStorageTWh": 38.25
+      },
+      {
+        "date": "2025-01-31",
+        "fullPct": 56.05,
+        "gasInStorageTWh": 38.11
+      },
+      {
+        "date": "2025-02-01",
+        "fullPct": 55.84,
+        "gasInStorageTWh": 37.97
+      },
+      {
+        "date": "2025-02-02",
+        "fullPct": 55.58,
+        "gasInStorageTWh": 37.79
+      },
+      {
+        "date": "2025-02-03",
+        "fullPct": 55.18,
+        "gasInStorageTWh": 37.52
+      },
+      {
+        "date": "2025-02-04",
+        "fullPct": 54.64,
+        "gasInStorageTWh": 37.15
+      },
+      {
+        "date": "2025-02-05",
+        "fullPct": 54.15,
+        "gasInStorageTWh": 36.81
+      },
+      {
+        "date": "2025-02-06",
+        "fullPct": 53.58,
+        "gasInStorageTWh": 36.43
+      },
+      {
+        "date": "2025-02-07",
+        "fullPct": 52.98,
+        "gasInStorageTWh": 36.02
+      },
+      {
+        "date": "2025-02-08",
+        "fullPct": 52.5,
+        "gasInStorageTWh": 35.7
+      },
+      {
+        "date": "2025-02-09",
+        "fullPct": 52.02,
+        "gasInStorageTWh": 35.37
+      },
+      {
+        "date": "2025-02-10",
+        "fullPct": 51.49,
+        "gasInStorageTWh": 35.01
+      },
+      {
+        "date": "2025-02-11",
+        "fullPct": 50.87,
+        "gasInStorageTWh": 34.59
+      },
+      {
+        "date": "2025-02-12",
+        "fullPct": 50.27,
+        "gasInStorageTWh": 34.18
+      },
+      {
+        "date": "2025-02-13",
+        "fullPct": 49.67,
+        "gasInStorageTWh": 33.77
+      },
+      {
+        "date": "2025-02-14",
+        "fullPct": 49.09,
+        "gasInStorageTWh": 33.38
+      },
+      {
+        "date": "2025-02-15",
+        "fullPct": 48.57,
+        "gasInStorageTWh": 33.02
+      },
+      {
+        "date": "2025-02-16",
+        "fullPct": 48.01,
+        "gasInStorageTWh": 32.64
+      },
+      {
+        "date": "2025-02-17",
+        "fullPct": 47.32,
+        "gasInStorageTWh": 32.17
+      },
+      {
+        "date": "2025-02-18",
+        "fullPct": 46.57,
+        "gasInStorageTWh": 31.66
+      },
+      {
+        "date": "2025-02-19",
+        "fullPct": 45.79,
+        "gasInStorageTWh": 31.13
+      },
+      {
+        "date": "2025-02-20",
+        "fullPct": 45.06,
+        "gasInStorageTWh": 30.64
+      },
+      {
+        "date": "2025-02-21",
+        "fullPct": 44.33,
+        "gasInStorageTWh": 30.14
+      },
+      {
+        "date": "2025-02-22",
+        "fullPct": 43.72,
+        "gasInStorageTWh": 29.73
+      },
+      {
+        "date": "2025-02-23",
+        "fullPct": 43.19,
+        "gasInStorageTWh": 29.37
+      },
+      {
+        "date": "2025-02-24",
+        "fullPct": 42.59,
+        "gasInStorageTWh": 28.95
+      },
+      {
+        "date": "2025-02-25",
+        "fullPct": 42.08,
+        "gasInStorageTWh": 28.61
+      },
+      {
+        "date": "2025-02-26",
+        "fullPct": 41.58,
+        "gasInStorageTWh": 28.27
+      },
+      {
+        "date": "2025-02-27",
+        "fullPct": 41.19,
+        "gasInStorageTWh": 28.01
+      },
+      {
+        "date": "2025-02-28",
+        "fullPct": 40.86,
+        "gasInStorageTWh": 27.78
+      },
+      {
+        "date": "2025-03-01",
+        "fullPct": 40.63,
+        "gasInStorageTWh": 27.62
+      },
+      {
+        "date": "2025-03-02",
+        "fullPct": 40.4,
+        "gasInStorageTWh": 27.47
+      },
+      {
+        "date": "2025-03-03",
+        "fullPct": 40.12,
+        "gasInStorageTWh": 27.27
+      },
+      {
+        "date": "2025-03-04",
+        "fullPct": 39.86,
+        "gasInStorageTWh": 27.1
+      },
+      {
+        "date": "2025-03-05",
+        "fullPct": 39.64,
+        "gasInStorageTWh": 26.95
+      },
+      {
+        "date": "2025-03-06",
+        "fullPct": 39.48,
+        "gasInStorageTWh": 26.84
+      },
+      {
+        "date": "2025-03-07",
+        "fullPct": 39.39,
+        "gasInStorageTWh": 26.78
+      },
+      {
+        "date": "2025-03-08",
+        "fullPct": 39.33,
+        "gasInStorageTWh": 26.74
+      },
+      {
+        "date": "2025-03-09",
+        "fullPct": 39.29,
+        "gasInStorageTWh": 26.71
+      },
+      {
+        "date": "2025-03-10",
+        "fullPct": 39.24,
+        "gasInStorageTWh": 26.68
+      },
+      {
+        "date": "2025-03-11",
+        "fullPct": 39.15,
+        "gasInStorageTWh": 26.62
+      },
+      {
+        "date": "2025-03-12",
+        "fullPct": 39.07,
+        "gasInStorageTWh": 26.57
+      },
+      {
+        "date": "2025-03-13",
+        "fullPct": 38.99,
+        "gasInStorageTWh": 26.51
+      },
+      {
+        "date": "2025-03-14",
+        "fullPct": 38.9,
+        "gasInStorageTWh": 26.45
+      },
+      {
+        "date": "2025-03-15",
+        "fullPct": 38.83,
+        "gasInStorageTWh": 26.4
+      },
+      {
+        "date": "2025-03-16",
+        "fullPct": 38.69,
+        "gasInStorageTWh": 26.31
+      },
+      {
+        "date": "2025-03-17",
+        "fullPct": 38.41,
+        "gasInStorageTWh": 26.11
+      },
+      {
+        "date": "2025-03-18",
+        "fullPct": 38.02,
+        "gasInStorageTWh": 25.85
+      },
+      {
+        "date": "2025-03-19",
+        "fullPct": 37.71,
+        "gasInStorageTWh": 25.64
+      },
+      {
+        "date": "2025-03-20",
+        "fullPct": 37.44,
+        "gasInStorageTWh": 25.46
+      },
+      {
+        "date": "2025-03-21",
+        "fullPct": 37.26,
+        "gasInStorageTWh": 25.34
+      },
+      {
+        "date": "2025-03-22",
+        "fullPct": 37.14,
+        "gasInStorageTWh": 25.25
+      },
+      {
+        "date": "2025-03-23",
+        "fullPct": 37.02,
+        "gasInStorageTWh": 25.17
+      },
+      {
+        "date": "2025-03-24",
+        "fullPct": 36.88,
+        "gasInStorageTWh": 25.07
+      },
+      {
+        "date": "2025-03-25",
+        "fullPct": 36.76,
+        "gasInStorageTWh": 24.99
+      },
+      {
+        "date": "2025-03-26",
+        "fullPct": 36.64,
+        "gasInStorageTWh": 24.91
+      },
+      {
+        "date": "2025-03-27",
+        "fullPct": 36.54,
+        "gasInStorageTWh": 24.84
+      },
+      {
+        "date": "2025-03-28",
+        "fullPct": 36.37,
+        "gasInStorageTWh": 24.73
+      },
+      {
+        "date": "2025-03-29",
+        "fullPct": 36.26,
+        "gasInStorageTWh": 24.65
+      },
+      {
+        "date": "2025-03-30",
+        "fullPct": 36.18,
+        "gasInStorageTWh": 24.6
+      },
+      {
+        "date": "2025-03-31",
+        "fullPct": 36.03,
+        "gasInStorageTWh": 24.5
+      },
+      {
+        "date": "2025-04-01",
+        "fullPct": 36.55,
+        "gasInStorageTWh": 24.85
+      },
+      {
+        "date": "2025-04-02",
+        "fullPct": 36.5,
+        "gasInStorageTWh": 24.81
+      },
+      {
+        "date": "2025-04-03",
+        "fullPct": 36.46,
+        "gasInStorageTWh": 24.79
+      },
+      {
+        "date": "2025-04-04",
+        "fullPct": 36.45,
+        "gasInStorageTWh": 24.78
+      },
+      {
+        "date": "2025-04-05",
+        "fullPct": 36.43,
+        "gasInStorageTWh": 24.77
+      },
+      {
+        "date": "2025-04-06",
+        "fullPct": 37.58,
+        "gasInStorageTWh": 25.55
+      },
+      {
+        "date": "2025-04-07",
+        "fullPct": 37.42,
+        "gasInStorageTWh": 25.44
+      },
+      {
+        "date": "2025-04-08",
+        "fullPct": 37.24,
+        "gasInStorageTWh": 25.32
+      },
+      {
+        "date": "2025-04-09",
+        "fullPct": 37.09,
+        "gasInStorageTWh": 25.22
+      },
+      {
+        "date": "2025-04-10",
+        "fullPct": 36.97,
+        "gasInStorageTWh": 25.13
+      },
+      {
+        "date": "2025-04-11",
+        "fullPct": 36.9,
+        "gasInStorageTWh": 25.09
+      },
+      {
+        "date": "2025-04-12",
+        "fullPct": 36.9,
+        "gasInStorageTWh": 25.09
+      },
+      {
+        "date": "2025-04-13",
+        "fullPct": 36.92,
+        "gasInStorageTWh": 25.1
+      },
+      {
+        "date": "2025-04-14",
+        "fullPct": 36.92,
+        "gasInStorageTWh": 25.1
+      },
+      {
+        "date": "2025-04-15",
+        "fullPct": 36.94,
+        "gasInStorageTWh": 25.11
+      },
+      {
+        "date": "2025-04-16",
+        "fullPct": 36.99,
+        "gasInStorageTWh": 25.15
+      },
+      {
+        "date": "2025-04-17",
+        "fullPct": 37.07,
+        "gasInStorageTWh": 25.21
+      },
+      {
+        "date": "2025-04-18",
+        "fullPct": 37.16,
+        "gasInStorageTWh": 25.27
+      },
+      {
+        "date": "2025-04-19",
+        "fullPct": 37.25,
+        "gasInStorageTWh": 25.32
+      },
+      {
+        "date": "2025-04-20",
+        "fullPct": 37.33,
+        "gasInStorageTWh": 25.38
+      },
+      {
+        "date": "2025-04-21",
+        "fullPct": 37.44,
+        "gasInStorageTWh": 25.45
+      },
+      {
+        "date": "2025-04-22",
+        "fullPct": 37.54,
+        "gasInStorageTWh": 25.52
+      },
+      {
+        "date": "2025-04-23",
+        "fullPct": 37.65,
+        "gasInStorageTWh": 25.6
+      },
+      {
+        "date": "2025-04-24",
+        "fullPct": 37.82,
+        "gasInStorageTWh": 25.72
+      },
+      {
+        "date": "2025-04-25",
+        "fullPct": 38.01,
+        "gasInStorageTWh": 25.84
+      },
+      {
+        "date": "2025-04-26",
+        "fullPct": 38.2,
+        "gasInStorageTWh": 25.97
+      },
+      {
+        "date": "2025-04-27",
+        "fullPct": 38.4,
+        "gasInStorageTWh": 26.11
+      },
+      {
+        "date": "2025-04-28",
+        "fullPct": 38.55,
+        "gasInStorageTWh": 26.21
+      },
+      {
+        "date": "2025-04-29",
+        "fullPct": 38.73,
+        "gasInStorageTWh": 26.33
+      },
+      {
+        "date": "2025-04-30",
+        "fullPct": 38.91,
+        "gasInStorageTWh": 26.46
+      },
+      {
+        "date": "2025-05-01",
+        "fullPct": 39.2,
+        "gasInStorageTWh": 26.65
+      },
+      {
+        "date": "2025-05-02",
+        "fullPct": 39.49,
+        "gasInStorageTWh": 26.85
+      },
+      {
+        "date": "2025-05-03",
+        "fullPct": 39.77,
+        "gasInStorageTWh": 27.04
+      },
+      {
+        "date": "2025-05-04",
+        "fullPct": 40.04,
+        "gasInStorageTWh": 27.22
+      },
+      {
+        "date": "2025-05-05",
+        "fullPct": 40.25,
+        "gasInStorageTWh": 27.37
+      },
+      {
+        "date": "2025-05-06",
+        "fullPct": 40.42,
+        "gasInStorageTWh": 27.48
+      },
+      {
+        "date": "2025-05-07",
+        "fullPct": 40.55,
+        "gasInStorageTWh": 27.57
+      },
+      {
+        "date": "2025-05-08",
+        "fullPct": 40.69,
+        "gasInStorageTWh": 27.67
+      },
+      {
+        "date": "2025-05-09",
+        "fullPct": 40.85,
+        "gasInStorageTWh": 27.78
+      },
+      {
+        "date": "2025-05-10",
+        "fullPct": 41.07,
+        "gasInStorageTWh": 27.92
+      },
+      {
+        "date": "2025-05-11",
+        "fullPct": 41.28,
+        "gasInStorageTWh": 28.07
+      },
+      {
+        "date": "2025-05-12",
+        "fullPct": 41.46,
+        "gasInStorageTWh": 28.19
+      },
+      {
+        "date": "2025-05-13",
+        "fullPct": 41.65,
+        "gasInStorageTWh": 28.32
+      },
+      {
+        "date": "2025-05-14",
+        "fullPct": 41.87,
+        "gasInStorageTWh": 28.46
+      },
+      {
+        "date": "2025-05-15",
+        "fullPct": 42.03,
+        "gasInStorageTWh": 28.58
+      },
+      {
+        "date": "2025-05-16",
+        "fullPct": 42.2,
+        "gasInStorageTWh": 28.7
+      },
+      {
+        "date": "2025-05-17",
+        "fullPct": 42.4,
+        "gasInStorageTWh": 28.83
+      },
+      {
+        "date": "2025-05-18",
+        "fullPct": 42.6,
+        "gasInStorageTWh": 28.96
+      },
+      {
+        "date": "2025-05-19",
+        "fullPct": 42.78,
+        "gasInStorageTWh": 29.09
+      },
+      {
+        "date": "2025-05-20",
+        "fullPct": 43.02,
+        "gasInStorageTWh": 29.25
+      },
+      {
+        "date": "2025-05-21",
+        "fullPct": 43.2,
+        "gasInStorageTWh": 29.37
+      },
+      {
+        "date": "2025-05-22",
+        "fullPct": 43.44,
+        "gasInStorageTWh": 29.54
+      },
+      {
+        "date": "2025-05-23",
+        "fullPct": 43.63,
+        "gasInStorageTWh": 29.66
+      },
+      {
+        "date": "2025-05-24",
+        "fullPct": 43.83,
+        "gasInStorageTWh": 29.8
+      },
+      {
+        "date": "2025-05-25",
+        "fullPct": 44.03,
+        "gasInStorageTWh": 29.94
+      },
+      {
+        "date": "2025-05-26",
+        "fullPct": 44.23,
+        "gasInStorageTWh": 30.08
+      },
+      {
+        "date": "2025-05-27",
+        "fullPct": 44.47,
+        "gasInStorageTWh": 30.24
+      },
+      {
+        "date": "2025-05-28",
+        "fullPct": 44.73,
+        "gasInStorageTWh": 30.41
+      },
+      {
+        "date": "2025-05-29",
+        "fullPct": 44.98,
+        "gasInStorageTWh": 30.58
+      },
+      {
+        "date": "2025-05-30",
+        "fullPct": 45.24,
+        "gasInStorageTWh": 30.76
+      },
+      {
+        "date": "2025-05-31",
+        "fullPct": 45.51,
+        "gasInStorageTWh": 30.94
+      },
+      {
+        "date": "2025-06-01",
+        "fullPct": 45.83,
+        "gasInStorageTWh": 31.16
+      },
+      {
+        "date": "2025-06-02",
+        "fullPct": 46.11,
+        "gasInStorageTWh": 31.35
+      },
+      {
+        "date": "2025-06-03",
+        "fullPct": 46.45,
+        "gasInStorageTWh": 31.58
+      },
+      {
+        "date": "2025-06-04",
+        "fullPct": 46.77,
+        "gasInStorageTWh": 31.8
+      },
+      {
+        "date": "2025-06-05",
+        "fullPct": 47.1,
+        "gasInStorageTWh": 32.02
+      },
+      {
+        "date": "2025-06-06",
+        "fullPct": 47.45,
+        "gasInStorageTWh": 32.26
+      },
+      {
+        "date": "2025-06-07",
+        "fullPct": 47.81,
+        "gasInStorageTWh": 32.51
+      },
+      {
+        "date": "2025-06-08",
+        "fullPct": 48.18,
+        "gasInStorageTWh": 32.75
+      },
+      {
+        "date": "2025-06-09",
+        "fullPct": 48.46,
+        "gasInStorageTWh": 32.95
+      },
+      {
+        "date": "2025-06-10",
+        "fullPct": 48.47,
+        "gasInStorageTWh": 32.96
+      },
+      {
+        "date": "2025-06-11",
+        "fullPct": 48.47,
+        "gasInStorageTWh": 32.96
+      },
+      {
+        "date": "2025-06-12",
+        "fullPct": 48.47,
+        "gasInStorageTWh": 32.96
+      },
+      {
+        "date": "2025-06-13",
+        "fullPct": 48.48,
+        "gasInStorageTWh": 32.96
+      },
+      {
+        "date": "2025-06-14",
+        "fullPct": 48.51,
+        "gasInStorageTWh": 32.98
+      },
+      {
+        "date": "2025-06-15",
+        "fullPct": 48.54,
+        "gasInStorageTWh": 33
+      },
+      {
+        "date": "2025-06-16",
+        "fullPct": 48.79,
+        "gasInStorageTWh": 33.17
+      },
+      {
+        "date": "2025-06-17",
+        "fullPct": 49.11,
+        "gasInStorageTWh": 33.39
+      },
+      {
+        "date": "2025-06-18",
+        "fullPct": 49.43,
+        "gasInStorageTWh": 33.61
+      },
+      {
+        "date": "2025-06-19",
+        "fullPct": 49.76,
+        "gasInStorageTWh": 33.83
+      },
+      {
+        "date": "2025-06-20",
+        "fullPct": 50.08,
+        "gasInStorageTWh": 34.05
+      },
+      {
+        "date": "2025-06-21",
+        "fullPct": 50.43,
+        "gasInStorageTWh": 34.29
+      },
+      {
+        "date": "2025-06-22",
+        "fullPct": 50.78,
+        "gasInStorageTWh": 34.52
+      },
+      {
+        "date": "2025-06-23",
+        "fullPct": 51.1,
+        "gasInStorageTWh": 34.74
+      },
+      {
+        "date": "2025-06-24",
+        "fullPct": 51.39,
+        "gasInStorageTWh": 34.94
+      },
+      {
+        "date": "2025-06-25",
+        "fullPct": 51.68,
+        "gasInStorageTWh": 35.14
+      },
+      {
+        "date": "2025-06-26",
+        "fullPct": 51.96,
+        "gasInStorageTWh": 35.33
+      },
+      {
+        "date": "2025-06-27",
+        "fullPct": 52.23,
+        "gasInStorageTWh": 35.51
+      },
+      {
+        "date": "2025-06-28",
+        "fullPct": 52.5,
+        "gasInStorageTWh": 35.7
+      },
+      {
+        "date": "2025-06-29",
+        "fullPct": 52.77,
+        "gasInStorageTWh": 35.88
+      },
+      {
+        "date": "2025-06-30",
+        "fullPct": 53,
+        "gasInStorageTWh": 36.03
+      },
+      {
+        "date": "2025-07-01",
+        "fullPct": 53.23,
+        "gasInStorageTWh": 36.19
+      },
+      {
+        "date": "2025-07-02",
+        "fullPct": 53.46,
+        "gasInStorageTWh": 36.35
+      },
+      {
+        "date": "2025-07-03",
+        "fullPct": 53.71,
+        "gasInStorageTWh": 36.52
+      },
+      {
+        "date": "2025-07-04",
+        "fullPct": 53.96,
+        "gasInStorageTWh": 36.69
+      },
+      {
+        "date": "2025-07-05",
+        "fullPct": 54.24,
+        "gasInStorageTWh": 36.88
+      },
+      {
+        "date": "2025-07-06",
+        "fullPct": 54.51,
+        "gasInStorageTWh": 37.06
+      },
+      {
+        "date": "2025-07-07",
+        "fullPct": 54.75,
+        "gasInStorageTWh": 37.23
+      },
+      {
+        "date": "2025-07-08",
+        "fullPct": 55.01,
+        "gasInStorageTWh": 37.4
+      },
+      {
+        "date": "2025-07-09",
+        "fullPct": 55.25,
+        "gasInStorageTWh": 37.57
+      },
+      {
+        "date": "2025-07-10",
+        "fullPct": 55.5,
+        "gasInStorageTWh": 37.73
+      },
+      {
+        "date": "2025-07-11",
+        "fullPct": 55.75,
+        "gasInStorageTWh": 37.9
+      },
+      {
+        "date": "2025-07-12",
+        "fullPct": 56.01,
+        "gasInStorageTWh": 38.08
+      },
+      {
+        "date": "2025-07-13",
+        "fullPct": 56.29,
+        "gasInStorageTWh": 38.27
+      },
+      {
+        "date": "2025-07-14",
+        "fullPct": 56.53,
+        "gasInStorageTWh": 38.43
+      },
+      {
+        "date": "2025-07-15",
+        "fullPct": 56.8,
+        "gasInStorageTWh": 38.62
+      },
+      {
+        "date": "2025-07-16",
+        "fullPct": 57.06,
+        "gasInStorageTWh": 38.8
+      },
+      {
+        "date": "2025-07-17",
+        "fullPct": 57.33,
+        "gasInStorageTWh": 38.98
+      },
+      {
+        "date": "2025-07-18",
+        "fullPct": 57.59,
+        "gasInStorageTWh": 39.16
+      },
+      {
+        "date": "2025-07-19",
+        "fullPct": 57.87,
+        "gasInStorageTWh": 39.35
+      },
+      {
+        "date": "2025-07-20",
+        "fullPct": 58.14,
+        "gasInStorageTWh": 39.53
+      },
+      {
+        "date": "2025-07-21",
+        "fullPct": 58.38,
+        "gasInStorageTWh": 39.69
+      },
+      {
+        "date": "2025-07-22",
+        "fullPct": 58.61,
+        "gasInStorageTWh": 39.85
+      },
+      {
+        "date": "2025-07-23",
+        "fullPct": 58.84,
+        "gasInStorageTWh": 40
+      },
+      {
+        "date": "2025-07-24",
+        "fullPct": 59.08,
+        "gasInStorageTWh": 40.17
+      },
+      {
+        "date": "2025-07-25",
+        "fullPct": 59.32,
+        "gasInStorageTWh": 40.33
+      },
+      {
+        "date": "2025-07-26",
+        "fullPct": 59.61,
+        "gasInStorageTWh": 40.53
+      },
+      {
+        "date": "2025-07-27",
+        "fullPct": 59.9,
+        "gasInStorageTWh": 40.72
+      },
+      {
+        "date": "2025-07-28",
+        "fullPct": 60.15,
+        "gasInStorageTWh": 40.9
+      },
+      {
+        "date": "2025-07-29",
+        "fullPct": 60.42,
+        "gasInStorageTWh": 41.08
+      },
+      {
+        "date": "2025-07-30",
+        "fullPct": 60.68,
+        "gasInStorageTWh": 41.26
+      },
+      {
+        "date": "2025-07-31",
+        "fullPct": 60.94,
+        "gasInStorageTWh": 41.43
+      },
+      {
+        "date": "2025-08-01",
+        "fullPct": 61.2,
+        "gasInStorageTWh": 41.61
+      },
+      {
+        "date": "2025-08-02",
+        "fullPct": 61.47,
+        "gasInStorageTWh": 41.79
+      },
+      {
+        "date": "2025-08-03",
+        "fullPct": 61.72,
+        "gasInStorageTWh": 41.96
+      },
+      {
+        "date": "2025-08-04",
+        "fullPct": 62,
+        "gasInStorageTWh": 42.15
+      },
+      {
+        "date": "2025-08-05",
+        "fullPct": 62.25,
+        "gasInStorageTWh": 42.32
+      },
+      {
+        "date": "2025-08-06",
+        "fullPct": 62.5,
+        "gasInStorageTWh": 42.5
+      },
+      {
+        "date": "2025-08-07",
+        "fullPct": 62.74,
+        "gasInStorageTWh": 42.66
+      },
+      {
+        "date": "2025-08-08",
+        "fullPct": 62.99,
+        "gasInStorageTWh": 42.83
+      },
+      {
+        "date": "2025-08-09",
+        "fullPct": 63.27,
+        "gasInStorageTWh": 43.01
+      },
+      {
+        "date": "2025-08-10",
+        "fullPct": 63.52,
+        "gasInStorageTWh": 43.19
+      },
+      {
+        "date": "2025-08-11",
+        "fullPct": 63.76,
+        "gasInStorageTWh": 43.35
+      },
+      {
+        "date": "2025-08-12",
+        "fullPct": 64,
+        "gasInStorageTWh": 43.51
+      },
+      {
+        "date": "2025-08-13",
+        "fullPct": 64.22,
+        "gasInStorageTWh": 43.66
+      },
+      {
+        "date": "2025-08-14",
+        "fullPct": 64.46,
+        "gasInStorageTWh": 43.82
+      },
+      {
+        "date": "2025-08-15",
+        "fullPct": 64.72,
+        "gasInStorageTWh": 44
+      },
+      {
+        "date": "2025-08-16",
+        "fullPct": 64.98,
+        "gasInStorageTWh": 44.18
+      },
+      {
+        "date": "2025-08-17",
+        "fullPct": 65.25,
+        "gasInStorageTWh": 44.36
+      },
+      {
+        "date": "2025-08-18",
+        "fullPct": 65.48,
+        "gasInStorageTWh": 44.52
+      },
+      {
+        "date": "2025-08-19",
+        "fullPct": 65.72,
+        "gasInStorageTWh": 44.69
+      },
+      {
+        "date": "2025-08-20",
+        "fullPct": 66,
+        "gasInStorageTWh": 44.87
+      },
+      {
+        "date": "2025-08-21",
+        "fullPct": 66.25,
+        "gasInStorageTWh": 45.04
+      },
+      {
+        "date": "2025-08-22",
+        "fullPct": 66.51,
+        "gasInStorageTWh": 45.22
+      },
+      {
+        "date": "2025-08-23",
+        "fullPct": 66.76,
+        "gasInStorageTWh": 45.39
+      },
+      {
+        "date": "2025-08-24",
+        "fullPct": 66.98,
+        "gasInStorageTWh": 45.54
+      },
+      {
+        "date": "2025-08-25",
+        "fullPct": 67.2,
+        "gasInStorageTWh": 45.69
+      },
+      {
+        "date": "2025-08-26",
+        "fullPct": 67.39,
+        "gasInStorageTWh": 45.82
+      },
+      {
+        "date": "2025-08-27",
+        "fullPct": 67.54,
+        "gasInStorageTWh": 45.92
+      },
+      {
+        "date": "2025-08-28",
+        "fullPct": 67.67,
+        "gasInStorageTWh": 46.01
+      },
+      {
+        "date": "2025-08-29",
+        "fullPct": 67.81,
+        "gasInStorageTWh": 46.1
+      },
+      {
+        "date": "2025-08-30",
+        "fullPct": 67.98,
+        "gasInStorageTWh": 46.22
+      },
+      {
+        "date": "2025-08-31",
+        "fullPct": 68.14,
+        "gasInStorageTWh": 46.33
+      },
+      {
+        "date": "2025-09-01",
+        "fullPct": 68.32,
+        "gasInStorageTWh": 46.45
+      },
+      {
+        "date": "2025-09-02",
+        "fullPct": 68.5,
+        "gasInStorageTWh": 46.58
+      },
+      {
+        "date": "2025-09-03",
+        "fullPct": 68.75,
+        "gasInStorageTWh": 46.74
+      },
+      {
+        "date": "2025-09-04",
+        "fullPct": 68.97,
+        "gasInStorageTWh": 46.89
+      },
+      {
+        "date": "2025-09-05",
+        "fullPct": 69.16,
+        "gasInStorageTWh": 47.02
+      },
+      {
+        "date": "2025-09-06",
+        "fullPct": 69.34,
+        "gasInStorageTWh": 47.15
+      },
+      {
+        "date": "2025-09-07",
+        "fullPct": 69.53,
+        "gasInStorageTWh": 47.27
+      },
+      {
+        "date": "2025-09-08",
+        "fullPct": 69.7,
+        "gasInStorageTWh": 47.39
+      },
+      {
+        "date": "2025-09-09",
+        "fullPct": 69.82,
+        "gasInStorageTWh": 47.47
+      },
+      {
+        "date": "2025-09-10",
+        "fullPct": 69.96,
+        "gasInStorageTWh": 47.57
+      },
+      {
+        "date": "2025-09-11",
+        "fullPct": 70.11,
+        "gasInStorageTWh": 47.67
+      },
+      {
+        "date": "2025-09-12",
+        "fullPct": 70.29,
+        "gasInStorageTWh": 47.79
+      },
+      {
+        "date": "2025-09-13",
+        "fullPct": 70.49,
+        "gasInStorageTWh": 47.93
+      },
+      {
+        "date": "2025-09-14",
+        "fullPct": 70.69,
+        "gasInStorageTWh": 48.06
+      },
+      {
+        "date": "2025-09-15",
+        "fullPct": 70.86,
+        "gasInStorageTWh": 48.18
+      },
+      {
+        "date": "2025-09-16",
+        "fullPct": 71.03,
+        "gasInStorageTWh": 48.3
+      },
+      {
+        "date": "2025-09-17",
+        "fullPct": 71.22,
+        "gasInStorageTWh": 48.42
+      },
+      {
+        "date": "2025-09-18",
+        "fullPct": 71.42,
+        "gasInStorageTWh": 48.56
+      },
+      {
+        "date": "2025-09-19",
+        "fullPct": 71.62,
+        "gasInStorageTWh": 48.69
+      },
+      {
+        "date": "2025-09-20",
+        "fullPct": 71.84,
+        "gasInStorageTWh": 48.85
+      },
+      {
+        "date": "2025-09-21",
+        "fullPct": 72.07,
+        "gasInStorageTWh": 49
+      },
+      {
+        "date": "2025-09-22",
+        "fullPct": 72.2,
+        "gasInStorageTWh": 49.09
+      },
+      {
+        "date": "2025-09-23",
+        "fullPct": 72.3,
+        "gasInStorageTWh": 49.16
+      },
+      {
+        "date": "2025-09-24",
+        "fullPct": 72.43,
+        "gasInStorageTWh": 49.25
+      },
+      {
+        "date": "2025-09-25",
+        "fullPct": 72.52,
+        "gasInStorageTWh": 49.31
+      },
+      {
+        "date": "2025-09-26",
+        "fullPct": 72.59,
+        "gasInStorageTWh": 49.36
+      },
+      {
+        "date": "2025-09-27",
+        "fullPct": 72.77,
+        "gasInStorageTWh": 49.48
+      },
+      {
+        "date": "2025-09-28",
+        "fullPct": 72.95,
+        "gasInStorageTWh": 49.6
+      },
+      {
+        "date": "2025-09-29",
+        "fullPct": 73.06,
+        "gasInStorageTWh": 49.68
+      },
+      {
+        "date": "2025-09-30",
+        "fullPct": 71.3,
+        "gasInStorageTWh": 48.48
+      },
+      {
+        "date": "2025-10-01",
+        "fullPct": 73.12,
+        "gasInStorageTWh": 49.72
+      },
+      {
+        "date": "2025-10-02",
+        "fullPct": 73.1,
+        "gasInStorageTWh": 49.7
+      },
+      {
+        "date": "2025-10-03",
+        "fullPct": 73.03,
+        "gasInStorageTWh": 49.66
+      },
+      {
+        "date": "2025-10-04",
+        "fullPct": 72.94,
+        "gasInStorageTWh": 49.59
+      },
+      {
+        "date": "2025-10-05",
+        "fullPct": 72.86,
+        "gasInStorageTWh": 49.54
+      },
+      {
+        "date": "2025-10-06",
+        "fullPct": 72.74,
+        "gasInStorageTWh": 49.46
+      },
+      {
+        "date": "2025-10-07",
+        "fullPct": 72.59,
+        "gasInStorageTWh": 49.36
+      },
+      {
+        "date": "2025-10-08",
+        "fullPct": 72.49,
+        "gasInStorageTWh": 49.29
+      },
+      {
+        "date": "2025-10-09",
+        "fullPct": 72.39,
+        "gasInStorageTWh": 49.22
+      },
+      {
+        "date": "2025-10-10",
+        "fullPct": 72.29,
+        "gasInStorageTWh": 49.15
+      },
+      {
+        "date": "2025-10-11",
+        "fullPct": 72.25,
+        "gasInStorageTWh": 49.12
+      },
+      {
+        "date": "2025-10-12",
+        "fullPct": 72.18,
+        "gasInStorageTWh": 49.08
+      },
+      {
+        "date": "2025-10-13",
+        "fullPct": 72.06,
+        "gasInStorageTWh": 48.99
+      },
+      {
+        "date": "2025-10-14",
+        "fullPct": 71.9,
+        "gasInStorageTWh": 48.89
+      },
+      {
+        "date": "2025-10-15",
+        "fullPct": 71.72,
+        "gasInStorageTWh": 48.76
+      },
+      {
+        "date": "2025-10-16",
+        "fullPct": 71.57,
+        "gasInStorageTWh": 48.66
+      },
+      {
+        "date": "2025-10-17",
+        "fullPct": 71.41,
+        "gasInStorageTWh": 48.55
+      },
+      {
+        "date": "2025-10-18",
+        "fullPct": 71.26,
+        "gasInStorageTWh": 48.45
+      },
+      {
+        "date": "2025-10-19",
+        "fullPct": 71.11,
+        "gasInStorageTWh": 48.35
+      },
+      {
+        "date": "2025-10-20",
+        "fullPct": 70.83,
+        "gasInStorageTWh": 48.16
+      },
+      {
+        "date": "2025-10-21",
+        "fullPct": 70.54,
+        "gasInStorageTWh": 47.96
+      },
+      {
+        "date": "2025-10-22",
+        "fullPct": 70.4,
+        "gasInStorageTWh": 47.86
+      },
+      {
+        "date": "2025-10-23",
+        "fullPct": 70.34,
+        "gasInStorageTWh": 47.83
+      },
+      {
+        "date": "2025-10-24",
+        "fullPct": 70.28,
+        "gasInStorageTWh": 47.78
+      },
+      {
+        "date": "2025-10-25",
+        "fullPct": 70.18,
+        "gasInStorageTWh": 47.71
+      },
+      {
+        "date": "2025-10-26",
+        "fullPct": 70.06,
+        "gasInStorageTWh": 47.64
+      },
+      {
+        "date": "2025-10-27",
+        "fullPct": 69.87,
+        "gasInStorageTWh": 47.51
+      },
+      {
+        "date": "2025-10-28",
+        "fullPct": 69.78,
+        "gasInStorageTWh": 47.45
+      },
+      {
+        "date": "2025-10-29",
+        "fullPct": 69.74,
+        "gasInStorageTWh": 47.41
+      },
+      {
+        "date": "2025-10-30",
+        "fullPct": 69.68,
+        "gasInStorageTWh": 47.38
+      },
+      {
+        "date": "2025-10-31",
+        "fullPct": 69.61,
+        "gasInStorageTWh": 47.33
+      },
+      {
+        "date": "2025-11-01",
+        "fullPct": 67.34,
+        "gasInStorageTWh": 45.78
+      },
+      {
+        "date": "2025-11-02",
+        "fullPct": 67.35,
+        "gasInStorageTWh": 45.79
+      },
+      {
+        "date": "2025-11-03",
+        "fullPct": 69.58,
+        "gasInStorageTWh": 47.31
+      },
+      {
+        "date": "2025-11-04",
+        "fullPct": 69.53,
+        "gasInStorageTWh": 47.27
+      },
+      {
+        "date": "2025-11-05",
+        "fullPct": 69.43,
+        "gasInStorageTWh": 47.21
+      },
+      {
+        "date": "2025-11-06",
+        "fullPct": 69.33,
+        "gasInStorageTWh": 47.14
+      },
+      {
+        "date": "2025-11-07",
+        "fullPct": 69.26,
+        "gasInStorageTWh": 47.09
+      },
+      {
+        "date": "2025-11-08",
+        "fullPct": 69.26,
+        "gasInStorageTWh": 47.09
+      },
+      {
+        "date": "2025-11-09",
+        "fullPct": 69.28,
+        "gasInStorageTWh": 47.11
+      },
+      {
+        "date": "2025-11-10",
+        "fullPct": 69.22,
+        "gasInStorageTWh": 47.06
+      },
+      {
+        "date": "2025-11-11",
+        "fullPct": 69.12,
+        "gasInStorageTWh": 47
+      },
+      {
+        "date": "2025-11-12",
+        "fullPct": 68.95,
+        "gasInStorageTWh": 46.88
+      },
+      {
+        "date": "2025-11-13",
+        "fullPct": 68.82,
+        "gasInStorageTWh": 46.79
+      },
+      {
+        "date": "2025-11-14",
+        "fullPct": 68.69,
+        "gasInStorageTWh": 46.7
+      },
+      {
+        "date": "2025-11-15",
+        "fullPct": 68.69,
+        "gasInStorageTWh": 46.7
+      },
+      {
+        "date": "2025-11-16",
+        "fullPct": 68.71,
+        "gasInStorageTWh": 46.72
+      },
+      {
+        "date": "2025-11-17",
+        "fullPct": 68.67,
+        "gasInStorageTWh": 46.69
+      },
+      {
+        "date": "2025-11-18",
+        "fullPct": 68.53,
+        "gasInStorageTWh": 46.6
+      },
+      {
+        "date": "2025-11-19",
+        "fullPct": 68.36,
+        "gasInStorageTWh": 46.48
+      },
+      {
+        "date": "2025-11-20",
+        "fullPct": 68.19,
+        "gasInStorageTWh": 46.36
+      },
+      {
+        "date": "2025-11-21",
+        "fullPct": 67.89,
+        "gasInStorageTWh": 46.16
+      },
+      {
+        "date": "2025-11-22",
+        "fullPct": 67.65,
+        "gasInStorageTWh": 46
+      },
+      {
+        "date": "2025-11-23",
+        "fullPct": 67.37,
+        "gasInStorageTWh": 45.81
+      },
+      {
+        "date": "2025-11-24",
+        "fullPct": 67.05,
+        "gasInStorageTWh": 45.59
+      },
+      {
+        "date": "2025-11-25",
+        "fullPct": 66.77,
+        "gasInStorageTWh": 45.4
+      },
+      {
+        "date": "2025-11-26",
+        "fullPct": 66.51,
+        "gasInStorageTWh": 45.22
+      },
+      {
+        "date": "2025-11-27",
+        "fullPct": 66.25,
+        "gasInStorageTWh": 45.04
+      },
+      {
+        "date": "2025-11-28",
+        "fullPct": 65.93,
+        "gasInStorageTWh": 44.83
+      },
+      {
+        "date": "2025-11-29",
+        "fullPct": 65.68,
+        "gasInStorageTWh": 44.66
+      },
+      {
+        "date": "2025-11-30",
+        "fullPct": 65.48,
+        "gasInStorageTWh": 44.52
+      },
+      {
+        "date": "2025-12-01",
+        "fullPct": 65.22,
+        "gasInStorageTWh": 44.34
+      },
+      {
+        "date": "2025-12-02",
+        "fullPct": 64.98,
+        "gasInStorageTWh": 44.18
+      },
+      {
+        "date": "2025-12-03",
+        "fullPct": 64.74,
+        "gasInStorageTWh": 44.02
+      },
+      {
+        "date": "2025-12-04",
+        "fullPct": 64.57,
+        "gasInStorageTWh": 43.9
+      },
+      {
+        "date": "2025-12-05",
+        "fullPct": 64.46,
+        "gasInStorageTWh": 43.83
+      },
+      {
+        "date": "2025-12-06",
+        "fullPct": 64.38,
+        "gasInStorageTWh": 43.77
+      },
+      {
+        "date": "2025-12-07",
+        "fullPct": 64.29,
+        "gasInStorageTWh": 43.71
+      },
+      {
+        "date": "2025-12-08",
+        "fullPct": 64.17,
+        "gasInStorageTWh": 43.63
+      },
+      {
+        "date": "2025-12-09",
+        "fullPct": 64.03,
+        "gasInStorageTWh": 43.54
+      },
+      {
+        "date": "2025-12-10",
+        "fullPct": 63.88,
+        "gasInStorageTWh": 43.43
+      },
+      {
+        "date": "2025-12-11",
+        "fullPct": 63.7,
+        "gasInStorageTWh": 43.31
+      },
+      {
+        "date": "2025-12-12",
+        "fullPct": 63.51,
+        "gasInStorageTWh": 43.18
+      },
+      {
+        "date": "2025-12-13",
+        "fullPct": 63.33,
+        "gasInStorageTWh": 43.06
+      },
+      {
+        "date": "2025-12-14",
+        "fullPct": 63.12,
+        "gasInStorageTWh": 42.92
+      },
+      {
+        "date": "2025-12-15",
+        "fullPct": 62.88,
+        "gasInStorageTWh": 42.75
+      },
+      {
+        "date": "2025-12-16",
+        "fullPct": 62.57,
+        "gasInStorageTWh": 42.54
+      },
+      {
+        "date": "2025-12-17",
+        "fullPct": 62.31,
+        "gasInStorageTWh": 42.37
+      },
+      {
+        "date": "2025-12-18",
+        "fullPct": 62.06,
+        "gasInStorageTWh": 42.2
+      },
+      {
+        "date": "2025-12-19",
+        "fullPct": 61.83,
+        "gasInStorageTWh": 42.04
+      },
+      {
+        "date": "2025-12-20",
+        "fullPct": 61.66,
+        "gasInStorageTWh": 41.92
+      },
+      {
+        "date": "2025-12-21",
+        "fullPct": 61.48,
+        "gasInStorageTWh": 41.8
+      },
+      {
+        "date": "2025-12-22",
+        "fullPct": 61.26,
+        "gasInStorageTWh": 41.65
+      },
+      {
+        "date": "2025-12-23",
+        "fullPct": 61.14,
+        "gasInStorageTWh": 41.57
+      },
+      {
+        "date": "2025-12-24",
+        "fullPct": 61.02,
+        "gasInStorageTWh": 41.48
+      },
+      {
+        "date": "2025-12-25",
+        "fullPct": 60.85,
+        "gasInStorageTWh": 41.37
+      },
+      {
+        "date": "2025-12-26",
+        "fullPct": 60.7,
+        "gasInStorageTWh": 41.27
+      },
+      {
+        "date": "2025-12-27",
+        "fullPct": 60.51,
+        "gasInStorageTWh": 41.14
+      },
+      {
+        "date": "2025-12-28",
+        "fullPct": 60.32,
+        "gasInStorageTWh": 41.01
+      },
+      {
+        "date": "2025-12-29",
+        "fullPct": 60.07,
+        "gasInStorageTWh": 40.84
+      },
+      {
+        "date": "2025-12-30",
+        "fullPct": 59.77,
+        "gasInStorageTWh": 40.64
+      },
+      {
+        "date": "2025-12-31",
+        "fullPct": 59.45,
+        "gasInStorageTWh": 40.42
+      },
+      {
+        "date": "2026-01-01",
+        "fullPct": 59.18,
+        "gasInStorageTWh": 40.24
+      },
+      {
+        "date": "2026-01-02",
+        "fullPct": 58.92,
+        "gasInStorageTWh": 40.06
+      },
+      {
+        "date": "2026-01-03",
+        "fullPct": 58.67,
+        "gasInStorageTWh": 39.89
+      },
+      {
+        "date": "2026-01-04",
+        "fullPct": 58.39,
+        "gasInStorageTWh": 39.7
+      },
+      {
+        "date": "2026-01-05",
+        "fullPct": 57.93,
+        "gasInStorageTWh": 39.39
+      },
+      {
+        "date": "2026-01-06",
+        "fullPct": 57.75,
+        "gasInStorageTWh": 39.26
+      },
+      {
+        "date": "2026-01-07",
+        "fullPct": 57.17,
+        "gasInStorageTWh": 38.87
+      },
+      {
+        "date": "2026-01-08",
+        "fullPct": 56.43,
+        "gasInStorageTWh": 38.37
+      },
+      {
+        "date": "2026-01-09",
+        "fullPct": 55.75,
+        "gasInStorageTWh": 37.91
+      },
+      {
+        "date": "2026-01-10",
+        "fullPct": 55.18,
+        "gasInStorageTWh": 37.52
+      },
+      {
+        "date": "2026-01-11",
+        "fullPct": 54.56,
+        "gasInStorageTWh": 37.1
+      },
+      {
+        "date": "2026-01-12",
+        "fullPct": 53.8,
+        "gasInStorageTWh": 36.58
+      },
+      {
+        "date": "2026-01-13",
+        "fullPct": 53.17,
+        "gasInStorageTWh": 36.15
+      },
+      {
+        "date": "2026-01-14",
+        "fullPct": 52.57,
+        "gasInStorageTWh": 35.74
+      },
+      {
+        "date": "2026-01-15",
+        "fullPct": 52.03,
+        "gasInStorageTWh": 35.37
+      },
+      {
+        "date": "2026-01-16",
+        "fullPct": 51.55,
+        "gasInStorageTWh": 35.05
+      },
+      {
+        "date": "2026-01-17",
+        "fullPct": 51.08,
+        "gasInStorageTWh": 34.73
+      },
+      {
+        "date": "2026-01-18",
+        "fullPct": 50.59,
+        "gasInStorageTWh": 34.4
+      },
+      {
+        "date": "2026-01-19",
+        "fullPct": 49.91,
+        "gasInStorageTWh": 33.93
+      },
+      {
+        "date": "2026-01-20",
+        "fullPct": 49.21,
+        "gasInStorageTWh": 33.46
+      },
+      {
+        "date": "2026-01-21",
+        "fullPct": 48.48,
+        "gasInStorageTWh": 32.96
+      },
+      {
+        "date": "2026-01-22",
+        "fullPct": 47.8,
+        "gasInStorageTWh": 32.5
+      },
+      {
+        "date": "2026-01-23",
+        "fullPct": 47.28,
+        "gasInStorageTWh": 32.14
+      },
+      {
+        "date": "2026-01-24",
+        "fullPct": 46.9,
+        "gasInStorageTWh": 31.88
+      },
+      {
+        "date": "2026-01-25",
+        "fullPct": 46.54,
+        "gasInStorageTWh": 31.65
+      },
+      {
+        "date": "2026-01-26",
+        "fullPct": 46.14,
+        "gasInStorageTWh": 31.37
+      },
+      {
+        "date": "2026-01-27",
+        "fullPct": 45.7,
+        "gasInStorageTWh": 31.07
+      },
+      {
+        "date": "2026-01-28",
+        "fullPct": 45.29,
+        "gasInStorageTWh": 30.8
+      },
+      {
+        "date": "2026-01-29",
+        "fullPct": 44.93,
+        "gasInStorageTWh": 30.55
+      },
+      {
+        "date": "2026-01-30",
+        "fullPct": 44.56,
+        "gasInStorageTWh": 30.3
+      },
+      {
+        "date": "2026-01-31",
+        "fullPct": 44.19,
+        "gasInStorageTWh": 30.05
+      },
+      {
+        "date": "2026-02-01",
+        "fullPct": 42.78,
+        "gasInStorageTWh": 29.08
+      },
+      {
+        "date": "2026-02-02",
+        "fullPct": 42.32,
+        "gasInStorageTWh": 28.77
+      },
+      {
+        "date": "2026-02-03",
+        "fullPct": 41.78,
+        "gasInStorageTWh": 28.41
+      },
+      {
+        "date": "2026-02-04",
+        "fullPct": 41.43,
+        "gasInStorageTWh": 28.17
+      },
+      {
+        "date": "2026-02-05",
+        "fullPct": 41.12,
+        "gasInStorageTWh": 27.96
+      },
+      {
+        "date": "2026-02-06",
+        "fullPct": 40.91,
+        "gasInStorageTWh": 27.82
+      },
+      {
+        "date": "2026-02-07",
+        "fullPct": 40.76,
+        "gasInStorageTWh": 27.71
+      },
+      {
+        "date": "2026-02-08",
+        "fullPct": 40.58,
+        "gasInStorageTWh": 27.59
+      },
+      {
+        "date": "2026-02-09",
+        "fullPct": 40.3,
+        "gasInStorageTWh": 27.4
+      },
+      {
+        "date": "2026-02-10",
+        "fullPct": 40.01,
+        "gasInStorageTWh": 27.2
+      },
+      {
+        "date": "2026-02-11",
+        "fullPct": 39.73,
+        "gasInStorageTWh": 27.01
+      },
+      {
+        "date": "2026-02-12",
+        "fullPct": 39.53,
+        "gasInStorageTWh": 26.88
+      },
+      {
+        "date": "2026-02-13",
+        "fullPct": 39.36,
+        "gasInStorageTWh": 26.76
+      },
+      {
+        "date": "2026-02-14",
+        "fullPct": 39.23,
+        "gasInStorageTWh": 26.67
+      },
+      {
+        "date": "2026-02-15",
+        "fullPct": 38.99,
+        "gasInStorageTWh": 26.51
+      },
+      {
+        "date": "2026-02-16",
+        "fullPct": 38.59,
+        "gasInStorageTWh": 26.24
+      },
+      {
+        "date": "2026-02-17",
+        "fullPct": 38.27,
+        "gasInStorageTWh": 26.02
+      },
+      {
+        "date": "2026-02-18",
+        "fullPct": 37.93,
+        "gasInStorageTWh": 25.79
+      },
+      {
+        "date": "2026-02-19",
+        "fullPct": 37.63,
+        "gasInStorageTWh": 25.58
+      },
+      {
+        "date": "2026-02-20",
+        "fullPct": 37.29,
+        "gasInStorageTWh": 25.35
+      },
+      {
+        "date": "2026-02-21",
+        "fullPct": 37.04,
+        "gasInStorageTWh": 25.19
+      },
+      {
+        "date": "2026-02-22",
+        "fullPct": 36.86,
+        "gasInStorageTWh": 25.06
+      },
+      {
+        "date": "2026-02-23",
+        "fullPct": 36.74,
+        "gasInStorageTWh": 24.98
+      },
+      {
+        "date": "2026-02-24",
+        "fullPct": 36.58,
+        "gasInStorageTWh": 24.87
+      },
+      {
+        "date": "2026-02-25",
+        "fullPct": 36.45,
+        "gasInStorageTWh": 24.78
+      },
+      {
+        "date": "2026-02-26",
+        "fullPct": 36.29,
+        "gasInStorageTWh": 24.68
+      },
+      {
+        "date": "2026-02-27",
+        "fullPct": 36.15,
+        "gasInStorageTWh": 24.58
+      },
+      {
+        "date": "2026-02-28",
+        "fullPct": 34.94,
+        "gasInStorageTWh": 23.75
+      },
+      {
+        "date": "2026-03-01",
+        "fullPct": 34.82,
+        "gasInStorageTWh": 23.68
+      },
+      {
+        "date": "2026-03-02",
+        "fullPct": 34.67,
+        "gasInStorageTWh": 23.57
+      },
+      {
+        "date": "2026-03-03",
+        "fullPct": 34.52,
+        "gasInStorageTWh": 23.47
+      },
+      {
+        "date": "2026-03-04",
+        "fullPct": 34.35,
+        "gasInStorageTWh": 23.35
+      },
+      {
+        "date": "2026-03-05",
+        "fullPct": 34.25,
+        "gasInStorageTWh": 23.29
+      },
+      {
+        "date": "2026-03-06",
+        "fullPct": 34.16,
+        "gasInStorageTWh": 23.23
+      },
+      {
+        "date": "2026-03-07",
+        "fullPct": 34.1,
+        "gasInStorageTWh": 23.18
+      },
+      {
+        "date": "2026-03-08",
+        "fullPct": 34.04,
+        "gasInStorageTWh": 23.14
+      },
+      {
+        "date": "2026-03-09",
+        "fullPct": 33.95,
+        "gasInStorageTWh": 23.08
+      },
+      {
+        "date": "2026-03-10",
+        "fullPct": 33.88,
+        "gasInStorageTWh": 23.04
+      },
+      {
+        "date": "2026-03-11",
+        "fullPct": 33.84,
+        "gasInStorageTWh": 23.01
+      },
+      {
+        "date": "2026-03-12",
+        "fullPct": 33.82,
+        "gasInStorageTWh": 23
+      },
+      {
+        "date": "2026-03-13",
+        "fullPct": 33.84,
+        "gasInStorageTWh": 23.01
+      },
+      {
+        "date": "2026-03-14",
+        "fullPct": 33.87,
+        "gasInStorageTWh": 23.03
+      },
+      {
+        "date": "2026-03-15",
+        "fullPct": 33.88,
+        "gasInStorageTWh": 23.04
+      },
+      {
+        "date": "2026-03-16",
+        "fullPct": 33.83,
+        "gasInStorageTWh": 23
+      },
+      {
+        "date": "2026-03-17",
+        "fullPct": 33.68,
+        "gasInStorageTWh": 22.9
+      },
+      {
+        "date": "2026-03-18",
+        "fullPct": 33.55,
+        "gasInStorageTWh": 22.81
+      },
+      {
+        "date": "2026-03-19",
+        "fullPct": 33.44,
+        "gasInStorageTWh": 22.74
+      },
+      {
+        "date": "2026-03-20",
+        "fullPct": 33.31,
+        "gasInStorageTWh": 22.65
+      },
+      {
+        "date": "2026-03-21",
+        "fullPct": 33.27,
+        "gasInStorageTWh": 22.62
+      },
+      {
+        "date": "2026-03-22",
+        "fullPct": 33.23,
+        "gasInStorageTWh": 22.59
+      },
+      {
+        "date": "2026-03-23",
+        "fullPct": 33.16,
+        "gasInStorageTWh": 22.55
+      },
+      {
+        "date": "2026-03-24",
+        "fullPct": 33.09,
+        "gasInStorageTWh": 22.5
+      },
+      {
+        "date": "2026-03-25",
+        "fullPct": 33.09,
+        "gasInStorageTWh": 22.5
+      },
+      {
+        "date": "2026-03-26",
+        "fullPct": 33.08,
+        "gasInStorageTWh": 22.49
+      },
+      {
+        "date": "2026-03-27",
+        "fullPct": 32.98,
+        "gasInStorageTWh": 22.42
+      },
+      {
+        "date": "2026-03-28",
+        "fullPct": 32.9,
+        "gasInStorageTWh": 22.37
+      },
+      {
+        "date": "2026-03-29",
+        "fullPct": 32.81,
+        "gasInStorageTWh": 22.31
+      },
+      {
+        "date": "2026-03-30",
+        "fullPct": 32.63,
+        "gasInStorageTWh": 22.18
+      },
+      {
+        "date": "2026-03-31",
+        "fullPct": 32.46,
+        "gasInStorageTWh": 22.07
+      },
+      {
+        "date": "2026-04-01",
+        "fullPct": 32.38,
+        "gasInStorageTWh": 22.01
+      },
+      {
+        "date": "2026-04-02",
+        "fullPct": 32.38,
+        "gasInStorageTWh": 22.01
+      },
+      {
+        "date": "2026-04-03",
+        "fullPct": 32.43,
+        "gasInStorageTWh": 22.05
+      },
+      {
+        "date": "2026-04-04",
+        "fullPct": 32.54,
+        "gasInStorageTWh": 22.12
+      },
+      {
+        "date": "2026-04-05",
+        "fullPct": 32.66,
+        "gasInStorageTWh": 22.2
+      },
+      {
+        "date": "2026-04-06",
+        "fullPct": 32.81,
+        "gasInStorageTWh": 22.31
+      },
+      {
+        "date": "2026-04-07",
+        "fullPct": 32.91,
+        "gasInStorageTWh": 22.38
+      },
+      {
+        "date": "2026-04-08",
+        "fullPct": 32.99,
+        "gasInStorageTWh": 22.43
+      },
+      {
+        "date": "2026-04-09",
+        "fullPct": 33.02,
+        "gasInStorageTWh": 22.45
+      },
+      {
+        "date": "2026-04-10",
+        "fullPct": 33.03,
+        "gasInStorageTWh": 22.46
+      },
+      {
+        "date": "2026-04-11",
+        "fullPct": 33.08,
+        "gasInStorageTWh": 22.49
+      },
+      {
+        "date": "2026-04-12",
+        "fullPct": 33.14,
+        "gasInStorageTWh": 22.53
+      },
+      {
+        "date": "2026-04-13",
+        "fullPct": 33.21,
+        "gasInStorageTWh": 22.58
+      },
+      {
+        "date": "2026-04-14",
+        "fullPct": 33.26,
+        "gasInStorageTWh": 22.61
+      },
+      {
+        "date": "2026-04-15",
+        "fullPct": 33.37,
+        "gasInStorageTWh": 22.69
+      },
+      {
+        "date": "2026-04-16",
+        "fullPct": 33.5,
+        "gasInStorageTWh": 22.78
+      },
+      {
+        "date": "2026-04-17",
+        "fullPct": 33.66,
+        "gasInStorageTWh": 22.89
+      },
+      {
+        "date": "2026-04-18",
+        "fullPct": 33.84,
+        "gasInStorageTWh": 23.01
+      },
+      {
+        "date": "2026-04-19",
+        "fullPct": 33.99,
+        "gasInStorageTWh": 23.11
+      },
+      {
+        "date": "2026-04-20",
+        "fullPct": 34.11,
+        "gasInStorageTWh": 23.19
+      },
+      {
+        "date": "2026-04-21",
+        "fullPct": 34.19,
+        "gasInStorageTWh": 23.25
+      },
+      {
+        "date": "2026-04-22",
+        "fullPct": 34.28,
+        "gasInStorageTWh": 23.31
+      },
+      {
+        "date": "2026-04-23",
+        "fullPct": 34.33,
+        "gasInStorageTWh": 23.34
+      },
+      {
+        "date": "2026-04-24",
+        "fullPct": 34.41,
+        "gasInStorageTWh": 23.39
+      },
+      {
+        "date": "2026-04-25",
+        "fullPct": 34.52,
+        "gasInStorageTWh": 23.47
+      },
+      {
+        "date": "2026-04-26",
+        "fullPct": 34.62,
+        "gasInStorageTWh": 23.54
+      },
+      {
+        "date": "2026-04-27",
+        "fullPct": 34.77,
+        "gasInStorageTWh": 23.64
+      },
+      {
+        "date": "2026-04-28",
+        "fullPct": 34.9,
+        "gasInStorageTWh": 23.73
+      },
+      {
+        "date": "2026-04-29",
+        "fullPct": 35.02,
+        "gasInStorageTWh": 23.81
+      },
+      {
+        "date": "2026-04-30",
+        "fullPct": 35.08,
+        "gasInStorageTWh": 23.85
+      },
+      {
+        "date": "2026-05-01",
+        "fullPct": 35.27,
+        "gasInStorageTWh": 23.98
+      },
+      {
+        "date": "2026-05-02",
+        "fullPct": 35.49,
+        "gasInStorageTWh": 24.13
+      },
+      {
+        "date": "2026-05-03",
+        "fullPct": 35.74,
+        "gasInStorageTWh": 24.3
+      },
+      {
+        "date": "2026-05-04",
+        "fullPct": 35.97,
+        "gasInStorageTWh": 24.46
+      },
+      {
+        "date": "2026-05-05",
+        "fullPct": 36.22,
+        "gasInStorageTWh": 24.62
+      },
+      {
+        "date": "2026-05-06",
+        "fullPct": 36.45,
+        "gasInStorageTWh": 24.78
+      },
+      {
+        "date": "2026-05-07",
+        "fullPct": 36.7,
+        "gasInStorageTWh": 24.96
+      },
+      {
+        "date": "2026-05-08",
+        "fullPct": 37,
+        "gasInStorageTWh": 25.16
+      },
+      {
+        "date": "2026-05-09",
+        "fullPct": 37.45,
+        "gasInStorageTWh": 25.36
+      },
+      {
+        "date": "2026-05-10",
+        "fullPct": 37.75,
+        "gasInStorageTWh": 25.56
+      },
+      {
+        "date": "2026-05-11",
+        "fullPct": 38.03,
+        "gasInStorageTWh": 25.75
+      },
+      {
+        "date": "2026-05-12",
+        "fullPct": 38.29,
+        "gasInStorageTWh": 25.93
+      },
+      {
+        "date": "2026-05-13",
+        "fullPct": 38.53,
+        "gasInStorageTWh": 26.09
+      },
+      {
+        "date": "2026-05-14",
+        "fullPct": 38.75,
+        "gasInStorageTWh": 26.24
+      },
+      {
+        "date": "2026-05-15",
+        "fullPct": 39.01,
+        "gasInStorageTWh": 26.41
+      },
+      {
+        "date": "2026-05-16",
+        "fullPct": 39.29,
+        "gasInStorageTWh": 26.6
+      },
+      {
+        "date": "2026-05-17",
+        "fullPct": 39.56,
+        "gasInStorageTWh": 26.78
+      },
+      {
+        "date": "2026-05-18",
+        "fullPct": 39.81,
+        "gasInStorageTWh": 26.95
+      },
+      {
+        "date": "2026-05-19",
+        "fullPct": 40.08,
+        "gasInStorageTWh": 27.13
+      },
+      {
+        "date": "2026-05-20",
+        "fullPct": 40.38,
+        "gasInStorageTWh": 27.34
+      },
+      {
+        "date": "2026-05-21",
+        "fullPct": 40.68,
+        "gasInStorageTWh": 27.55
+      },
+      {
+        "date": "2026-05-22",
+        "fullPct": 41.01,
+        "gasInStorageTWh": 27.77
+      },
+      {
+        "date": "2026-05-23",
+        "fullPct": 41.36,
+        "gasInStorageTWh": 28
+      },
+      {
+        "date": "2026-05-24",
+        "fullPct": 41.71,
+        "gasInStorageTWh": 28.24
+      },
+      {
+        "date": "2026-05-25",
+        "fullPct": 42.07,
+        "gasInStorageTWh": 28.48
+      },
+      {
+        "date": "2026-05-26",
+        "fullPct": 42.38,
+        "gasInStorageTWh": 28.69
+      },
+      {
+        "date": "2026-05-27",
+        "fullPct": 42.66,
+        "gasInStorageTWh": 28.88
+      },
+      {
+        "date": "2026-05-28",
+        "fullPct": 42.94,
+        "gasInStorageTWh": 29.08
+      },
+      {
+        "date": "2026-05-29",
+        "fullPct": 43.25,
+        "gasInStorageTWh": 29.28
+      },
+      {
+        "date": "2026-05-30",
+        "fullPct": 43.58,
+        "gasInStorageTWh": 29.51
+      },
+      {
+        "date": "2026-05-31",
+        "fullPct": 43.9,
+        "gasInStorageTWh": 29.72
+      },
+      {
+        "date": "2026-06-01",
+        "fullPct": 44.14,
+        "gasInStorageTWh": 29.89
+      },
+      {
+        "date": "2026-06-02",
+        "fullPct": 44.19,
+        "gasInStorageTWh": 29.92
+      },
+      {
+        "date": "2026-06-03",
+        "fullPct": 44.24,
+        "gasInStorageTWh": 29.95
+      },
+      {
+        "date": "2026-06-04",
+        "fullPct": 44.29,
+        "gasInStorageTWh": 29.98
+      },
+      {
+        "date": "2026-06-05",
+        "fullPct": 44.34,
+        "gasInStorageTWh": 30.02
+      },
+      {
+        "date": "2026-06-06",
+        "fullPct": 44.41,
+        "gasInStorageTWh": 30.07
+      },
+      {
+        "date": "2026-06-07",
+        "fullPct": 44.53,
+        "gasInStorageTWh": 30.15
+      },
+      {
+        "date": "2026-06-08",
+        "fullPct": 44.73,
+        "gasInStorageTWh": 30.29
+      },
+      {
+        "date": "2026-06-09",
+        "fullPct": 44.99,
+        "gasInStorageTWh": 30.46
+      },
+      {
+        "date": "2026-06-10",
+        "fullPct": 45.26,
+        "gasInStorageTWh": 30.65
+      },
+      {
+        "date": "2026-06-11",
+        "fullPct": 45.56,
+        "gasInStorageTWh": 30.85
+      },
+      {
+        "date": "2026-06-12",
+        "fullPct": 45.84,
+        "gasInStorageTWh": 31.04
+      },
+      {
+        "date": "2026-06-13",
+        "fullPct": 46.18,
+        "gasInStorageTWh": 31.26
+      },
+      {
+        "date": "2026-06-14",
+        "fullPct": 46.5,
+        "gasInStorageTWh": 31.48
+      },
+      {
+        "date": "2026-06-15",
+        "fullPct": 46.8,
+        "gasInStorageTWh": 31.69
+      },
+      {
+        "date": "2026-06-16",
+        "fullPct": 47.1,
+        "gasInStorageTWh": 31.89
+      },
+      {
+        "date": "2026-06-17",
+        "fullPct": 47.38,
+        "gasInStorageTWh": 32.08
+      },
+      {
+        "date": "2026-06-18",
+        "fullPct": 47.64,
+        "gasInStorageTWh": 32.26
+      },
+      {
+        "date": "2026-06-19",
+        "fullPct": 47.92,
+        "gasInStorageTWh": 32.45
+      },
+      {
+        "date": "2026-06-20",
+        "fullPct": 48.23,
+        "gasInStorageTWh": 32.66
+      },
+      {
+        "date": "2026-06-21",
+        "fullPct": 48.54,
+        "gasInStorageTWh": 32.87
+      },
+      {
+        "date": "2026-06-22",
+        "fullPct": 48.82,
+        "gasInStorageTWh": 33.06
+      },
+      {
+        "date": "2026-06-23",
+        "fullPct": 49.07,
+        "gasInStorageTWh": 33.22
+      },
+      {
+        "date": "2026-06-24",
+        "fullPct": 49.29,
+        "gasInStorageTWh": 33.37
+      },
+      {
+        "date": "2026-06-25",
+        "fullPct": 49.53,
+        "gasInStorageTWh": 33.54
+      },
+      {
+        "date": "2026-06-26",
+        "fullPct": 49.78,
+        "gasInStorageTWh": 33.71
+      },
+      {
+        "date": "2026-06-27",
+        "fullPct": 50.06,
+        "gasInStorageTWh": 33.9
+      },
+      {
+        "date": "2026-06-28",
+        "fullPct": 50.36,
+        "gasInStorageTWh": 34.1
+      },
+      {
+        "date": "2026-06-29",
+        "fullPct": 50.61,
+        "gasInStorageTWh": 34.27
+      },
+      {
+        "date": "2026-06-30",
+        "fullPct": 50.86,
+        "gasInStorageTWh": 34.44
+      },
+      {
+        "date": "2026-07-01",
+        "fullPct": 51.11,
+        "gasInStorageTWh": 34.61
+      },
+      {
+        "date": "2026-07-02",
+        "fullPct": 51.39,
+        "gasInStorageTWh": 34.79
+      },
+      {
+        "date": "2026-07-03",
+        "fullPct": 51.69,
+        "gasInStorageTWh": 35
+      },
+      {
+        "date": "2026-07-04",
+        "fullPct": 51.99,
+        "gasInStorageTWh": 35.2
+      },
+      {
+        "date": "2026-07-05",
+        "fullPct": 52.3,
+        "gasInStorageTWh": 35.41
+      },
+      {
+        "date": "2026-07-06",
+        "fullPct": 52.59,
+        "gasInStorageTWh": 35.61
+      },
+      {
+        "date": "2026-07-07",
+        "fullPct": 52.86,
+        "gasInStorageTWh": 35.79
+      },
+      {
+        "date": "2026-07-08",
+        "fullPct": 53.11,
+        "gasInStorageTWh": 35.96
+      },
+      {
+        "date": "2026-07-09",
+        "fullPct": 53.34,
+        "gasInStorageTWh": 36.12
+      },
+      {
+        "date": "2026-07-10",
+        "fullPct": 53.59,
+        "gasInStorageTWh": 36.28
+      },
+      {
+        "date": "2026-07-11",
+        "fullPct": 53.85,
+        "gasInStorageTWh": 36.46
+      },
+      {
+        "date": "2026-07-12",
+        "fullPct": 54.12,
+        "gasInStorageTWh": 36.64
+      }
+    ],
     "lv": [
       {
         "date": "2023-07-15",
@@ -64162,1506 +69634,6 @@
         "date": "2025-09-15",
         "fullPct": 53.99,
         "gasInStorageTWh": 13.42
-      },
-      {
-        "date": "2025-09-16",
-        "fullPct": 54.1,
-        "gasInStorageTWh": 13.45
-      },
-      {
-        "date": "2025-09-17",
-        "fullPct": 54.21,
-        "gasInStorageTWh": 13.48
-      },
-      {
-        "date": "2025-09-18",
-        "fullPct": 54.32,
-        "gasInStorageTWh": 13.51
-      },
-      {
-        "date": "2025-09-19",
-        "fullPct": 54.46,
-        "gasInStorageTWh": 13.54
-      },
-      {
-        "date": "2025-09-20",
-        "fullPct": 54.66,
-        "gasInStorageTWh": 13.59
-      },
-      {
-        "date": "2025-09-21",
-        "fullPct": 54.84,
-        "gasInStorageTWh": 13.64
-      },
-      {
-        "date": "2025-09-22",
-        "fullPct": 54.96,
-        "gasInStorageTWh": 13.67
-      },
-      {
-        "date": "2025-09-23",
-        "fullPct": 55.08,
-        "gasInStorageTWh": 13.7
-      },
-      {
-        "date": "2025-09-24",
-        "fullPct": 55.19,
-        "gasInStorageTWh": 13.72
-      },
-      {
-        "date": "2025-09-25",
-        "fullPct": 55.29,
-        "gasInStorageTWh": 13.75
-      },
-      {
-        "date": "2025-09-26",
-        "fullPct": 55.39,
-        "gasInStorageTWh": 13.77
-      },
-      {
-        "date": "2025-09-27",
-        "fullPct": 55.49,
-        "gasInStorageTWh": 13.8
-      },
-      {
-        "date": "2025-09-28",
-        "fullPct": 55.61,
-        "gasInStorageTWh": 13.83
-      },
-      {
-        "date": "2025-09-29",
-        "fullPct": 55.74,
-        "gasInStorageTWh": 13.86
-      },
-      {
-        "date": "2025-09-30",
-        "fullPct": 55.85,
-        "gasInStorageTWh": 13.89
-      },
-      {
-        "date": "2025-10-01",
-        "fullPct": 55.85,
-        "gasInStorageTWh": 13.89
-      },
-      {
-        "date": "2025-10-02",
-        "fullPct": 55.93,
-        "gasInStorageTWh": 13.91
-      },
-      {
-        "date": "2025-10-03",
-        "fullPct": 56.06,
-        "gasInStorageTWh": 13.94
-      },
-      {
-        "date": "2025-10-04",
-        "fullPct": 56.31,
-        "gasInStorageTWh": 14
-      },
-      {
-        "date": "2025-10-05",
-        "fullPct": 56.66,
-        "gasInStorageTWh": 14.09
-      },
-      {
-        "date": "2025-10-06",
-        "fullPct": 57.01,
-        "gasInStorageTWh": 14.18
-      },
-      {
-        "date": "2025-10-07",
-        "fullPct": 57.36,
-        "gasInStorageTWh": 14.26
-      },
-      {
-        "date": "2025-10-08",
-        "fullPct": 57.36,
-        "gasInStorageTWh": 14.26
-      },
-      {
-        "date": "2025-10-09",
-        "fullPct": 57.36,
-        "gasInStorageTWh": 14.26
-      },
-      {
-        "date": "2025-10-10",
-        "fullPct": 57.58,
-        "gasInStorageTWh": 14.32
-      },
-      {
-        "date": "2025-10-11",
-        "fullPct": 57.85,
-        "gasInStorageTWh": 14.38
-      },
-      {
-        "date": "2025-10-12",
-        "fullPct": 58.13,
-        "gasInStorageTWh": 14.45
-      },
-      {
-        "date": "2025-10-13",
-        "fullPct": 57.95,
-        "gasInStorageTWh": 14.41
-      },
-      {
-        "date": "2025-10-14",
-        "fullPct": 57.65,
-        "gasInStorageTWh": 14.34
-      },
-      {
-        "date": "2025-10-15",
-        "fullPct": 57.32,
-        "gasInStorageTWh": 14.25
-      },
-      {
-        "date": "2025-10-16",
-        "fullPct": 57.32,
-        "gasInStorageTWh": 14.25
-      },
-      {
-        "date": "2025-10-17",
-        "fullPct": 57.45,
-        "gasInStorageTWh": 14.29
-      },
-      {
-        "date": "2025-10-18",
-        "fullPct": 57.69,
-        "gasInStorageTWh": 14.35
-      },
-      {
-        "date": "2025-10-19",
-        "fullPct": 57.88,
-        "gasInStorageTWh": 14.39
-      },
-      {
-        "date": "2025-10-20",
-        "fullPct": 57.92,
-        "gasInStorageTWh": 14.4
-      },
-      {
-        "date": "2025-10-21",
-        "fullPct": 58.01,
-        "gasInStorageTWh": 14.43
-      },
-      {
-        "date": "2025-10-22",
-        "fullPct": 58.02,
-        "gasInStorageTWh": 14.43
-      },
-      {
-        "date": "2025-10-23",
-        "fullPct": 58.12,
-        "gasInStorageTWh": 14.45
-      },
-      {
-        "date": "2025-10-24",
-        "fullPct": 58.15,
-        "gasInStorageTWh": 14.46
-      },
-      {
-        "date": "2025-10-25",
-        "fullPct": 58.19,
-        "gasInStorageTWh": 14.47
-      },
-      {
-        "date": "2025-10-26",
-        "fullPct": 58.22,
-        "gasInStorageTWh": 14.48
-      },
-      {
-        "date": "2025-10-27",
-        "fullPct": 58.42,
-        "gasInStorageTWh": 14.53
-      },
-      {
-        "date": "2025-10-28",
-        "fullPct": 58.52,
-        "gasInStorageTWh": 14.55
-      },
-      {
-        "date": "2025-10-29",
-        "fullPct": 58.62,
-        "gasInStorageTWh": 14.58
-      },
-      {
-        "date": "2025-10-30",
-        "fullPct": 58.62,
-        "gasInStorageTWh": 14.58
-      },
-      {
-        "date": "2025-10-31",
-        "fullPct": 58.84,
-        "gasInStorageTWh": 14.63
-      },
-      {
-        "date": "2025-11-01",
-        "fullPct": 59.16,
-        "gasInStorageTWh": 14.71
-      },
-      {
-        "date": "2025-11-02",
-        "fullPct": 59.48,
-        "gasInStorageTWh": 14.79
-      },
-      {
-        "date": "2025-11-03",
-        "fullPct": 59.69,
-        "gasInStorageTWh": 14.84
-      },
-      {
-        "date": "2025-11-04",
-        "fullPct": 59.84,
-        "gasInStorageTWh": 14.88
-      },
-      {
-        "date": "2025-11-05",
-        "fullPct": 59.84,
-        "gasInStorageTWh": 14.88
-      },
-      {
-        "date": "2025-11-06",
-        "fullPct": 59.84,
-        "gasInStorageTWh": 14.88
-      },
-      {
-        "date": "2025-11-07",
-        "fullPct": 59.95,
-        "gasInStorageTWh": 14.91
-      },
-      {
-        "date": "2025-11-08",
-        "fullPct": 60.07,
-        "gasInStorageTWh": 14.94
-      },
-      {
-        "date": "2025-11-09",
-        "fullPct": 60.2,
-        "gasInStorageTWh": 14.97
-      },
-      {
-        "date": "2025-11-10",
-        "fullPct": 60.22,
-        "gasInStorageTWh": 14.97
-      },
-      {
-        "date": "2025-11-11",
-        "fullPct": 60.22,
-        "gasInStorageTWh": 14.97
-      },
-      {
-        "date": "2025-11-12",
-        "fullPct": 60.22,
-        "gasInStorageTWh": 14.97
-      },
-      {
-        "date": "2025-11-13",
-        "fullPct": 60.27,
-        "gasInStorageTWh": 14.99
-      },
-      {
-        "date": "2025-11-14",
-        "fullPct": 60.38,
-        "gasInStorageTWh": 15.01
-      },
-      {
-        "date": "2025-11-15",
-        "fullPct": 60.49,
-        "gasInStorageTWh": 15.04
-      },
-      {
-        "date": "2025-11-16",
-        "fullPct": 60.61,
-        "gasInStorageTWh": 15.07
-      },
-      {
-        "date": "2025-11-17",
-        "fullPct": 60.62,
-        "gasInStorageTWh": 15.07
-      },
-      {
-        "date": "2025-11-18",
-        "fullPct": 60.41,
-        "gasInStorageTWh": 15.02
-      },
-      {
-        "date": "2025-11-19",
-        "fullPct": 60.02,
-        "gasInStorageTWh": 14.92
-      },
-      {
-        "date": "2025-11-20",
-        "fullPct": 59.54,
-        "gasInStorageTWh": 14.81
-      },
-      {
-        "date": "2025-11-21",
-        "fullPct": 58.97,
-        "gasInStorageTWh": 14.66
-      },
-      {
-        "date": "2025-11-22",
-        "fullPct": 58.62,
-        "gasInStorageTWh": 14.58
-      },
-      {
-        "date": "2025-11-23",
-        "fullPct": 58.32,
-        "gasInStorageTWh": 14.5
-      },
-      {
-        "date": "2025-11-24",
-        "fullPct": 57.79,
-        "gasInStorageTWh": 14.37
-      },
-      {
-        "date": "2025-11-25",
-        "fullPct": 57.14,
-        "gasInStorageTWh": 14.21
-      },
-      {
-        "date": "2025-11-26",
-        "fullPct": 56.53,
-        "gasInStorageTWh": 14.06
-      },
-      {
-        "date": "2025-11-27",
-        "fullPct": 55.94,
-        "gasInStorageTWh": 13.91
-      },
-      {
-        "date": "2025-11-28",
-        "fullPct": 55.58,
-        "gasInStorageTWh": 13.82
-      },
-      {
-        "date": "2025-11-29",
-        "fullPct": 55.29,
-        "gasInStorageTWh": 13.75
-      },
-      {
-        "date": "2025-11-30",
-        "fullPct": 55.11,
-        "gasInStorageTWh": 13.7
-      },
-      {
-        "date": "2025-12-01",
-        "fullPct": 54.85,
-        "gasInStorageTWh": 13.64
-      },
-      {
-        "date": "2025-12-02",
-        "fullPct": 54.61,
-        "gasInStorageTWh": 13.58
-      },
-      {
-        "date": "2025-12-03",
-        "fullPct": 54.39,
-        "gasInStorageTWh": 13.52
-      },
-      {
-        "date": "2025-12-04",
-        "fullPct": 53.94,
-        "gasInStorageTWh": 13.41
-      },
-      {
-        "date": "2025-12-05",
-        "fullPct": 53.59,
-        "gasInStorageTWh": 13.32
-      },
-      {
-        "date": "2025-12-06",
-        "fullPct": 53.47,
-        "gasInStorageTWh": 13.3
-      },
-      {
-        "date": "2025-12-07",
-        "fullPct": 53.38,
-        "gasInStorageTWh": 13.27
-      },
-      {
-        "date": "2025-12-08",
-        "fullPct": 53.23,
-        "gasInStorageTWh": 13.24
-      },
-      {
-        "date": "2025-12-09",
-        "fullPct": 53.1,
-        "gasInStorageTWh": 13.2
-      },
-      {
-        "date": "2025-12-10",
-        "fullPct": 52.97,
-        "gasInStorageTWh": 13.17
-      },
-      {
-        "date": "2025-12-11",
-        "fullPct": 52.84,
-        "gasInStorageTWh": 13.14
-      },
-      {
-        "date": "2025-12-12",
-        "fullPct": 52.48,
-        "gasInStorageTWh": 13.05
-      },
-      {
-        "date": "2025-12-13",
-        "fullPct": 52.11,
-        "gasInStorageTWh": 12.96
-      },
-      {
-        "date": "2025-12-14",
-        "fullPct": 51.77,
-        "gasInStorageTWh": 12.87
-      },
-      {
-        "date": "2025-12-15",
-        "fullPct": 51.59,
-        "gasInStorageTWh": 12.83
-      },
-      {
-        "date": "2025-12-16",
-        "fullPct": 51.39,
-        "gasInStorageTWh": 12.78
-      },
-      {
-        "date": "2025-12-17",
-        "fullPct": 51.2,
-        "gasInStorageTWh": 12.73
-      },
-      {
-        "date": "2025-12-18",
-        "fullPct": 50.95,
-        "gasInStorageTWh": 12.67
-      },
-      {
-        "date": "2025-12-19",
-        "fullPct": 50.71,
-        "gasInStorageTWh": 12.61
-      },
-      {
-        "date": "2025-12-20",
-        "fullPct": 50.56,
-        "gasInStorageTWh": 12.57
-      },
-      {
-        "date": "2025-12-21",
-        "fullPct": 50.41,
-        "gasInStorageTWh": 12.53
-      },
-      {
-        "date": "2025-12-22",
-        "fullPct": 50.21,
-        "gasInStorageTWh": 12.48
-      },
-      {
-        "date": "2025-12-23",
-        "fullPct": 49.89,
-        "gasInStorageTWh": 12.41
-      },
-      {
-        "date": "2025-12-24",
-        "fullPct": 49.65,
-        "gasInStorageTWh": 12.35
-      },
-      {
-        "date": "2025-12-25",
-        "fullPct": 49.51,
-        "gasInStorageTWh": 12.31
-      },
-      {
-        "date": "2025-12-26",
-        "fullPct": 49.4,
-        "gasInStorageTWh": 12.28
-      },
-      {
-        "date": "2025-12-27",
-        "fullPct": 49.4,
-        "gasInStorageTWh": 12.28
-      },
-      {
-        "date": "2025-12-28",
-        "fullPct": 49.4,
-        "gasInStorageTWh": 12.28
-      },
-      {
-        "date": "2025-12-29",
-        "fullPct": 49.14,
-        "gasInStorageTWh": 12.22
-      },
-      {
-        "date": "2025-12-30",
-        "fullPct": 48.81,
-        "gasInStorageTWh": 12.14
-      },
-      {
-        "date": "2025-12-31",
-        "fullPct": 48.01,
-        "gasInStorageTWh": 11.94
-      },
-      {
-        "date": "2026-01-01",
-        "fullPct": 47.53,
-        "gasInStorageTWh": 11.82
-      },
-      {
-        "date": "2026-01-02",
-        "fullPct": 47.08,
-        "gasInStorageTWh": 11.71
-      },
-      {
-        "date": "2026-01-03",
-        "fullPct": 46.72,
-        "gasInStorageTWh": 11.62
-      },
-      {
-        "date": "2026-01-04",
-        "fullPct": 46.34,
-        "gasInStorageTWh": 11.52
-      },
-      {
-        "date": "2026-01-05",
-        "fullPct": 45.72,
-        "gasInStorageTWh": 11.37
-      },
-      {
-        "date": "2026-01-06",
-        "fullPct": 45.11,
-        "gasInStorageTWh": 11.22
-      },
-      {
-        "date": "2026-01-07",
-        "fullPct": 44.55,
-        "gasInStorageTWh": 11.08
-      },
-      {
-        "date": "2026-01-08",
-        "fullPct": 43.97,
-        "gasInStorageTWh": 10.93
-      },
-      {
-        "date": "2026-01-09",
-        "fullPct": 43.45,
-        "gasInStorageTWh": 10.8
-      },
-      {
-        "date": "2026-01-10",
-        "fullPct": 42.94,
-        "gasInStorageTWh": 10.68
-      },
-      {
-        "date": "2026-01-11",
-        "fullPct": 42.28,
-        "gasInStorageTWh": 10.51
-      },
-      {
-        "date": "2026-01-12",
-        "fullPct": 41.54,
-        "gasInStorageTWh": 10.33
-      },
-      {
-        "date": "2026-01-13",
-        "fullPct": 40.78,
-        "gasInStorageTWh": 10.14
-      },
-      {
-        "date": "2026-01-14",
-        "fullPct": 40.02,
-        "gasInStorageTWh": 9.95
-      },
-      {
-        "date": "2026-01-15",
-        "fullPct": 39.28,
-        "gasInStorageTWh": 9.77
-      },
-      {
-        "date": "2026-01-16",
-        "fullPct": 38.63,
-        "gasInStorageTWh": 9.61
-      },
-      {
-        "date": "2026-01-17",
-        "fullPct": 38.05,
-        "gasInStorageTWh": 9.46
-      },
-      {
-        "date": "2026-01-18",
-        "fullPct": 37.36,
-        "gasInStorageTWh": 9.29
-      },
-      {
-        "date": "2026-01-19",
-        "fullPct": 36.62,
-        "gasInStorageTWh": 9.11
-      },
-      {
-        "date": "2026-01-20",
-        "fullPct": 36,
-        "gasInStorageTWh": 8.95
-      },
-      {
-        "date": "2026-01-21",
-        "fullPct": 35.38,
-        "gasInStorageTWh": 8.8
-      },
-      {
-        "date": "2026-01-22",
-        "fullPct": 34.81,
-        "gasInStorageTWh": 8.66
-      },
-      {
-        "date": "2026-01-23",
-        "fullPct": 34.25,
-        "gasInStorageTWh": 8.52
-      },
-      {
-        "date": "2026-01-24",
-        "fullPct": 33.61,
-        "gasInStorageTWh": 8.36
-      },
-      {
-        "date": "2026-01-25",
-        "fullPct": 33,
-        "gasInStorageTWh": 8.2
-      },
-      {
-        "date": "2026-01-26",
-        "fullPct": 32.42,
-        "gasInStorageTWh": 8.06
-      },
-      {
-        "date": "2026-01-27",
-        "fullPct": 31.85,
-        "gasInStorageTWh": 7.92
-      },
-      {
-        "date": "2026-01-28",
-        "fullPct": 31.3,
-        "gasInStorageTWh": 7.78
-      },
-      {
-        "date": "2026-01-29",
-        "fullPct": 30.78,
-        "gasInStorageTWh": 7.65
-      },
-      {
-        "date": "2026-01-30",
-        "fullPct": 30.21,
-        "gasInStorageTWh": 7.51
-      },
-      {
-        "date": "2026-01-31",
-        "fullPct": 29.63,
-        "gasInStorageTWh": 7.37
-      },
-      {
-        "date": "2026-02-01",
-        "fullPct": 29.04,
-        "gasInStorageTWh": 7.22
-      },
-      {
-        "date": "2026-02-02",
-        "fullPct": 28.43,
-        "gasInStorageTWh": 7.07
-      },
-      {
-        "date": "2026-02-03",
-        "fullPct": 27.81,
-        "gasInStorageTWh": 6.92
-      },
-      {
-        "date": "2026-02-04",
-        "fullPct": 27.26,
-        "gasInStorageTWh": 6.78
-      },
-      {
-        "date": "2026-02-05",
-        "fullPct": 26.76,
-        "gasInStorageTWh": 6.66
-      },
-      {
-        "date": "2026-02-06",
-        "fullPct": 26.32,
-        "gasInStorageTWh": 6.55
-      },
-      {
-        "date": "2026-02-07",
-        "fullPct": 25.92,
-        "gasInStorageTWh": 6.45
-      },
-      {
-        "date": "2026-02-08",
-        "fullPct": 25.48,
-        "gasInStorageTWh": 6.34
-      },
-      {
-        "date": "2026-02-09",
-        "fullPct": 25.04,
-        "gasInStorageTWh": 6.23
-      },
-      {
-        "date": "2026-02-10",
-        "fullPct": 24.6,
-        "gasInStorageTWh": 6.12
-      },
-      {
-        "date": "2026-02-11",
-        "fullPct": 24.16,
-        "gasInStorageTWh": 6.01
-      },
-      {
-        "date": "2026-02-12",
-        "fullPct": 23.76,
-        "gasInStorageTWh": 5.91
-      },
-      {
-        "date": "2026-02-13",
-        "fullPct": 23.37,
-        "gasInStorageTWh": 5.81
-      },
-      {
-        "date": "2026-02-14",
-        "fullPct": 22.97,
-        "gasInStorageTWh": 5.71
-      },
-      {
-        "date": "2026-02-15",
-        "fullPct": 22.54,
-        "gasInStorageTWh": 5.61
-      },
-      {
-        "date": "2026-02-16",
-        "fullPct": 22.21,
-        "gasInStorageTWh": 5.52
-      },
-      {
-        "date": "2026-02-17",
-        "fullPct": 21.94,
-        "gasInStorageTWh": 5.46
-      },
-      {
-        "date": "2026-02-18",
-        "fullPct": 21.61,
-        "gasInStorageTWh": 5.37
-      },
-      {
-        "date": "2026-02-19",
-        "fullPct": 21.25,
-        "gasInStorageTWh": 5.28
-      },
-      {
-        "date": "2026-02-20",
-        "fullPct": 20.93,
-        "gasInStorageTWh": 5.21
-      },
-      {
-        "date": "2026-02-21",
-        "fullPct": 20.79,
-        "gasInStorageTWh": 5.17
-      },
-      {
-        "date": "2026-02-22",
-        "fullPct": 20.58,
-        "gasInStorageTWh": 5.12
-      },
-      {
-        "date": "2026-02-23",
-        "fullPct": 20.29,
-        "gasInStorageTWh": 5.05
-      },
-      {
-        "date": "2026-02-24",
-        "fullPct": 20.03,
-        "gasInStorageTWh": 4.98
-      },
-      {
-        "date": "2026-02-25",
-        "fullPct": 19.87,
-        "gasInStorageTWh": 4.94
-      },
-      {
-        "date": "2026-02-26",
-        "fullPct": 19.74,
-        "gasInStorageTWh": 4.91
-      },
-      {
-        "date": "2026-02-27",
-        "fullPct": 19.72,
-        "gasInStorageTWh": 4.9
-      },
-      {
-        "date": "2026-02-28",
-        "fullPct": 19.72,
-        "gasInStorageTWh": 4.9
-      },
-      {
-        "date": "2026-03-01",
-        "fullPct": 19.72,
-        "gasInStorageTWh": 4.9
-      },
-      {
-        "date": "2026-03-02",
-        "fullPct": 19.72,
-        "gasInStorageTWh": 4.9
-      },
-      {
-        "date": "2026-03-03",
-        "fullPct": 19.77,
-        "gasInStorageTWh": 4.92
-      },
-      {
-        "date": "2026-03-04",
-        "fullPct": 19.9,
-        "gasInStorageTWh": 4.95
-      },
-      {
-        "date": "2026-03-05",
-        "fullPct": 20.03,
-        "gasInStorageTWh": 4.98
-      },
-      {
-        "date": "2026-03-06",
-        "fullPct": 20.13,
-        "gasInStorageTWh": 5
-      },
-      {
-        "date": "2026-03-07",
-        "fullPct": 20.13,
-        "gasInStorageTWh": 5
-      },
-      {
-        "date": "2026-03-08",
-        "fullPct": 20.19,
-        "gasInStorageTWh": 5.02
-      },
-      {
-        "date": "2026-03-09",
-        "fullPct": 20.29,
-        "gasInStorageTWh": 5.05
-      },
-      {
-        "date": "2026-03-10",
-        "fullPct": 20.4,
-        "gasInStorageTWh": 5.07
-      },
-      {
-        "date": "2026-03-11",
-        "fullPct": 20.5,
-        "gasInStorageTWh": 5.1
-      },
-      {
-        "date": "2026-03-12",
-        "fullPct": 20.61,
-        "gasInStorageTWh": 5.12
-      },
-      {
-        "date": "2026-03-13",
-        "fullPct": 20.73,
-        "gasInStorageTWh": 5.15
-      },
-      {
-        "date": "2026-03-14",
-        "fullPct": 20.91,
-        "gasInStorageTWh": 5.2
-      },
-      {
-        "date": "2026-03-15",
-        "fullPct": 21.11,
-        "gasInStorageTWh": 5.25
-      },
-      {
-        "date": "2026-03-16",
-        "fullPct": 21.24,
-        "gasInStorageTWh": 5.28
-      },
-      {
-        "date": "2026-03-17",
-        "fullPct": 21.34,
-        "gasInStorageTWh": 5.31
-      },
-      {
-        "date": "2026-03-18",
-        "fullPct": 21.43,
-        "gasInStorageTWh": 5.33
-      },
-      {
-        "date": "2026-03-19",
-        "fullPct": 21.53,
-        "gasInStorageTWh": 5.35
-      },
-      {
-        "date": "2026-03-20",
-        "fullPct": 21.56,
-        "gasInStorageTWh": 5.36
-      },
-      {
-        "date": "2026-03-21",
-        "fullPct": 21.56,
-        "gasInStorageTWh": 5.36
-      },
-      {
-        "date": "2026-03-22",
-        "fullPct": 21.56,
-        "gasInStorageTWh": 5.36
-      },
-      {
-        "date": "2026-03-23",
-        "fullPct": 21.62,
-        "gasInStorageTWh": 5.38
-      },
-      {
-        "date": "2026-03-24",
-        "fullPct": 21.82,
-        "gasInStorageTWh": 5.43
-      },
-      {
-        "date": "2026-03-25",
-        "fullPct": 22.16,
-        "gasInStorageTWh": 5.51
-      },
-      {
-        "date": "2026-03-26",
-        "fullPct": 22.49,
-        "gasInStorageTWh": 5.59
-      },
-      {
-        "date": "2026-03-27",
-        "fullPct": 22.64,
-        "gasInStorageTWh": 5.63
-      },
-      {
-        "date": "2026-03-28",
-        "fullPct": 22.77,
-        "gasInStorageTWh": 5.66
-      },
-      {
-        "date": "2026-03-29",
-        "fullPct": 22.92,
-        "gasInStorageTWh": 5.7
-      },
-      {
-        "date": "2026-03-30",
-        "fullPct": 23.06,
-        "gasInStorageTWh": 5.74
-      },
-      {
-        "date": "2026-03-31",
-        "fullPct": 23.19,
-        "gasInStorageTWh": 5.77
-      },
-      {
-        "date": "2026-04-01",
-        "fullPct": 22.97,
-        "gasInStorageTWh": 5.71
-      },
-      {
-        "date": "2026-04-02",
-        "fullPct": 22.72,
-        "gasInStorageTWh": 5.65
-      },
-      {
-        "date": "2026-04-03",
-        "fullPct": 22.67,
-        "gasInStorageTWh": 5.64
-      },
-      {
-        "date": "2026-04-04",
-        "fullPct": 23.03,
-        "gasInStorageTWh": 5.73
-      },
-      {
-        "date": "2026-04-05",
-        "fullPct": 23.37,
-        "gasInStorageTWh": 5.81
-      },
-      {
-        "date": "2026-04-06",
-        "fullPct": 23.69,
-        "gasInStorageTWh": 5.89
-      },
-      {
-        "date": "2026-04-07",
-        "fullPct": 23.99,
-        "gasInStorageTWh": 5.96
-      },
-      {
-        "date": "2026-04-08",
-        "fullPct": 24.25,
-        "gasInStorageTWh": 6.03
-      },
-      {
-        "date": "2026-04-09",
-        "fullPct": 24.49,
-        "gasInStorageTWh": 6.09
-      },
-      {
-        "date": "2026-04-10",
-        "fullPct": 24.72,
-        "gasInStorageTWh": 6.15
-      },
-      {
-        "date": "2026-04-11",
-        "fullPct": 25.05,
-        "gasInStorageTWh": 6.23
-      },
-      {
-        "date": "2026-04-12",
-        "fullPct": 25.33,
-        "gasInStorageTWh": 6.3
-      },
-      {
-        "date": "2026-04-13",
-        "fullPct": 25.57,
-        "gasInStorageTWh": 6.36
-      },
-      {
-        "date": "2026-04-14",
-        "fullPct": 25.63,
-        "gasInStorageTWh": 6.37
-      },
-      {
-        "date": "2026-04-15",
-        "fullPct": 25.56,
-        "gasInStorageTWh": 6.36
-      },
-      {
-        "date": "2026-04-16",
-        "fullPct": 25.49,
-        "gasInStorageTWh": 6.34
-      },
-      {
-        "date": "2026-04-17",
-        "fullPct": 25.42,
-        "gasInStorageTWh": 6.32
-      },
-      {
-        "date": "2026-04-18",
-        "fullPct": 25.42,
-        "gasInStorageTWh": 6.32
-      },
-      {
-        "date": "2026-04-19",
-        "fullPct": 25.42,
-        "gasInStorageTWh": 6.32
-      },
-      {
-        "date": "2026-04-20",
-        "fullPct": 25.42,
-        "gasInStorageTWh": 6.32
-      },
-      {
-        "date": "2026-04-21",
-        "fullPct": 25.42,
-        "gasInStorageTWh": 6.32
-      },
-      {
-        "date": "2026-04-22",
-        "fullPct": 25.42,
-        "gasInStorageTWh": 6.32
-      },
-      {
-        "date": "2026-04-23",
-        "fullPct": 25.42,
-        "gasInStorageTWh": 6.32
-      },
-      {
-        "date": "2026-04-24",
-        "fullPct": 25.53,
-        "gasInStorageTWh": 6.35
-      },
-      {
-        "date": "2026-04-25",
-        "fullPct": 25.64,
-        "gasInStorageTWh": 6.37
-      },
-      {
-        "date": "2026-04-26",
-        "fullPct": 25.71,
-        "gasInStorageTWh": 6.39
-      },
-      {
-        "date": "2026-04-27",
-        "fullPct": 25.71,
-        "gasInStorageTWh": 6.39
-      },
-      {
-        "date": "2026-04-28",
-        "fullPct": 25.71,
-        "gasInStorageTWh": 6.39
-      },
-      {
-        "date": "2026-04-29",
-        "fullPct": 25.71,
-        "gasInStorageTWh": 6.39
-      },
-      {
-        "date": "2026-04-30",
-        "fullPct": 25.71,
-        "gasInStorageTWh": 6.39
-      },
-      {
-        "date": "2026-05-01",
-        "fullPct": 26.19,
-        "gasInStorageTWh": 6.39
-      },
-      {
-        "date": "2026-05-02",
-        "fullPct": 26.19,
-        "gasInStorageTWh": 6.39
-      },
-      {
-        "date": "2026-05-03",
-        "fullPct": 26.28,
-        "gasInStorageTWh": 6.41
-      },
-      {
-        "date": "2026-05-04",
-        "fullPct": 26.4,
-        "gasInStorageTWh": 6.44
-      },
-      {
-        "date": "2026-05-05",
-        "fullPct": 26.52,
-        "gasInStorageTWh": 6.47
-      },
-      {
-        "date": "2026-05-06",
-        "fullPct": 26.63,
-        "gasInStorageTWh": 6.5
-      },
-      {
-        "date": "2026-05-07",
-        "fullPct": 26.63,
-        "gasInStorageTWh": 6.5
-      },
-      {
-        "date": "2026-05-08",
-        "fullPct": 26.63,
-        "gasInStorageTWh": 6.5
-      },
-      {
-        "date": "2026-05-09",
-        "fullPct": 26.63,
-        "gasInStorageTWh": 6.5
-      },
-      {
-        "date": "2026-05-10",
-        "fullPct": 26.63,
-        "gasInStorageTWh": 6.5
-      },
-      {
-        "date": "2026-05-11",
-        "fullPct": 26.63,
-        "gasInStorageTWh": 6.5
-      },
-      {
-        "date": "2026-05-12",
-        "fullPct": 26.94,
-        "gasInStorageTWh": 6.57
-      },
-      {
-        "date": "2026-05-13",
-        "fullPct": 27.32,
-        "gasInStorageTWh": 6.67
-      },
-      {
-        "date": "2026-05-14",
-        "fullPct": 27.74,
-        "gasInStorageTWh": 6.77
-      },
-      {
-        "date": "2026-05-15",
-        "fullPct": 28.16,
-        "gasInStorageTWh": 6.87
-      },
-      {
-        "date": "2026-05-16",
-        "fullPct": 28.58,
-        "gasInStorageTWh": 6.97
-      },
-      {
-        "date": "2026-05-17",
-        "fullPct": 28.58,
-        "gasInStorageTWh": 6.97
-      },
-      {
-        "date": "2026-05-18",
-        "fullPct": 29.43,
-        "gasInStorageTWh": 7.18
-      },
-      {
-        "date": "2026-05-19",
-        "fullPct": 29.71,
-        "gasInStorageTWh": 7.25
-      },
-      {
-        "date": "2026-05-20",
-        "fullPct": 29.98,
-        "gasInStorageTWh": 7.32
-      },
-      {
-        "date": "2026-05-21",
-        "fullPct": 30.28,
-        "gasInStorageTWh": 7.39
-      },
-      {
-        "date": "2026-05-22",
-        "fullPct": 30.57,
-        "gasInStorageTWh": 7.46
-      },
-      {
-        "date": "2026-05-23",
-        "fullPct": 30.86,
-        "gasInStorageTWh": 7.53
-      },
-      {
-        "date": "2026-05-24",
-        "fullPct": 31.15,
-        "gasInStorageTWh": 7.6
-      },
-      {
-        "date": "2026-05-25",
-        "fullPct": 31.39,
-        "gasInStorageTWh": 7.66
-      },
-      {
-        "date": "2026-05-26",
-        "fullPct": 31.64,
-        "gasInStorageTWh": 7.72
-      },
-      {
-        "date": "2026-05-27",
-        "fullPct": 31.84,
-        "gasInStorageTWh": 7.77
-      },
-      {
-        "date": "2026-05-28",
-        "fullPct": 32.11,
-        "gasInStorageTWh": 7.84
-      },
-      {
-        "date": "2026-05-29",
-        "fullPct": 32.33,
-        "gasInStorageTWh": 7.89
-      },
-      {
-        "date": "2026-05-30",
-        "fullPct": 32.54,
-        "gasInStorageTWh": 7.94
-      },
-      {
-        "date": "2026-05-31",
-        "fullPct": 32.79,
-        "gasInStorageTWh": 8
-      },
-      {
-        "date": "2026-06-01",
-        "fullPct": 33.04,
-        "gasInStorageTWh": 8.06
-      },
-      {
-        "date": "2026-06-02",
-        "fullPct": 33.38,
-        "gasInStorageTWh": 8.15
-      },
-      {
-        "date": "2026-06-03",
-        "fullPct": 33.76,
-        "gasInStorageTWh": 8.24
-      },
-      {
-        "date": "2026-06-04",
-        "fullPct": 34.14,
-        "gasInStorageTWh": 8.33
-      },
-      {
-        "date": "2026-06-05",
-        "fullPct": 34.52,
-        "gasInStorageTWh": 8.43
-      },
-      {
-        "date": "2026-06-06",
-        "fullPct": 34.7,
-        "gasInStorageTWh": 8.47
-      },
-      {
-        "date": "2026-06-07",
-        "fullPct": 34.96,
-        "gasInStorageTWh": 8.53
-      },
-      {
-        "date": "2026-06-08",
-        "fullPct": 35.09,
-        "gasInStorageTWh": 8.56
-      },
-      {
-        "date": "2026-06-09",
-        "fullPct": 35.2,
-        "gasInStorageTWh": 8.59
-      },
-      {
-        "date": "2026-06-10",
-        "fullPct": 35.32,
-        "gasInStorageTWh": 8.62
-      },
-      {
-        "date": "2026-06-11",
-        "fullPct": 35.44,
-        "gasInStorageTWh": 8.65
-      },
-      {
-        "date": "2026-06-12",
-        "fullPct": 35.56,
-        "gasInStorageTWh": 8.68
-      },
-      {
-        "date": "2026-06-13",
-        "fullPct": 35.68,
-        "gasInStorageTWh": 8.71
-      },
-      {
-        "date": "2026-06-14",
-        "fullPct": 35.8,
-        "gasInStorageTWh": 8.74
-      },
-      {
-        "date": "2026-06-15",
-        "fullPct": 35.94,
-        "gasInStorageTWh": 8.77
-      },
-      {
-        "date": "2026-06-16",
-        "fullPct": 36.08,
-        "gasInStorageTWh": 8.8
-      },
-      {
-        "date": "2026-06-17",
-        "fullPct": 36.21,
-        "gasInStorageTWh": 8.84
-      },
-      {
-        "date": "2026-06-18",
-        "fullPct": 36.35,
-        "gasInStorageTWh": 8.87
-      },
-      {
-        "date": "2026-06-19",
-        "fullPct": 36.48,
-        "gasInStorageTWh": 8.9
-      },
-      {
-        "date": "2026-06-20",
-        "fullPct": 36.62,
-        "gasInStorageTWh": 8.94
-      },
-      {
-        "date": "2026-06-21",
-        "fullPct": 36.75,
-        "gasInStorageTWh": 8.97
-      },
-      {
-        "date": "2026-06-22",
-        "fullPct": 36.9,
-        "gasInStorageTWh": 9.01
-      },
-      {
-        "date": "2026-06-23",
-        "fullPct": 37.05,
-        "gasInStorageTWh": 9.04
-      },
-      {
-        "date": "2026-06-24",
-        "fullPct": 37.2,
-        "gasInStorageTWh": 9.08
-      },
-      {
-        "date": "2026-06-25",
-        "fullPct": 37.41,
-        "gasInStorageTWh": 9.13
-      },
-      {
-        "date": "2026-06-26",
-        "fullPct": 37.63,
-        "gasInStorageTWh": 9.18
-      },
-      {
-        "date": "2026-06-27",
-        "fullPct": 37.82,
-        "gasInStorageTWh": 9.23
-      },
-      {
-        "date": "2026-06-28",
-        "fullPct": 38.01,
-        "gasInStorageTWh": 9.28
-      },
-      {
-        "date": "2026-06-29",
-        "fullPct": 38.09,
-        "gasInStorageTWh": 9.3
-      },
-      {
-        "date": "2026-06-30",
-        "fullPct": 38.21,
-        "gasInStorageTWh": 9.33
-      },
-      {
-        "date": "2026-07-01",
-        "fullPct": 38.35,
-        "gasInStorageTWh": 9.36
-      },
-      {
-        "date": "2026-07-02",
-        "fullPct": 38.58,
-        "gasInStorageTWh": 9.42
-      },
-      {
-        "date": "2026-07-03",
-        "fullPct": 38.81,
-        "gasInStorageTWh": 9.47
-      },
-      {
-        "date": "2026-07-04",
-        "fullPct": 39.06,
-        "gasInStorageTWh": 9.53
-      },
-      {
-        "date": "2026-07-05",
-        "fullPct": 39.33,
-        "gasInStorageTWh": 9.6
-      },
-      {
-        "date": "2026-07-06",
-        "fullPct": 39.59,
-        "gasInStorageTWh": 9.66
-      },
-      {
-        "date": "2026-07-07",
-        "fullPct": 39.85,
-        "gasInStorageTWh": 9.73
-      },
-      {
-        "date": "2026-07-08",
-        "fullPct": 40.11,
-        "gasInStorageTWh": 9.79
-      },
-      {
-        "date": "2026-07-09",
-        "fullPct": 40.37,
-        "gasInStorageTWh": 9.85
-      },
-      {
-        "date": "2026-07-10",
-        "fullPct": 40.63,
-        "gasInStorageTWh": 9.92
-      },
-      {
-        "date": "2026-07-11",
-        "fullPct": 40.96,
-        "gasInStorageTWh": 10
-      },
-      {
-        "date": "2026-07-12",
-        "fullPct": 41.3,
-        "gasInStorageTWh": 10.08
       }
     ],
     "pl": [
