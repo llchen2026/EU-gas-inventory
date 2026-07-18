@@ -156,6 +156,19 @@
       "dayOverDayFullPctChange": 0.28
     },
     {
+      "code": "LV",
+      "name": "Latvia",
+      "gasDayStart": "2026-07-16",
+      "gasInStorageTWh": 10.36,
+      "workingGasVolumeTWh": 24.41,
+      "fullPct": 42.43,
+      "injectionGWhPerDay": 75.73,
+      "withdrawalGWhPerDay": 0,
+      "netWithdrawalGWhPerDay": -75.7,
+      "status": "C",
+      "dayOverDayFullPctChange": 0.31
+    },
+    {
       "code": "PL",
       "name": "Poland",
       "gasDayStart": "2026-07-16",
