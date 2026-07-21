@@ -5463,12 +5463,12 @@
     {
       "date": "2026-07-18",
       "fullPct": 53.73,
-      "gasInStorageTWh": 607.25
+      "gasInStorageTWh": 607.23
     },
     {
       "date": "2026-07-19",
-      "fullPct": 54,
-      "gasInStorageTWh": 610.3
+      "fullPct": 54.02,
+      "gasInStorageTWh": 610.57
     }
   ],
   "countries": {
@@ -16412,8 +16412,8 @@
       },
       {
         "date": "2026-07-19",
-        "fullPct": 72.54,
-        "gasInStorageTWh": 147.57
+        "fullPct": 72.69,
+        "gasInStorageTWh": 147.86
       }
     ],
     "fr": [
@@ -27351,13 +27351,13 @@
       },
       {
         "date": "2026-07-18",
-        "fullPct": 32.36,
-        "gasInStorageTWh": 46.53
+        "fullPct": 32.35,
+        "gasInStorageTWh": 46.51
       },
       {
         "date": "2026-07-19",
-        "fullPct": 32.78,
-        "gasInStorageTWh": 47.13
+        "fullPct": 32.76,
+        "gasInStorageTWh": 47.11
       }
     ],
     "at": [
