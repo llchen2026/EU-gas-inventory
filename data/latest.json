@@ -3,12 +3,12 @@
     "code": "eu",
     "name": "EU",
     "gasDayStart": "2026-07-20",
-    "gasInStorageTWh": 612.62,
+    "gasInStorageTWh": 612.95,
     "workingGasVolumeTWh": 1130.21,
-    "fullPct": 54.2,
-    "injectionGWhPerDay": 2786.93,
-    "withdrawalGWhPerDay": 454.1,
-    "netWithdrawalGWhPerDay": -2332.8,
+    "fullPct": 54.23,
+    "injectionGWhPerDay": 2745.74,
+    "withdrawalGWhPerDay": 389.9,
+    "netWithdrawalGWhPerDay": -2355.9,
     "status": "C"
   },
   "countries": [
@@ -20,8 +20,8 @@
       "workingGasVolumeTWh": 246.49,
       "fullPct": 45.53,
       "injectionGWhPerDay": 274.85,
-      "withdrawalGWhPerDay": 39.8,
-      "netWithdrawalGWhPerDay": -235,
+      "withdrawalGWhPerDay": 39.9,
+      "netWithdrawalGWhPerDay": -234.9,
       "status": "C",
       "dayOverDayFullPctChange": 0.1
     },
@@ -29,14 +29,14 @@
       "code": "IT",
       "name": "Italy",
       "gasDayStart": "2026-07-20",
-      "gasInStorageTWh": 147.91,
+      "gasInStorageTWh": 148.24,
       "workingGasVolumeTWh": 203.42,
-      "fullPct": 72.71,
-      "injectionGWhPerDay": 444.21,
-      "withdrawalGWhPerDay": 97.8,
-      "netWithdrawalGWhPerDay": -346.4,
+      "fullPct": 72.87,
+      "injectionGWhPerDay": 403.02,
+      "withdrawalGWhPerDay": 34.4,
+      "netWithdrawalGWhPerDay": -368.6,
       "status": "C",
-      "dayOverDayFullPctChange": 0.02
+      "dayOverDayFullPctChange": 0.18
     },
     {
       "code": "FR",
@@ -189,8 +189,8 @@
       "workingGasVolumeTWh": 3.57,
       "fullPct": 91.17,
       "injectionGWhPerDay": 0,
-      "withdrawalGWhPerDay": 41.1,
-      "netWithdrawalGWhPerDay": 41.1,
+      "withdrawalGWhPerDay": 40.2,
+      "netWithdrawalGWhPerDay": 40.2,
       "status": "C",
       "dayOverDayFullPctChange": -1.15
     },
@@ -206,6 +206,19 @@
       "netWithdrawalGWhPerDay": -117.1,
       "status": "C",
       "dayOverDayFullPctChange": 0.35
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "gasDayStart": "2026-07-20",
+      "gasInStorageTWh": 0.01,
+      "workingGasVolumeTWh": 0.08,
+      "fullPct": 11.51,
+      "injectionGWhPerDay": 0,
+      "withdrawalGWhPerDay": 0,
+      "netWithdrawalGWhPerDay": 0,
+      "status": "C",
+      "dayOverDayFullPctChange": 0
     },
     {
       "code": "SK",
