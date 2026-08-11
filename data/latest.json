@@ -6,10 +6,10 @@
     "gasInStorageTWh": 668.23,
     "workingGasVolumeTWh": 1130.21,
     "fullPct": 59.12,
-    "injectionGWhPerDay": 3423.98,
+    "injectionGWhPerDay": 3423.97,
     "withdrawalGWhPerDay": 168.3,
     "netWithdrawalGWhPerDay": -3255.7,
-    "status": "E"
+    "status": "C"
   },
   "countries": [
     {
@@ -19,10 +19,10 @@
       "gasInStorageTWh": 119.42,
       "workingGasVolumeTWh": 246.49,
       "fullPct": 48.45,
-      "injectionGWhPerDay": 666.25,
+      "injectionGWhPerDay": 666.24,
       "withdrawalGWhPerDay": 12.2,
-      "netWithdrawalGWhPerDay": -654.1,
-      "status": "E",
+      "netWithdrawalGWhPerDay": -654,
+      "status": "C",
       "dayOverDayFullPctChange": 0.27
     },
     {
@@ -88,7 +88,7 @@
       "withdrawalGWhPerDay": 0,
       "netWithdrawalGWhPerDay": -44.5,
       "status": "C",
-      "dayOverDayFullPctChange": 0.54
+      "dayOverDayFullPctChange": 0.58
     },
     {
       "code": "CZ",
