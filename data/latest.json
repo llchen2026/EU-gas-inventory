@@ -3,13 +3,13 @@
     "code": "eu",
     "name": "EU",
     "gasDayStart": "2026-08-15",
-    "gasInStorageTWh": 686.99,
+    "gasInStorageTWh": 687.02,
     "workingGasVolumeTWh": 1130.21,
-    "fullPct": 60.78,
-    "injectionGWhPerDay": 3766.29,
-    "withdrawalGWhPerDay": 221.3,
-    "netWithdrawalGWhPerDay": -3545,
-    "status": "E"
+    "fullPct": 60.79,
+    "injectionGWhPerDay": 3770.73,
+    "withdrawalGWhPerDay": 227.3,
+    "netWithdrawalGWhPerDay": -3543.4,
+    "status": "C"
   },
   "countries": [
     {
@@ -18,12 +18,12 @@
       "gasDayStart": "2026-08-15",
       "gasInStorageTWh": 122.44,
       "workingGasVolumeTWh": 246.49,
-      "fullPct": 49.68,
-      "injectionGWhPerDay": 537.26,
-      "withdrawalGWhPerDay": 2.9,
-      "netWithdrawalGWhPerDay": -534.3,
-      "status": "E",
-      "dayOverDayFullPctChange": 0.25
+      "fullPct": 49.67,
+      "injectionGWhPerDay": 538.38,
+      "withdrawalGWhPerDay": 8.9,
+      "netWithdrawalGWhPerDay": -529.4,
+      "status": "C",
+      "dayOverDayFullPctChange": 0.24
     },
     {
       "code": "IT",
@@ -120,14 +120,14 @@
       "code": "ES",
       "name": "Spain",
       "gasDayStart": "2026-08-15",
-      "gasInStorageTWh": 26.23,
+      "gasInStorageTWh": 26.24,
       "workingGasVolumeTWh": 35.83,
-      "fullPct": 73.19,
-      "injectionGWhPerDay": 36.01,
+      "fullPct": 73.22,
+      "injectionGWhPerDay": 39.33,
       "withdrawalGWhPerDay": 0,
-      "netWithdrawalGWhPerDay": -36,
-      "status": "E",
-      "dayOverDayFullPctChange": 0.1
+      "netWithdrawalGWhPerDay": -39.3,
+      "status": "C",
+      "dayOverDayFullPctChange": 0.11
     },
     {
       "code": "HR",
@@ -185,14 +185,14 @@
       "code": "PT",
       "name": "Portugal",
       "gasDayStart": "2026-08-15",
-      "gasInStorageTWh": 3.07,
+      "gasInStorageTWh": 3.1,
       "workingGasVolumeTWh": 3.57,
-      "fullPct": 86.06,
+      "fullPct": 86.72,
       "injectionGWhPerDay": 21.36,
       "withdrawalGWhPerDay": 0,
       "netWithdrawalGWhPerDay": -21.4,
       "status": "C",
-      "dayOverDayFullPctChange": 0.6
+      "dayOverDayFullPctChange": 0.59
     },
     {
       "code": "RO",
