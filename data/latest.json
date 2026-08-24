@@ -3,13 +3,13 @@
     "code": "eu",
     "name": "EU",
     "gasDayStart": "2026-08-22",
-    "gasInStorageTWh": 697.15,
+    "gasInStorageTWh": 708.03,
     "workingGasVolumeTWh": 1130.26,
-    "fullPct": 61.68,
-    "injectionGWhPerDay": 3714.5,
-    "withdrawalGWhPerDay": 99.2,
+    "fullPct": 62.64,
+    "injectionGWhPerDay": 3714.46,
+    "withdrawalGWhPerDay": 99.1,
     "netWithdrawalGWhPerDay": -3615.3,
-    "status": "E"
+    "status": "C"
   },
   "countries": [
     {
@@ -19,10 +19,10 @@
       "gasInStorageTWh": 125.01,
       "workingGasVolumeTWh": 246.54,
       "fullPct": 50.71,
-      "injectionGWhPerDay": 597.2,
+      "injectionGWhPerDay": 597.11,
       "withdrawalGWhPerDay": 0.3,
-      "netWithdrawalGWhPerDay": -596.9,
-      "status": "E",
+      "netWithdrawalGWhPerDay": -596.8,
+      "status": "C",
       "dayOverDayFullPctChange": 0.28
     },
     {
@@ -123,10 +123,10 @@
       "gasInStorageTWh": 26.32,
       "workingGasVolumeTWh": 35.83,
       "fullPct": 73.45,
-      "injectionGWhPerDay": 0,
+      "injectionGWhPerDay": 0.06,
       "withdrawalGWhPerDay": 0,
-      "netWithdrawalGWhPerDay": 0,
-      "status": "E",
+      "netWithdrawalGWhPerDay": -0.1,
+      "status": "C",
       "dayOverDayFullPctChange": 0
     },
     {
@@ -159,14 +159,14 @@
       "code": "LV",
       "name": "Latvia",
       "gasDayStart": "2026-08-22",
-      "gasInStorageTWh": 0,
+      "gasInStorageTWh": 10.86,
       "workingGasVolumeTWh": 24.41,
-      "fullPct": 0,
+      "fullPct": 44.49,
       "injectionGWhPerDay": 12.99,
       "withdrawalGWhPerDay": 0,
       "netWithdrawalGWhPerDay": -13,
       "status": "C",
-      "dayOverDayFullPctChange": -44.44
+      "dayOverDayFullPctChange": 0.05
     },
     {
       "code": "PL",
@@ -185,14 +185,14 @@
       "code": "PT",
       "name": "Portugal",
       "gasDayStart": "2026-08-22",
-      "gasInStorageTWh": 3.22,
+      "gasInStorageTWh": 3.24,
       "workingGasVolumeTWh": 3.57,
-      "fullPct": 90.07,
+      "fullPct": 90.72,
       "injectionGWhPerDay": 22.19,
       "withdrawalGWhPerDay": 0,
       "netWithdrawalGWhPerDay": -22.2,
       "status": "C",
-      "dayOverDayFullPctChange": 0.62
+      "dayOverDayFullPctChange": 0.63
     },
     {
       "code": "RO",
@@ -206,6 +206,19 @@
       "netWithdrawalGWhPerDay": -131.7,
       "status": "C",
       "dayOverDayFullPctChange": 0.39
+    },
+    {
+      "code": "SE",
+      "name": "Sweden",
+      "gasDayStart": "2026-08-22",
+      "gasInStorageTWh": 0.04,
+      "workingGasVolumeTWh": 0.08,
+      "fullPct": 50.34,
+      "injectionGWhPerDay": 0,
+      "withdrawalGWhPerDay": 0,
+      "netWithdrawalGWhPerDay": 0,
+      "status": "C",
+      "dayOverDayFullPctChange": 0
     },
     {
       "code": "SK",
