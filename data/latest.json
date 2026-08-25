@@ -6,9 +6,9 @@
     "gasInStorageTWh": 711.92,
     "workingGasVolumeTWh": 1130.26,
     "fullPct": 62.99,
-    "injectionGWhPerDay": 3915.83,
+    "injectionGWhPerDay": 3915.36,
     "withdrawalGWhPerDay": 127.4,
-    "netWithdrawalGWhPerDay": -3788.4,
+    "netWithdrawalGWhPerDay": -3788,
     "status": "C"
   },
   "countries": [
@@ -187,10 +187,10 @@
       "gasDayStart": "2026-08-23",
       "gasInStorageTWh": 3.25,
       "workingGasVolumeTWh": 3.57,
-      "fullPct": 91.04,
-      "injectionGWhPerDay": 11.69,
+      "fullPct": 90.97,
+      "injectionGWhPerDay": 11.22,
       "withdrawalGWhPerDay": 0,
-      "netWithdrawalGWhPerDay": -11.7,
+      "netWithdrawalGWhPerDay": -11.2,
       "status": "C",
       "dayOverDayFullPctChange": 0.32
     },
