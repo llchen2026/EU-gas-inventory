@@ -5467,8 +5467,8 @@
     },
     {
       "date": "2026-08-28",
-      "fullPct": 64.38,
-      "gasInStorageTWh": 727.64
+      "fullPct": 64.37,
+      "gasInStorageTWh": 727.6
     }
   ],
   "countries": {
@@ -32828,8 +32828,8 @@
       },
       {
         "date": "2026-08-28",
-        "fullPct": 66.1,
-        "gasInStorageTWh": 66.29
+        "fullPct": 66.06,
+        "gasInStorageTWh": 66.25
       }
     ],
     "be": [
