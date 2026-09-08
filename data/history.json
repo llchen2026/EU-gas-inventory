@@ -5463,12 +5463,17 @@
     {
       "date": "2026-09-05",
       "fullPct": 66.59,
-      "gasInStorageTWh": 753.47
+      "gasInStorageTWh": 753.48
     },
     {
       "date": "2026-09-06",
       "fullPct": 66.9,
       "gasInStorageTWh": 757.07
+    },
+    {
+      "date": "2026-09-07",
+      "fullPct": 67.12,
+      "gasInStorageTWh": 759.53
     }
   ],
   "countries": {
@@ -10941,7 +10946,12 @@
       {
         "date": "2026-09-06",
         "fullPct": 54.52,
-        "gasInStorageTWh": 134.93
+        "gasInStorageTWh": 134.94
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 54.75,
+        "gasInStorageTWh": 135.51
       }
     ],
     "it": [
@@ -16414,6 +16424,11 @@
         "date": "2026-09-06",
         "fullPct": 83.91,
         "gasInStorageTWh": 170.7
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 84.01,
+        "gasInStorageTWh": 170.9
       }
     ],
     "fr": [
@@ -21886,6 +21901,11 @@
         "date": "2026-09-06",
         "fullPct": 73.89,
         "gasInStorageTWh": 91.53
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 74.26,
+        "gasInStorageTWh": 92
       }
     ],
     "nl": [
@@ -27358,6 +27378,11 @@
         "date": "2026-09-06",
         "fullPct": 50.02,
         "gasInStorageTWh": 72.04
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 50.39,
+        "gasInStorageTWh": 72.58
       }
     ],
     "at": [
@@ -32830,6 +32855,11 @@
         "date": "2026-09-06",
         "fullPct": 67.45,
         "gasInStorageTWh": 67.64
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 67.47,
+        "gasInStorageTWh": 67.66
       }
     ],
     "be": [
@@ -38300,8 +38330,13 @@
       },
       {
         "date": "2026-09-06",
-        "fullPct": 58.02,
-        "gasInStorageTWh": 4.42
+        "fullPct": 57.98,
+        "gasInStorageTWh": 4.41
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 58.28,
+        "gasInStorageTWh": 4.43
       }
     ],
     "cz": [
@@ -43774,6 +43809,11 @@
         "date": "2026-09-06",
         "fullPct": 72.48,
         "gasInStorageTWh": 32.84
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 72.66,
+        "gasInStorageTWh": 32.92
       }
     ],
     "dk": [
@@ -49246,6 +49286,11 @@
         "date": "2026-09-06",
         "fullPct": 77.01,
         "gasInStorageTWh": 6.61
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 77.33,
+        "gasInStorageTWh": 6.64
       }
     ],
     "es": [
@@ -54716,6 +54761,11 @@
       },
       {
         "date": "2026-09-06",
+        "fullPct": 73.44,
+        "gasInStorageTWh": 26.32
+      },
+      {
+        "date": "2026-09-07",
         "fullPct": 73.44,
         "gasInStorageTWh": 26.32
       }
@@ -60190,6 +60240,11 @@
         "date": "2026-09-06",
         "fullPct": 76.81,
         "gasInStorageTWh": 3.67
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 77.2,
+        "gasInStorageTWh": 3.68
       }
     ],
     "hu": [
@@ -65662,6 +65717,11 @@
         "date": "2026-09-06",
         "fullPct": 70.77,
         "gasInStorageTWh": 47.91
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 71.01,
+        "gasInStorageTWh": 48.08
       }
     ],
     "lv": [
@@ -71132,6 +71192,11 @@
       },
       {
         "date": "2026-09-06",
+        "fullPct": 45.94,
+        "gasInStorageTWh": 11.21
+      },
+      {
+        "date": "2026-09-07",
         "fullPct": 45.94,
         "gasInStorageTWh": 11.21
       }
@@ -76606,6 +76671,11 @@
         "date": "2026-09-06",
         "fullPct": 96.16,
         "gasInStorageTWh": 35.43
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 96.52,
+        "gasInStorageTWh": 35.57
       }
     ],
     "pt": [
@@ -82076,6 +82146,11 @@
       },
       {
         "date": "2026-09-06",
+        "fullPct": 93.11,
+        "gasInStorageTWh": 3.32
+      },
+      {
+        "date": "2026-09-07",
         "fullPct": 93.11,
         "gasInStorageTWh": 3.32
       }
@@ -87550,6 +87625,11 @@
         "date": "2026-09-06",
         "fullPct": 73.57,
         "gasInStorageTWh": 24.91
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 73.92,
+        "gasInStorageTWh": 25.03
       }
     ],
     "se": [
@@ -93020,6 +93100,11 @@
       },
       {
         "date": "2026-09-06",
+        "fullPct": 67.48,
+        "gasInStorageTWh": 0.06
+      },
+      {
+        "date": "2026-09-07",
         "fullPct": 67.48,
         "gasInStorageTWh": 0.06
       }
@@ -98494,6 +98579,11 @@
         "date": "2026-09-06",
         "fullPct": 51.51,
         "gasInStorageTWh": 18.98
+      },
+      {
+        "date": "2026-09-07",
+        "fullPct": 51.63,
+        "gasInStorageTWh": 19.02
       }
     ]
   }
