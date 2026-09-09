@@ -3,12 +3,12 @@
     "code": "eu",
     "name": "EU",
     "gasDayStart": "2026-09-07",
-    "gasInStorageTWh": 759.53,
+    "gasInStorageTWh": 759.52,
     "workingGasVolumeTWh": 1131.57,
     "fullPct": 67.12,
-    "injectionGWhPerDay": 2698.73,
-    "withdrawalGWhPerDay": 186.2,
-    "netWithdrawalGWhPerDay": -2512.5,
+    "injectionGWhPerDay": 2694.27,
+    "withdrawalGWhPerDay": 189.5,
+    "netWithdrawalGWhPerDay": -2504.7,
     "status": "E"
   },
   "countries": [
@@ -16,13 +16,13 @@
       "code": "DE",
       "name": "Germany",
       "gasDayStart": "2026-09-07",
-      "gasInStorageTWh": 135.51,
+      "gasInStorageTWh": 135.5,
       "workingGasVolumeTWh": 247.49,
       "fullPct": 54.75,
-      "injectionGWhPerDay": 584.81,
-      "withdrawalGWhPerDay": 9.2,
-      "netWithdrawalGWhPerDay": -575.6,
-      "status": "E",
+      "injectionGWhPerDay": 572.38,
+      "withdrawalGWhPerDay": 12.6,
+      "netWithdrawalGWhPerDay": -559.8,
+      "status": "C",
       "dayOverDayFullPctChange": 0.23
     },
     {
@@ -68,14 +68,14 @@
       "code": "AT",
       "name": "Austria",
       "gasDayStart": "2026-09-07",
-      "gasInStorageTWh": 67.66,
+      "gasInStorageTWh": 67.67,
       "workingGasVolumeTWh": 100.28,
-      "fullPct": 67.47,
-      "injectionGWhPerDay": 67.85,
+      "fullPct": 67.48,
+      "injectionGWhPerDay": 78.67,
       "withdrawalGWhPerDay": 43.8,
-      "netWithdrawalGWhPerDay": -24.1,
-      "status": "E",
-      "dayOverDayFullPctChange": 0.02
+      "netWithdrawalGWhPerDay": -34.9,
+      "status": "C",
+      "dayOverDayFullPctChange": 0.03
     },
     {
       "code": "BE",
@@ -83,12 +83,12 @@
       "gasDayStart": "2026-09-07",
       "gasInStorageTWh": 4.43,
       "workingGasVolumeTWh": 7.61,
-      "fullPct": 58.28,
-      "injectionGWhPerDay": 19.65,
+      "fullPct": 58.2,
+      "injectionGWhPerDay": 16.8,
       "withdrawalGWhPerDay": 0,
-      "netWithdrawalGWhPerDay": -19.6,
+      "netWithdrawalGWhPerDay": -16.8,
       "status": "E",
-      "dayOverDayFullPctChange": 0.3
+      "dayOverDayFullPctChange": 0.22
     },
     {
       "code": "CZ",
