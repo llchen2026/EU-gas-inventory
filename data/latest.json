@@ -13,6 +13,19 @@
   },
   "countries": [
     {
+      "code": "DE",
+      "name": "Germany",
+      "gasDayStart": "2026-09-15",
+      "gasInStorageTWh": 138.49,
+      "workingGasVolumeTWh": 247.49,
+      "fullPct": 55.95,
+      "injectionGWhPerDay": 143.42,
+      "withdrawalGWhPerDay": 71,
+      "netWithdrawalGWhPerDay": -72.4,
+      "status": "E",
+      "dayOverDayFullPctChange": 0.02
+    },
+    {
       "code": "IT",
       "name": "Italy",
       "gasDayStart": "2026-09-15",
