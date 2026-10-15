@@ -1,11 +1,6 @@
 {
   "eu": [
     {
-      "date": "2023-10-15",
-      "fullPct": 97.92,
-      "gasInStorageTWh": 1116.19
-    },
-    {
       "date": "2023-10-16",
       "fullPct": 97.94,
       "gasInStorageTWh": 1116.51
@@ -5479,11 +5474,6 @@
   "countries": {
     "de": [
       {
-        "date": "2023-10-15",
-        "fullPct": 98.39,
-        "gasInStorageTWh": 250.57
-      },
-      {
         "date": "2023-10-16",
         "fullPct": 98.42,
         "gasInStorageTWh": 250.68
@@ -10955,11 +10945,6 @@
       }
     ],
     "it": [
-      {
-        "date": "2023-10-15",
-        "fullPct": 97.84,
-        "gasInStorageTWh": 191.88
-      },
       {
         "date": "2023-10-16",
         "fullPct": 97.89,
@@ -16433,11 +16418,6 @@
     ],
     "fr": [
       {
-        "date": "2023-10-15",
-        "fullPct": 97.83,
-        "gasInStorageTWh": 131.44
-      },
-      {
         "date": "2023-10-16",
         "fullPct": 97.93,
         "gasInStorageTWh": 131.57
@@ -21909,11 +21889,6 @@
       }
     ],
     "nl": [
-      {
-        "date": "2023-10-15",
-        "fullPct": 97.76,
-        "gasInStorageTWh": 139.34
-      },
       {
         "date": "2023-10-16",
         "fullPct": 97.72,
@@ -27387,11 +27362,6 @@
     ],
     "at": [
       {
-        "date": "2023-10-15",
-        "fullPct": 97.73,
-        "gasInStorageTWh": 95.43
-      },
-      {
         "date": "2023-10-16",
         "fullPct": 97.77,
         "gasInStorageTWh": 95.47
@@ -32863,11 +32833,6 @@
       }
     ],
     "be": [
-      {
-        "date": "2023-10-15",
-        "fullPct": 100.13,
-        "gasInStorageTWh": 8.84
-      },
       {
         "date": "2023-10-16",
         "fullPct": 100.15,
@@ -38341,11 +38306,6 @@
     ],
     "cz": [
       {
-        "date": "2023-10-15",
-        "fullPct": 98.38,
-        "gasInStorageTWh": 44.06
-      },
-      {
         "date": "2023-10-16",
         "fullPct": 98.41,
         "gasInStorageTWh": 44.07
@@ -43817,11 +43777,6 @@
       }
     ],
     "dk": [
-      {
-        "date": "2023-10-15",
-        "fullPct": 97.59,
-        "gasInStorageTWh": 9.69
-      },
       {
         "date": "2023-10-16",
         "fullPct": 97.34,
@@ -49295,11 +49250,6 @@
     ],
     "es": [
       {
-        "date": "2023-10-15",
-        "fullPct": 100.41,
-        "gasInStorageTWh": 34.23
-      },
-      {
         "date": "2023-10-16",
         "fullPct": 100.41,
         "gasInStorageTWh": 34.23
@@ -54771,11 +54721,6 @@
       }
     ],
     "hr": [
-      {
-        "date": "2023-10-15",
-        "fullPct": 96.16,
-        "gasInStorageTWh": 4.59
-      },
       {
         "date": "2023-10-16",
         "fullPct": 96.19,
@@ -60249,11 +60194,6 @@
     ],
     "hu": [
       {
-        "date": "2023-10-15",
-        "fullPct": 96.52,
-        "gasInStorageTWh": 67.63
-      },
-      {
         "date": "2023-10-16",
         "fullPct": 96.56,
         "gasInStorageTWh": 67.66
@@ -65725,11 +65665,6 @@
       }
     ],
     "lv": [
-      {
-        "date": "2023-10-15",
-        "fullPct": 88.95,
-        "gasInStorageTWh": 21.7
-      },
       {
         "date": "2023-10-16",
         "fullPct": 88.98,
@@ -71203,11 +71138,6 @@
     ],
     "pl": [
       {
-        "date": "2023-10-15",
-        "fullPct": 99.01,
-        "gasInStorageTWh": 37.14
-      },
-      {
         "date": "2023-10-16",
         "fullPct": 98.81,
         "gasInStorageTWh": 37.07
@@ -76679,11 +76609,6 @@
       }
     ],
     "pt": [
-      {
-        "date": "2023-10-15",
-        "fullPct": 100.35,
-        "gasInStorageTWh": 3.58
-      },
       {
         "date": "2023-10-16",
         "fullPct": 101.06,
@@ -82157,11 +82082,6 @@
     ],
     "ro": [
       {
-        "date": "2023-10-15",
-        "fullPct": 100.83,
-        "gasInStorageTWh": 34.14
-      },
-      {
         "date": "2023-10-16",
         "fullPct": 100.95,
         "gasInStorageTWh": 34.19
@@ -87634,11 +87554,6 @@
     ],
     "se": [
       {
-        "date": "2023-10-15",
-        "fullPct": 95.31,
-        "gasInStorageTWh": 0.1
-      },
-      {
         "date": "2023-10-16",
         "fullPct": 95.32,
         "gasInStorageTWh": 0.1
@@ -93110,11 +93025,6 @@
       }
     ],
     "sk": [
-      {
-        "date": "2023-10-15",
-        "fullPct": 98.07,
-        "gasInStorageTWh": 36.11
-      },
       {
         "date": "2023-10-16",
         "fullPct": 97.85,
