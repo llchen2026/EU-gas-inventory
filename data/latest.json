@@ -3,12 +3,12 @@
     "code": "eu",
     "name": "EU",
     "gasDayStart": "2026-10-15",
-    "gasInStorageTWh": 840.82,
+    "gasInStorageTWh": 840.8,
     "workingGasVolumeTWh": 1132.89,
     "fullPct": 74.22,
     "injectionGWhPerDay": 1840.93,
-    "withdrawalGWhPerDay": 948.5,
-    "netWithdrawalGWhPerDay": -892.5,
+    "withdrawalGWhPerDay": 969.1,
+    "netWithdrawalGWhPerDay": -871.9,
     "status": "E"
   },
   "countries": [
@@ -16,12 +16,12 @@
       "code": "DE",
       "name": "Germany",
       "gasDayStart": "2026-10-15",
-      "gasInStorageTWh": 149.95,
+      "gasInStorageTWh": 149.94,
       "workingGasVolumeTWh": 247.36,
       "fullPct": 60.62,
       "injectionGWhPerDay": 472.89,
-      "withdrawalGWhPerDay": 146.1,
-      "netWithdrawalGWhPerDay": -326.8,
+      "withdrawalGWhPerDay": 152.6,
+      "netWithdrawalGWhPerDay": -320.3,
       "status": "E",
       "dayOverDayFullPctChange": 0.13
     },
@@ -68,14 +68,14 @@
       "code": "AT",
       "name": "Austria",
       "gasDayStart": "2026-10-15",
-      "gasInStorageTWh": 69.31,
+      "gasInStorageTWh": 69.3,
       "workingGasVolumeTWh": 100.28,
-      "fullPct": 69.12,
+      "fullPct": 69.1,
       "injectionGWhPerDay": 17.05,
-      "withdrawalGWhPerDay": 146.5,
-      "netWithdrawalGWhPerDay": 129.5,
-      "status": "E",
-      "dayOverDayFullPctChange": -0.12
+      "withdrawalGWhPerDay": 160.7,
+      "netWithdrawalGWhPerDay": 143.6,
+      "status": "C",
+      "dayOverDayFullPctChange": -0.14
     },
     {
       "code": "BE",
@@ -115,19 +115,6 @@
       "netWithdrawalGWhPerDay": -28.8,
       "status": "C",
       "dayOverDayFullPctChange": 0.33
-    },
-    {
-      "code": "ES",
-      "name": "Spain",
-      "gasDayStart": "2026-10-15",
-      "gasInStorageTWh": 27.93,
-      "workingGasVolumeTWh": 35.83,
-      "fullPct": 77.94,
-      "injectionGWhPerDay": 51.04,
-      "withdrawalGWhPerDay": 0,
-      "netWithdrawalGWhPerDay": -51,
-      "status": "C",
-      "dayOverDayFullPctChange": 0.14
     },
     {
       "code": "HR",
