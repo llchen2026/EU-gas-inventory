@@ -3,12 +3,12 @@
     "code": "eu",
     "name": "EU",
     "gasDayStart": "2026-10-17",
-    "gasInStorageTWh": 843.56,
+    "gasInStorageTWh": 843.65,
     "workingGasVolumeTWh": 1132.89,
-    "fullPct": 74.46,
-    "injectionGWhPerDay": 2230.78,
-    "withdrawalGWhPerDay": 515.9,
-    "netWithdrawalGWhPerDay": -1714.9,
+    "fullPct": 74.47,
+    "injectionGWhPerDay": 2265.37,
+    "withdrawalGWhPerDay": 460.3,
+    "netWithdrawalGWhPerDay": -1805,
     "status": "E"
   },
   "countries": [
@@ -16,14 +16,14 @@
       "code": "DE",
       "name": "Germany",
       "gasDayStart": "2026-10-17",
-      "gasInStorageTWh": 150.87,
+      "gasInStorageTWh": 150.91,
       "workingGasVolumeTWh": 247.36,
-      "fullPct": 60.99,
-      "injectionGWhPerDay": 707.19,
-      "withdrawalGWhPerDay": 28.6,
-      "netWithdrawalGWhPerDay": -678.6,
+      "fullPct": 61.01,
+      "injectionGWhPerDay": 741.77,
+      "withdrawalGWhPerDay": 21.9,
+      "netWithdrawalGWhPerDay": -719.9,
       "status": "E",
-      "dayOverDayFullPctChange": 0.27
+      "dayOverDayFullPctChange": 0.29
     },
     {
       "code": "IT",
@@ -68,14 +68,14 @@
       "code": "AT",
       "name": "Austria",
       "gasDayStart": "2026-10-17",
-      "gasInStorageTWh": 69.28,
+      "gasInStorageTWh": 69.33,
       "workingGasVolumeTWh": 100.28,
-      "fullPct": 69.09,
+      "fullPct": 69.14,
       "injectionGWhPerDay": 122.18,
-      "withdrawalGWhPerDay": 96.5,
-      "netWithdrawalGWhPerDay": -25.7,
-      "status": "E",
-      "dayOverDayFullPctChange": 0.03
+      "withdrawalGWhPerDay": 47.7,
+      "netWithdrawalGWhPerDay": -74.5,
+      "status": "C",
+      "dayOverDayFullPctChange": 0.08
     },
     {
       "code": "BE",
@@ -166,19 +166,6 @@
       "withdrawalGWhPerDay": 21.6,
       "netWithdrawalGWhPerDay": -0.6,
       "status": "E",
-      "dayOverDayFullPctChange": 0.01
-    },
-    {
-      "code": "PL",
-      "name": "Poland",
-      "gasDayStart": "2026-10-17",
-      "gasInStorageTWh": 36.43,
-      "workingGasVolumeTWh": 36.85,
-      "fullPct": 98.87,
-      "injectionGWhPerDay": 6.53,
-      "withdrawalGWhPerDay": 1,
-      "netWithdrawalGWhPerDay": -5.6,
-      "status": "C",
       "dayOverDayFullPctChange": 0.01
     },
     {
