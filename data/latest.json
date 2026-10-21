@@ -65,19 +65,6 @@
       "dayOverDayFullPctChange": 0.09
     },
     {
-      "code": "AT",
-      "name": "Austria",
-      "gasDayStart": "2026-10-19",
-      "gasInStorageTWh": 69.28,
-      "workingGasVolumeTWh": 100.28,
-      "fullPct": 69.09,
-      "injectionGWhPerDay": 33.66,
-      "withdrawalGWhPerDay": 130.6,
-      "netWithdrawalGWhPerDay": 96.9,
-      "status": "C",
-      "dayOverDayFullPctChange": -0.1
-    },
-    {
       "code": "BE",
       "name": "Belgium",
       "gasDayStart": "2026-10-19",
